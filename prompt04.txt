@@ -1,0 +1,11 @@
+Ultra Realistic Cinematic Double Exposure Portrait, NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DON'T TOUCH JAWLINE, DON'T CHANGE EYES, DON'T CHANGE NOSE, DON'T CHANGE LIPS, KEEP ORIGINAL FACIAL STRUCTURE 100%, preserve identity perfectly.
+
+Create an ultra premium stylish poster edit featuring the exact same person from the uploaded image. A giant close-up portrait dominates the background, wearing luxury black sunglasses, messy voluminous textured hairstyle, detailed beard and mustache, sharp masculine facial features, confident expression, ultra realistic skin texture, highly detailed hair strands, cinematic sunset lighting.
+
+In the foreground, the same person sits confidently on ancient stone steps, wearing a premium black formal shirt with rolled sleeves, tailored grey trousers, luxury black loafers, stylish fashion model pose, one hand resting naturally, direct eye contact with camera. Massive artistic double exposure composition with oversized face portrait behind the sitting version.
+
+Golden sunset sky background, warm orange and pink gradient atmosphere, flying birds in distance, cinematic depth of field, luxury editorial fashion photography, dramatic rim light, ultra realistic shadows, professional color grading, HDR quality, sharp focus, realistic skin pores, natural facial texture, premium fashion magazine cover style, highly detailed fabric folds, realistic reflections on sunglasses, masterpiece composition.
+
+Ultra detailed face preservation, 8K resolution, hyper realistic portrait photography, DSLR quality, professional photography, cinematic color tones, volumetric lighting, global illumination, ray tracing, depth blur, bokeh effect, luxury poster design, trending social media edit, viral aesthetic look, photorealistic rendering, maximum detail, ultra sharp image, realistic environment, perfect composition.
+
+--ar 9:16 --quality 2 --stylize 750 --v 6 --8k --ultra detailed
