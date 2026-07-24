@@ -1,0 +1,51 @@
+Create an ultra-premium cinematic Mahadev devotee editorial portrait using the uploaded person's face as the ONLY face reference.
+
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrows, eyebrow thickness, eye shape, eye spacing, eyelids, eyelashes, iris color, eye highlights, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, skin tone, facial proportions, hairstyle, hairline, hair density, hair texture, age appearance, gaze direction, expression, head angle and facial geometry. Do not beautify, stylize, reshape, smooth, age-up, age-down or modify any facial feature. Face Identity Lock 100%, Face Structure Lock 100%, Face Proportion Lock 100%, Eye Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Expression Lock 100%.
+
+SKIN TONE LOCK:
+Preserve the exact full-body skin tone from the uploaded face reference. Healthy naturally bright medium-fair wheatish complexion with a soft warm ivory-beige undertone, evenly matching from face, neck, shoulders, chest, arms, hands, legs and feet. Natural youthful skin texture with realistic fine pores, soft satin finish, subtle warm blush across cheeks, nose and ears, balanced natural highlights and realistic shadows, no whitening, no artificial beauty filter, no plastic skin, no orange cast, no gray cast, no yellow cast.
+
+LIPS LOCK:
+Natural soft muted rosy pink lips with a slightly warm nude tint, realistic hydrated texture, naturally defined cupid's bow, soft satin finish, no glossy lipstick, no oversaturated color.
+
+EYES LOCK:
+Deep warm brown eyes with crystal-clear irises, natural catchlights, realistic eyelashes, calm spiritual expression, identical gaze direction.
+
+HAIR LOCK:
+Identical long dark wavy hair gathered into a high Shiva-inspired matted bun (jata), natural volume, loose textured strands, realistic individual hair fibers, crescent moon ornament fixed in the bun, identical hairstyle and flow.
+
+BODY & SACRED MARKINGS LOCK:
+Athletic lean physique, naturally defined muscles, realistic anatomy, sacred white tripundra ash marks on forehead and arms, centered red tilak, detailed Shiva tattoos across chest, shoulders and arms, multiple rudraksha malas around the neck, wrists and upper arms, realistic sacred ash texture.
+
+OUTFIT LOCK:
+Bare upper body exactly as shown, premium black dhoti with rich antique-gold woven borders and intricate traditional motifs, saffron-orange printed devotional cloth wrapped around the waist featuring sacred Sanskrit mantra patterns, realistic premium cotton texture, natural folds, weathered fabric details, small traditional kamandal hanging from the waist.
+
+ACCESSORIES LOCK:
+Large decorated Kanwar resting across the shoulder, dark carved wooden beam with intricate carvings, large hanging sacred kalash engraved with "ॐ नमः शिवाय", marigold flower garlands, rudraksha decorations, bronze bells, sacred cloth wrapping, realistic handcrafted detailing.
+
+NANDI LOCK:
+Magnificent sacred white Nandi walking beside the devotee, calm divine expression, realistic light-gray and white fur texture, large curved dark horns, ornate golden forehead ornament, white tripundra with centered red tilak, heavy rudraksha garlands around the neck, bronze temple bell, premium ceremonial decorations, identical position beside the subject.
+
+POSE LOCK:
+Preserve the exact original walking pose. One hand supporting the Kanwar across the shoulder, opposite arm naturally relaxed while walking, left leg stepping forward barefoot, natural body balance, relaxed shoulders, calm confident expression, identical head angle, identical framing, identical body posture, identical perspective and composition.
+
+BACKGROUND LOCK:
+Grand Kanwar Yatra procession through a rain-soaked Himalayan valley, thousands of saffron-clad devotees carrying orange flags, ancient Himalayan temples, waterfalls flowing from distant mountains, mist-covered forests, dramatic overcast sky, wet reflective road, cinematic depth of field, identical perspective and composition.
+
+LIGHTING LOCK:
+Natural overcast monsoon lighting with soft diffused daylight, realistic wet-surface reflections, gentle rim lighting, balanced cinematic contrast, premium editorial lighting, subtle atmospheric mist.
+
+CAMERA LOCK:
+Eye-level full-body portrait, 50mm cinematic lens, ultra-sharp face focus, shallow depth of field, creamy background separation, HDR, premium documentary-style editorial photography.
+
+COLOR GRADING LOCK:
+Rich earthy cinematic grading with deep saffron-orange, charcoal black, bronze, white and Himalayan gray tones, realistic skin rendering, balanced contrast, premium magazine-quality color science, natural monsoon atmosphere.
+
+QUALITY:
+Masterpiece, Ultra Realistic, Hyper Realistic, Photorealistic, 8K HDR, Luxury Editorial Photography, Premium Documentary Cinematic Style, Realistic Skin Texture, Individual Hair Strands, Ultra Detailed Rudraksha, Premium Fabric Texture, Hyper Detailed Nandi, Professional Color Science.
+
+NEGATIVE PROMPT:
+No face change, no identity drift, no hairstyle change, no skin tone change, no lip color change, no eye color change, no tattoo change, no rudraksha change, no Kanwar change, no Nandi change, no outfit change, no pose change, no background change, no body proportion change, no extra fingers, no extra limbs, no distorted anatomy, no beauty filter, no anime style, no cartoon style, no watermark, no logo, no text, no blur on face.
+
+FACE IDENTITY LOCK MAXIMUM, FACE STRUCTURE LOCK MAXIMUM, FACE PROPORTION LOCK MAXIMUM, SKIN TONE LOCK MAXIMUM, LIPS LOCK MAXIMUM, EYES LOCK MAXIMUM, HAIR LOCK MAXIMUM, SHIVA DEVOTEE LOCK MAXIMUM, RUDRAKSHA LOCK MAXIMUM, KANWAR LOCK MAXIMUM, NANDI LOCK MAXIMUM, HIMALAYAN KANWAR YATRA LOCK MAXIMUM, COLOR GRADING LOCK MAXIMUM, CAMERA ANGLE LOCK MAXIMUM, COMPOSITION LOCK MAXIMUM, 9:16 VERTICAL FRAME, ULTRA DETAILED, PHOTOREALISTIC, PROFESSIONAL CINEMATIC SPIRITUAL EDITORIAL PHOTOGRAPHY.
