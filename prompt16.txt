@@ -1,0 +1,57 @@
+Create an ultra-premium cinematic urban fantasy editorial portrait using the uploaded person's image as the ONLY face, body pose, composition and VFX reference. Use the uploaded white designer shirt as the ONLY outfit reference and the uploaded sneakers as the ONLY footwear reference.
+
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrow shape, eyebrow thickness, eye shape, eye spacing, eyelids, eyelashes, iris color, catchlights, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, hairstyle, hairline, hair density, hair texture, facial proportions, age appearance, skin details, expression, gaze direction and facial geometry. Face Identity Lock 100%, Face Structure Lock 100%, Face Proportion Lock 100%, Eye Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Expression Lock 100%.
+
+SKIN TONE LOCK:
+Maintain the exact naturally fair warm-neutral wheatish skin tone with a soft ivory-beige undertone, healthy youthful complexion, bright yet realistic skin, ultra-smooth texture with visible natural pores, soft peach warmth across both cheeks, subtle pink tint around the nose and lips, realistic highlights on forehead, nose bridge, neck, hands and fingers, balanced HDR skin rendering, no whitening, no artificial beauty filter, no plastic skin, no orange cast, no yellow cast, no gray cast, identical face-to-body skin consistency.
+
+HAIR LOCK:
+Identical naturally messy thick dark-brown textured hairstyle with soft volume, loose layered strands, realistic flyaway hairs, identical hairline and hair density.
+
+OUTFIT LOCK:
+Replace ONLY the clothing while preserving the exact body pose.
+
+Outer Layer:
+Premium white short-sleeve luxury cotton shirt with identical artwork from the reference shirt. Preserve the asymmetrical composition exactly: monochrome ink-wash floral artwork flowing across the left shoulder and left collar, soft watercolor gradients, black ink branches, delicate blossom textures, subtle bamboo branch illustration on the lower-right front panel, premium matte cotton texture, realistic stitching, rolled sleeves, relaxed luxury tailoring.
+
+Inner Layer:
+Clean premium white crew-neck T-shirt underneath exactly like the outfit reference.
+
+Bottom:
+Premium straight-fit black trousers with realistic fabric folds, clean silhouette, identical length.
+
+FOOTWEAR LOCK:
+Replace the shoes using ONLY the uploaded sneaker reference. Premium off-white high-top sneakers with black oversized sole unit, detailed copper-black ornamental artwork wrapping around the heel and ankle, realistic leather texture, visible stitching, white laces, teal ankle strap, premium luxury sneaker construction, identical proportions and material finish.
+
+POSE LOCK:
+Maintain the EXACT pose from the reference image. Standing naturally with one hand inside the trouser pocket while the opposite hand is raised with an open palm. Body slightly turned, head looking toward the floating objects, identical shoulder angle, identical leg position, identical body balance, identical framing. Do not modify the pose.
+
+OBJECT & VFX LOCK:
+Preserve every floating object exactly:
+• Floating football.
+• Floating metallic exhaust pipe.
+• Floating autumn maple leaves.
+• Thin luminous energy ribbons orbiting around the subject.
+• Multiple transparent glowing light trails.
+• Fine sparkling particles following the energy paths.
+
+The VFX must appear as elegant cinematic orbital energy ribbons with transparent white, silver and subtle electric-blue glow, realistic motion blur, layered depth, volumetric light, tiny glowing particles and HDR reflections. The trails must wrap naturally around the subject without covering the face.
+
+BACKGROUND LOCK:
+Modern European city street after rainfall with wet reflective asphalt, tram tracks, realistic tram, historic clock tower, tall glass buildings, overhead electric wires, cyclist riding through the rain, reflective puddles, dramatic cloudy sky, premium cinematic depth, identical perspective and composition.
+
+LIGHTING LOCK:
+Soft overcast daylight mixed with cool cinematic reflections from the wet road, subtle rim light around the hair and shoulders, realistic reflections from the energy ribbons, premium editorial HDR lighting, balanced natural shadows, cinematic environmental illumination.
+
+CAMERA LOCK:
+9:16 vertical frame, eye-level camera, full-body composition, 50–70mm full-frame lens, complete shoes visible, complete head visible, comfortable negative space, razor-sharp facial focus, premium editorial framing.
+
+COLOR GRADING LOCK:
+Luxury cinematic blue-gray grading with cool urban atmosphere, crisp white outfit, realistic black trousers, premium reflective streets, subtle silver-blue VFX glow, balanced warm skin tones, rich contrast, magazine-quality HDR color science.
+
+QUALITY:
+Masterpiece, Hyper Realistic, Ultra Realistic, Photorealistic, 8K HDR, Luxury Editorial Photography, Premium Urban Fantasy, Ultra Detailed Face, Realistic Skin Texture, Individual Hair Strands, Premium Fashion Styling, Cinematic VFX, Maximum Detail.
+
+NEGATIVE PROMPT:
+Face drift, identity drift, hairstyle change, skin tone change, expression change, pose change, missing football, missing exhaust pipe, missing cyclist, missing tram, missing energy ribbons, cropped shoes, cropped hands, extra fingers, anatomy errors, blurry face, low quality, plastic skin, oversaturated colors, cartoon, anime, watermark, logo, text.
