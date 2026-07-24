@@ -1,119 +1,37 @@
-🔥 FACE-IDENTITY SAFE VERSION (UPDATED) 🔥
+Create an ultra-premium cinematic devotional editorial portrait using the uploaded person's face as the ONLY face reference.
 
-IMPORTANT FACE RULE:
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrows, eyebrow thickness, eye shape, eye spacing, eyelids, eyelashes, iris color, eye highlights, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, natural skin texture, facial proportions, hairstyle, hairline, hair density, hair texture, expression, closed eyes, peaceful smile, head angle and facial geometry. Do not beautify, reshape, smooth excessively, age-up, age-down or modify any facial feature. Face Identity Lock 100%, Face Structure Lock 100%, Face Proportion Lock 100%, Eye Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Expression Lock 100%.
 
-✓ Keep user's ORIGINAL HEAD ANGLE
-✓ Keep user's ORIGINAL NECK POSITION
-✓ Keep user's ORIGINAL FACE DIRECTION
-✓ Keep user's ORIGINAL FACIAL STRUCTURE
+SKIN TONE LOCK:
+Preserve the exact natural medium-fair warm wheatish skin tone with soft golden-beige undertones, naturally healthy glowing complexion, realistic fine pores, subtle forehead and cheek highlights, smooth but realistic skin texture, soft moonlight reflections on exposed skin, gentle natural luminance without whitening, no orange tint, no yellow tint, no grey tint, no plastic skin, no AI beauty filter, premium cinematic skin rendering with balanced cool moonlight and warm skin contrast.
 
-DO NOT force head upward.
-DO NOT tilt neck excessively.
-DO NOT recreate reference head angle.
+LIPS LOCK:
+Natural soft muted rosy-pink lips with realistic lip texture, lightly hydrated satin finish, natural lip volume, soft cupid's bow, no lipstick, no glossy effect, no oversaturated colors.
 
-Instead:
+HAIR LOCK:
+Natural thick dark brown to black hair, high-volume textured hairstyle, slightly windswept upward, realistic individual strands, identical hairline, identical density, identical hairstyle.
 
-✓ Keep exact user pose
-✓ Keep exact user head position
-✓ Keep exact user neck angle
-✓ Only gently close eyes
-✓ Add peaceful devotional expression
+OUTFIT LOCK:
+Premium white cotton formal shirt with realistic woven fabric, visible natural wrinkles, sleeves rolled just below both elbows, top three buttons open revealing the upper chest, untucked lower portion, subtle cool moonlight sheen while preserving realistic cotton texture, black fitted trousers, thin black thread bracelets on both wrists exactly as visible.
 
-This preserves face identity much better.
+POSE LOCK:
+Exact same standing pose, both arms fully extended horizontally to the sides with open relaxed palms, fingers naturally separated and completely visible inside the frame, eyes gently closed, peaceful devotional expression, slight upward chin angle, body centered, weight balanced naturally, identical body posture, identical composition.
 
-━━━━━━━━━━━━━━━━━━━━━━
+BACKGROUND LOCK:
+Massive Adiyogi Shiva statue positioned directly behind the subject, colossal scale dominating the scene, subject standing on a broad rocky mountain plateau inside a vast Himalayan valley (NOT on a cliff edge), dense evergreen forests filling the valley below, distant snow-covered Himalayan peaks, drifting fog layers between mountains, dramatic storm clouds, bright full moon in the upper-left sky, crescent moon near the Adiyogi head, mystical blue-hour atmosphere, no missing environmental details.
 
-EYES & EXPRESSION
+LIGHTING LOCK:
+Strong cinematic moonlight from upper-left, realistic silver rim light outlining both shoulders, hair, sleeves and outer arms, subtle glowing edge light on the white shirt, premium HDR lighting, soft frontal bounce illumination on the face, volumetric moon rays through clouds, atmospheric mist catching the light, realistic shadow depth, glowing shirt highlights without overexposure.
 
-✓ Eyes softly closed
-✓ Calm devotional feeling
-✓ Peaceful spiritual emotion
-✓ Relaxed facial muscles
-✓ Inner meditation vibe
-✓ Divine connection feeling
+CAMERA & FRAMING LOCK:
+9:16 vertical composition, eye-level camera, 50–70mm full-frame portrait lens, camera positioned slightly farther back for a wider composition, subject centered, complete upper body, both arms, wrists, palms and every fingertip fully visible with 8–12% negative space around both hands, no cropped fingers, no cropped elbows, slight zoom-out compared to a standard portrait, natural perspective, razor-sharp face focus.
 
-No extreme head tilt.
-No dramatic neck stretch.
+COLOR GRADING LOCK:
+Luxury cinematic blue-hour devotional grading, deep midnight blue sky, cool silver moonlight, rich charcoal cloud detail, luminous white shirt highlights, realistic glowing skin, subtle cyan atmospheric haze, premium HDR contrast, rich shadow separation with visible glossy detail inside dark areas, elegant editorial color science.
 
-━━━━━━━━━━━━━━━━━━━━━━
+QUALITY:
+Masterpiece, Ultra Realistic, Hyper Realistic, Photorealistic, 8K HDR, Premium Cinematic Devotional Editorial Photography, Ultra Detailed Face, Realistic Skin Texture, Individual Hair Strands, Volumetric Lighting, Maximum Detail, Commercial Quality, Luxury Color Science.
 
-COLOR GRADING LOCK — ABSOLUTE MAXIMUM
-
-✓ Exact same dark cinematic grading
-✓ Cool moonlit atmosphere
-✓ Soft silver-blue highlights
-✓ Dark grey-blue shadows
-✓ Misty devotional color palette
-✓ Moody spiritual tones
-✓ Subtle desaturation
-✓ Natural skin tones preserved
-
-Lighting should feel like:
-
-"Soft moonlight falling on the subject"
-
-NOT sunset lighting
-NOT golden lighting
-NOT warm orange lighting
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-LIGHTING LOCK
-
-✓ Moonlight-inspired illumination
-✓ Soft silver glow on white shirt
-✓ Gentle highlight on face
-✓ Subtle rim light around shoulders
-✓ Soft ambient haze
-✓ Diffused cinematic light
-✓ Natural HDR balance
-
-White shirt should softly glow from moonlight,
-exactly like reference image.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-VIGNETTE LOCK
-
-✓ Strong cinematic vignette
-✓ Dark edges around frame
-✓ Bright center focus
-✓ Subject highlighted naturally
-✓ Spiritual poster look
-
-Corners darker.
-Center brighter.
-
-Exactly like reference image.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-ATMOSPHERE LOCK
-
-✓ Dark mystical environment
-✓ Soft fog layer
-✓ Moody clouds
-✓ Spiritual mountain landscape
-✓ Deep cinematic contrast
-✓ Sacred devotional mood
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-FINAL POSE RULE
-
-KEEP:
-
-✓ User's original body pose
-✓ User's original neck angle
-✓ User's original head direction
-✓ User's original shoulder position
-
-ONLY CHANGE:
-
-✓ Eyes closed
-✓ Peaceful devotional expression
-✓ Spiritual mood
-
-Nothing else.
-
-This gives the SAME spiritual feeling while keeping face identity much more accurate.
+NEGATIVE PROMPT:
+Face drift, identity drift, cropped fingers, cropped hands, cropped elbows, zoomed-in framing, cliff edge, flat lighting, dull shadows, no rim light, no shirt glow, plastic skin, over-smoothing, anatomy errors, extra fingers, extra limbs, blur on face, beauty filter, cartoon, anime, low detail, watermark, logo, text, oversaturated colors, incorrect pose, incorrect camera angle, missing moon, missing Adiyogi statue.
