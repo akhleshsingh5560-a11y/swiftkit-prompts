@@ -1,0 +1,45 @@
+Create an ultra-premium cinematic dark spiritual editorial portrait using the uploaded person's face as the ONLY face reference.
+
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrows, eyebrow thickness, eye shape, eye spacing, eyelids, eyelashes, iris color, eye highlights, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, skin tone, facial proportions, hairstyle, hairline, hair density, hair texture, age appearance, gaze direction, expression, head angle and facial geometry. Do not beautify, stylize, reshape, smooth, age-up, age-down or modify any facial feature. Face Identity Lock 100%, Face Structure Lock 100%, Face Proportion Lock 100%, Eye Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Expression Lock 100%.
+
+SKIN TONE LOCK:
+Preserve the exact full-body skin tone from the uploaded face reference. Naturally bright medium-fair wheatish complexion with a soft warm ivory-beige undertone, realistic youthful skin texture, visible natural pores, soft satin finish, subtle healthy peach warmth across cheeks, ears, neck and hands, balanced cinematic highlights, realistic environmental shadows, no whitening, no beauty filter, no plastic skin, no yellow cast, no orange cast, no gray cast.
+
+LIPS LOCK:
+Natural muted rosy nude lips with soft pink undertones, realistic hydrated texture, naturally defined cupid's bow, soft satin finish, no lipstick enhancement.
+
+EYES LOCK:
+Deep warm brown eyes with crystal-clear irises, realistic catchlights, naturally thick eyelashes, calm confident expression, identical gaze direction.
+
+HAIR LOCK:
+Identical thick naturally curly dark hair with soft volume, realistic individual hair strands, premium natural texture, identical hairstyle.
+
+OUTFIT LOCK:
+Replace only the original outfit with the uploaded premium designer shirt while preserving the exact body pose, proportions and composition. The shirt must be reconstructed as a complete front-view garment exactly matching the reference design. Premium luxury short-sleeve button-up shirt crafted from soft matte cotton-linen fabric. Upper section deep matte black, lower section clean ivory white. A massive ultra-detailed black octopus artwork flows naturally across the chest and sleeves, with curling tentacles hanging downward, realistic suction cups, organic tentacle curves, seamless artistic transition between the black and white panels, premium textile print quality, matching black collar, realistic stitching, natural folds, premium buttons, luxury streetwear tailoring. The artwork must remain identical in style, scale and placement while naturally wrapping around the front of the shirt.
+
+POSE LOCK:
+Preserve the original walking pose exactly as shown. Do not change body angle, walking direction, head angle, shoulder position, arm position, hand placement, leg movement, camera angle, framing, perspective or composition. Only replace the outfit while keeping the pose 100% identical.
+
+SHADOW LOCK:
+Behind the walking subject appears a gigantic divine shadow of Goddess Kali projected naturally onto the road. The shadow has multiple arms, flowing wild hair, ornate crown, glowing third eye, skull garland, trident, curved sword, blessing hand gesture and sacred ornaments. The shadow is formed only by dramatic sunlight and perspective, appearing powerful yet ethereal, with soft shadow edges blending naturally into the road surface.
+
+BACKGROUND LOCK:
+Quiet temple street with warm stone pavement, scattered flower petals, blooming plants along the roadside, ancient walls, soft natural surroundings, premium cinematic depth of field, identical elevated perspective and composition.
+
+LIGHTING LOCK:
+Warm golden-hour sunlight from the upper left creating long dramatic shadows, premium cinematic rim lighting, realistic soft highlights, natural ambient fill light, high dynamic range, luxury editorial lighting.
+
+CAMERA LOCK:
+High-angle cinematic composition, full-body walking portrait, 50mm lens, shallow depth of field, ultra-sharp face focus, premium editorial photography, HDR.
+
+COLOR GRADING LOCK:
+Warm cinematic golden-hour grading with earthy browns, charcoal blacks, creamy ivory highlights, subtle amber sunlight, premium Hollywood color science, rich contrast, luxury editorial finish.
+
+QUALITY:
+Masterpiece, Ultra Realistic, Hyper Realistic, Photorealistic, 8K HDR, Luxury Editorial Photography, Professional Cinematic Color Science, Realistic Skin Texture, Detailed Eyes, Individual Hair Strands, Ultra Detailed Fabric Texture, Premium Textile Printing, Professional Fashion Photography.
+
+NEGATIVE PROMPT:
+No face change, no identity drift, no hairstyle change, no skin tone change, no lip color change, no eye color change, no pose change, no camera angle change, no body proportion change, no composition change, no outfit redesign, no extra fingers, no extra limbs, no anatomy errors, no beauty filter, no anime style, no cartoon style, no watermark, no logo, no text, no blur on face.
+
+FACE IDENTITY LOCK MAXIMUM, FACE STRUCTURE LOCK MAXIMUM, FACE PROPORTION LOCK MAXIMUM, SKIN TONE LOCK MAXIMUM, LIPS LOCK MAXIMUM, EYES LOCK MAXIMUM, HAIR LOCK MAXIMUM, OUTFIT LOCK MAXIMUM, OCTOPUS SHIRT LOCK MAXIMUM, POSE LOCK MAXIMUM, KALI SHADOW LOCK MAXIMUM, GOLDEN HOUR LIGHTING LOCK MAXIMUM, CAMERA ANGLE LOCK MAXIMUM, COMPOSITION LOCK MAXIMUM, COLOR GRADING LOCK MAXIMUM, 9:16 VERTICAL FRAME, ULTRA DETAILED, PHOTOREALISTIC, PROFESSIONAL CINEMATIC EDITORIAL PHOTOGRAPHY.
