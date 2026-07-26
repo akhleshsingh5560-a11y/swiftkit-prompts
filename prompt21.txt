@@ -1,0 +1,39 @@
+Create an ultra-realistic cinematic dark fantasy editorial portrait using the uploaded face as the ONLY face reference.
+
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, exact same forehead, eyebrows, eye shape, eye spacing, eyelids, eyelashes, iris color, eye highlights, nose bridge, nostrils, lips, cupid's bow, lip thickness, jawline, chin, cheekbones, ears, skin tone, skin texture, pores, facial proportions, hairstyle, hairline, baby hairs, hair volume, hair texture, natural facial asymmetry, expression, age appearance, and every unique facial characteristic. Never beautify, stylize, reshape, smooth, feminize, masculinize, age-up, age-down, or modify any facial feature. Face Identity Lock 100%, Facial Geometry Lock 100%, Eyes Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Expression Lock 100%.
+
+SCENE LOCK:
+Recreate the exact composition of the reference image. A gigantic majestic black buffalo walks directly behind the subject, positioned slightly to the subject's left side exactly like the reference. The subject walks calmly and confidently beside the buffalo with identical spacing, identical walking direction, identical perspective, identical body placement, identical camera angle, identical framing, identical distance relationship, identical posture, identical head position, identical gaze direction and identical cinematic balance.
+
+BUFFALO DETAIL LOCK:
+An enormous premium black buffalo with an extremely muscular body, broad chest, massive shoulders, thick neck, powerful anatomy, dense layered charcoal-black fur, realistic coarse long hair, subtle grey undertones, natural skin folds around the neck, heavy forehead, lifelike facial muscles, wet textured muzzle, premium dark bronze-golden nose leather, realistic moist nostrils, calm intelligent deep brown eyes with subtle golden reflections, elegant natural bronze-golden markings beneath both eyes, extremely detailed weathered ivory horns finished with luxurious aged bronze-golden metallic highlights, realistic horn growth rings, slightly polished horn tips, thick ears with inner fur, massive realistic legs, powerful joints, front knee joints featuring natural bronze-golden fur highlights exactly matching the reference image, oversized dark hooves with subtle aged golden metallic wear around the edges, heavy realistic tail with dense black hair, every strand of fur individually rendered, museum-quality wildlife realism.
+
+OUTFIT LOCK:
+Automatically adapt clothing according to the uploaded face.
+
+If the uploaded face appears feminine:
+Wear the exact same luxury charcoal-black couture gown from the reference image. Premium matte silk fabric, dramatic flowing floor-length silhouette, elegant deep V neckline tastefully covered with fine black illusion mesh, long oversized bishop sleeves gathered at the wrists, luxurious crystal-embellished waist corset, rich pleated flowing skirt, elegant front slit revealing one leg naturally while remaining refined and classy, premium haute couture craftsmanship, realistic silk folds, soft flowing fabric simulation, luxury runway editorial styling.
+
+If the uploaded face appears masculine:
+Wear a premium luxury matte-black hooded long coat inspired by the same couture aesthetic, layered over a fitted black shirt, premium tailored black trousers, luxury black leather boots, elegant metallic waist detailing, flowing structured silhouette, subtle dark fantasy royal styling matching the mood of the original couture design.
+
+BACKGROUND LOCK:
+Exact same dark grey cinematic environment, dense atmospheric fog, soft mist layers, minimal luxury runway background, seamless reflective stone floor, dramatic empty space, identical environmental depth, identical mood, identical composition.
+
+LIGHTING LOCK:
+Soft cinematic diffused studio lighting, realistic front illumination, subtle warm rim light outlining both the buffalo and the subject, gentle volumetric fog lighting, soft realistic shadows, HDR global illumination, premium editorial lighting, physically accurate reflections.
+
+COLOR GRADING LOCK:
+Exact same desaturated charcoal-grey cinematic grading, premium matte blacks, subtle bronze-golden highlights on the buffalo, realistic skin tones, luxury Vogue editorial contrast, soft cinematic shadows, elegant muted palette with rich black textures.
+
+CAMERA LOCK:
+Eye-level full-body fashion portrait, centered composition, identical perspective, identical lens compression, premium 85mm editorial photography look, shallow depth of field, buffalo and subject perfectly sharp, soft atmospheric background blur, identical framing and runway perspective.
+
+QUALITY:
+Ultra-realistic photography, hyper-detailed skin pores, premium couture fabric simulation, individually rendered buffalo fur strands, ultra-detailed bronze-golden horn texture, realistic wet nose leather, lifelike eye reflections, volumetric fog, HDR, ray-traced lighting, physically based rendering, masterpiece quality, 8K realism, museum-quality wildlife detail, luxury editorial fashion campaign, Vogue runway photography, National Geographic-level buffalo realism.
+
+Negative Prompt:
+No face change, no identity drift, no facial modification, no beauty filter, no anatomy errors, no extra fingers, no extra limbs, no body deformation, no buffalo deformation, no thin buffalo, no missing fur, no black-only horns, no incorrect horn shape, no plain black nose, no missing golden nose detail, no missing golden eye markings, no grey knees, no missing bronze-golden knee highlights, no incorrect hoof color, no background change, no lighting change, no composition change, no cartoon, no anime, no CGI appearance, no blur, no watermark, no logo, no text.
+
+FACE IDENTITY LOCK MAXIMUM • FACE STRUCTURE LOCK MAXIMUM • FACE GEOMETRY LOCK MAXIMUM • EYES LOCK MAXIMUM • NOSE LOCK MAXIMUM • LIPS LOCK MAXIMUM • HAIR LOCK MAXIMUM • EXPRESSION LOCK MAXIMUM • BUFFALO FUR LOCK MAXIMUM • BUFFALO HORN LOCK MAXIMUM • BUFFALO GOLDEN DETAIL LOCK MAXIMUM • BUFFALO NOSE LOCK MAXIMUM • BUFFALO EYE MARKING LOCK MAXIMUM • BUFFALO KNEE DETAIL LOCK MAXIMUM • BUFFALO HOOF LOCK MAXIMUM • OUTFIT LOCK MAXIMUM • BACKGROUND LOCK MAXIMUM • COLOR GRADING LOCK MAXIMUM • LIGHTING LOCK MAXIMUM • CAMERA ANGLE LOCK MAXIMUM • COMPOSITION LOCK MAXIMUM • FULL BODY LOCK MAXIMUM • 9:16 VERTICAL • ULTRA PHOTOREALISTIC • MASTERPIECE • CINEMATIC EDITORIAL.
