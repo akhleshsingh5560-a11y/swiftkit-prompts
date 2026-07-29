@@ -1,0 +1,21 @@
+Create an ultra-realistic cinematic urban anime-inspired portrait using the uploaded image as the composition reference. Preserve the exact scene layout, exact perspective, exact framing, exact camera angle, exact environment scale, exact pose, and exact action composition. 9:16 vertical frame.
+
+Main subject: stylish young man positioned extremely close to the camera, reaching one hand directly toward the lens with fingers extending into the foreground. Exact hand placement, exact finger spread, exact arm angle, exact body position, exact distance from camera, exact perspective lock. Face facing forward with a calm confident expression. Messy layered black hair covering part of the forehead and one eye area, reflective blue sunglasses, black denim jacket, white inner shirt, realistic clothing folds and textures. Character lock maximum.
+
+Camera perspective: dramatic ultra-wide angle close-up portrait, strong foreground hand enlargement caused by lens perspective, realistic depth distortion, cinematic perspective lock maximum. No camera angle changes.
+
+Background element: realistic reflection/duplicate appearance of the same uploaded user positioned in the background, using the exact same facial identity, exact same facial structure, exact same eyes, exact same nose, exact same lips, exact same hairstyle, exact same skin tone, exact same age appearance, exact same identity. Natural depth-of-field blur, realistic distance separation, exact placement behind the main subject, realistic scale relationship, identity lock maximum. No other people.
+
+Environment: modern urban city street surrounded by tall glass skyscrapers, blue reflective windows, contemporary architecture, clean city atmosphere, realistic urban depth, exact background composition lock.
+
+Special effect: floating shattered glass fragments suspended around the frame, realistic transparent shards, reflective edges, dynamic motion frozen in time, cinematic particle effects, exact placement style lock. Glass effect lock maximum.
+
+Lighting: bright natural daylight, realistic reflections in sunglasses, soft environmental shadows, cinematic HDR lighting, realistic skin tones, premium commercial fashion photography lighting.
+
+Mood: cool, stylish, confident urban street fashion, modern city energy, cinematic youth culture aesthetic, premium magazine cover atmosphere.
+
+Ultra-realistic photography, photorealistic skin texture, realistic hair strands, realistic sunglasses reflections, realistic glass shards, ultra-detailed clothing textures, HDR, 8K, masterpiece quality, ultra-sharp focus, professional editorial photography, cinematic depth of field.
+
+Negative Prompt: no face change, no identity drift, no hairstyle change, no sunglasses change, no expression change, no pose change, no camera angle change, no background change, no extra people, no female character, no additional identities, no extra hands, no extra fingers, no distorted anatomy, no blurry face, no low quality, no watermark, no logo, no text, no cartoon style, no low-detail rendering.
+
+FACE IDENTITY LOCK MAXIMUM, FACE STRUCTURE LOCK MAXIMUM, FACE PROPORTION LOCK MAXIMUM, EYES LOCK MAXIMUM, NOSE LOCK MAXIMUM, LIPS LOCK MAXIMUM, HAIR LOCK MAXIMUM, EXPRESSION LOCK MAXIMUM, MAIN CHARACTER LOCK MAXIMUM, SAME USER REFLECTION LOCK MAXIMUM, URBAN CITY LOCK MAXIMUM, GLASS SHARD EFFECT LOCK MAXIMUM, DEPTH OF FIELD LOCK MAXIMUM, BUILDING POSITION LOCK MAXIMUM, FULL SCENE LOCK MAXIMUM, PERSPECTIVE LOCK MAXIMUM, 9:16 VERTICAL FRAME, ULTRA DETAILED, PHOTOREALISTIC, CINEMATIC MASTERPIECE.
