@@ -1,0 +1,21 @@
+Create an ultra-realistic cinematic fashion portrait using the uploaded image as the composition reference. Preserve the exact scene layout, exact perspective, exact framing, exact camera angle, exact environment scale, exact pose, and exact action composition. 9:16 vertical frame.
+
+Main subject: stylish young person viewed from a dramatic low-angle perspective, head slightly tilted upward toward the sky, exact neck position, exact chin angle, exact gaze direction, exact body placement, exact distance from camera, exact framing lock. Medium-length messy dark hair naturally flowing in the wind, realistic hair strands, black high-neck sweater, minimal fashion styling, natural facial expression, calm and thoughtful mood. Character lock maximum.
+
+Camera perspective: extreme worm's-eye view from below the subject, looking upward toward the face and sky. Exact perspective distortion, exact framing, exact lens feel, exact composition lock. No camera angle changes.
+
+Special centerpiece: large floating mirror shard positioned directly in front of one eye, partially covering the face exactly as shown in the reference. Realistic reflective glass surface reflecting blue sky and clouds. Exact shard size, exact placement, exact angle, exact reflection behavior, exact scale relationship. Mirror shard lock maximum.
+
+Surrounding effects: dozens of floating shattered glass fragments suspended around the subject, realistic transparent glass pieces, reflective edges, cinematic frozen-motion effect, dynamic composition, exact density and placement style lock. Glass particle lock maximum.
+
+Environment: bright open blue sky with soft white clouds, clean minimal background, realistic daylight atmosphere, sky occupying most of the frame, exact background composition lock.
+
+Lighting: bright natural sunlight from above, realistic highlights on glass shards, realistic skin illumination, soft shadows, cinematic HDR lighting, realistic reflections and refractions, premium editorial photography lighting.
+
+Mood: dreamy, artistic, surreal fashion portrait, modern luxury editorial aesthetic, mysterious self-reflection theme, cinematic visual storytelling.
+
+Ultra-realistic photography, photorealistic skin texture, realistic eyes, realistic hair strands, ultra-detailed glass reflections, realistic cloud reflections, HDR, 8K, masterpiece quality, ultra-sharp focus, premium fashion magazine photography, cinematic depth and atmosphere.
+
+Negative Prompt: no face change, no hairstyle change, no expression change, no pose change, no camera angle change, no background change, no extra people, no extra faces, no distorted anatomy, no blurry face, no low quality, no watermark, no logo, no text, no cartoon style, no anime style, no oversaturated colors, no broken facial proportions.
+
+COMPOSITION LOCK MAXIMUM, CAMERA ANGLE LOCK MAXIMUM, LOW-ANGLE PERSPECTIVE LOCK MAXIMUM, FACE POSITION LOCK MAXIMUM, HAIRSTYLE LOCK MAXIMUM, MIRROR SHARD LOCK MAXIMUM, GLASS FRAGMENT LOCK MAXIMUM, SKY REFLECTION LOCK MAXIMUM, BLUE SKY LOCK MAXIMUM, CLOUD REFLECTION LOCK MAXIMUM, DEPTH LOCK MAXIMUM, FULL SCENE LOCK MAXIMUM, 9:16 VERTICAL FRAME, ULTRA DETAILED, PHOTOREALISTIC, CINEMATIC MASTERPIECE.
