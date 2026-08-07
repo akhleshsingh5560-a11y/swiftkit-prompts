@@ -1,0 +1,37 @@
+Create an ultra-premium hyper-realistic luxury toddler editorial portrait inspired by the uploaded reference image. Preserve the child's natural appearance, hairstyle, expression, body proportions, pose, lighting style and overall visual feeling while maintaining a highly realistic result.
+
+FACE:
+Maintain the same natural facial appearance, forehead, baby cheeks, jawline, chin, eyebrows, eye shape, eye spacing, eyelashes, iris color, nose shape, nostrils, lips, cupid's bow, mouth shape, tiny baby teeth, ears and gentle smiling expression. Keep the face natural without beautification or artificial modifications.
+
+HAIRSTYLE:
+Keep the same soft dark-brown baby hair with identical length, natural volume, slightly messy outward curls around both ears, soft front baby bangs, realistic flyaway strands and the same white floral headband positioned naturally across the head.
+
+SKIN:
+Maintain the same naturally bright baby skin with a creamy ivory tone blended with soft rosy pink undertones across the entire visible body including the face, neck, shoulders, arms, hands, fingers, legs and feet. Preserve smooth hydrated baby skin, realistic texture, subtle natural glow, soft translucent highlights and balanced skin brightness throughout.
+
+POSE:
+Keep the same standing pose with the child gently holding both sides of the dress, relaxed shoulders, slightly bent elbows, naturally separated feet, direct eye contact and joyful smile.
+
+OUTFIT:
+Elegant white princess-style dress with a large deep emerald-green bow centered on the chest, thin shoulder straps, soft layered puff skirt, realistic fabric folds, premium satin bow texture and white baby shoes.
+
+ACCESSORIES:
+White floral headband, matching white shoes and no additional accessories.
+
+BACKGROUND:
+Luxury bright indoor studio with warm cream walls, large soft window light from the right side, clean white floor, soft curtain, elegant ceramic vase containing white roses and eucalyptus leaves, shallow depth of field and minimal premium interior.
+
+LIGHTING:
+Soft diffused natural daylight, gentle wraparound illumination, balanced highlights on the face and dress, soft shadows, bright catchlights in both eyes and premium editorial lighting.
+
+COLOR GRADING:
+Luxury warm pastel editorial look with creamy whites, elegant green accents, soft beige background, glowing skin, natural contrast and refined HDR finish.
+
+CAMERA:
+Vertical 9:16 composition, eye-level toddler perspective, approximately 50–85mm portrait lens, complete body visible from head to shoes with comfortable space above and below, shallow depth of field and premium DSLR rendering.
+
+QUALITY:
+Ultra realistic, hyper realistic, photorealistic, luxury editorial photography, 8K HDR, premium color science, extremely detailed skin texture, realistic hair strands, crisp fabric detail and masterpiece quality.
+
+NEGATIVE PROMPT:
+low quality, blurry face, unrealistic skin, plastic skin, oversaturation, anatomy errors, extra fingers, missing fingers, cropped head, cropped feet, distorted eyes, distorted smile, harsh shadows, noisy image, watermark, logo, text, cartoon, anime, CGI.
