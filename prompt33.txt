@@ -1,0 +1,34 @@
+Create an ultra-premium hyper-realistic luxury toddler editorial portrait using the uploaded image as the ONLY visual reference. Preserve the child's natural identity, facial impression, hairstyle, pose, body proportions, skin tone, outfit, accessories, lighting, composition and overall visual mood with extremely high accuracy.
+
+FACE IDENTITY LOCK (HIGHEST PRIORITY):
+Preserve the exact same facial identity without alteration. Keep the identical face shape, forehead height, baby cheeks, jawline, chin, eyebrow shape and density, eye size, eye spacing, eyelids, eyelashes, iris color, catchlights, nose bridge, nostrils, lips, cupid's bow, mouth opening, tiny baby teeth, ears, facial proportions, facial symmetry, expression, innocent smile and overall facial impression exactly as shown. Do not beautify, reshape, age, stylize or replace the face. Zero identity drift.
+
+FULL HAIRSTYLE LOCK:
+Maintain the exact hairstyle from the reference image. Keep the same shoulder-length naturally curly dark chocolate-brown hair with soft glossy ringlets, identical center partition, two neat braided front sections, the same loose curls framing both cheeks, identical baby flyaway strands, identical natural hair density, volume, texture and shine. Preserve the same tiny pastel-pink flower clips fixed on both braids in exactly the same position. Do not shorten, straighten, recolor, smooth or redesign the hairstyle.
+
+FULL BODY SKIN TONE LOCK:
+Preserve the exact visible skin tone across the ENTIRE body. Match the same naturally bright glowing baby complexion with soft creamy ivory-white highlights blended with delicate rosy pink undertones exactly as visible in the reference. Maintain identical skin color on the forehead, face, ears, neck, shoulders, upper arms, elbows, forearms, wrists, hands, fingers, thighs, knees, legs, ankles and feet. Keep the same healthy baby glow, soft translucent skin, realistic hydration, smooth texture, gentle luminous highlights and natural pink warmth. Ensure the skin remains evenly balanced across every visible body part with no dullness, grey cast, yellow tint, orange tint, whitening effect or plastic appearance.
+
+POSE & BODY STRUCTURE LOCK:
+Keep the exact sitting pose, identical body proportions, shoulder position, arm placement, finger placement, leg position, feet angle, head tilt and relaxed posture exactly as the uploaded image. Maintain the same composition and framing.
+
+OUTFIT & ACCESSORIES LOCK:
+Keep the exact black sleeveless floral baby dress with thin shoulder straps, elastic smocked bodice, tiny pink floral pattern, realistic cotton texture and natural folds. Preserve the tiny metallic ear studs, silver bangles on both wrists and silver anklets with tiny bells on both ankles exactly as shown.
+
+BACKGROUND LOCK:
+Maintain the same soft beige upholstered sofa with realistic woven fabric texture, neutral cream indoor background, clean minimalist environment and soft depth of field exactly matching the reference.
+
+LIGHTING LOCK:
+Maintain the identical soft natural daylight entering from the front-left side, producing delicate wraparound illumination across the baby's face and body. Preserve the beautiful catchlights inside both eyes, soft shadow transition beneath the chin, gentle light falloff across the curls, realistic fabric highlights and balanced HDR exposure. The entire image should have soft glowing premium daylight without harsh shadows.
+
+COLOR GRADING LOCK:
+Maintain the same premium luxury warm editorial color grading with creamy beige tones, soft pastel warmth, bright natural highlights, rich realistic blacks, subtle warm contrast and elegant HDR finish. Preserve the natural glowing baby skin, soft luminous atmosphere and realistic indoor daylight color balance.
+
+CAMERA & COMPOSITION:
+Eye-level perspective matching the child's height, approximately 85mm full-frame portrait lens, shallow depth of field, centered composition, complete body visible exactly like the reference, no perspective distortion, premium DSLR portrait quality.
+
+QUALITY:
+Ultra Realistic, Hyper Realistic, Photorealistic, 8K HDR, Premium Editorial Photography, Luxury Lifestyle Portrait, DSLR Quality, Masterpiece, Extremely Detailed Eyes, Individual Hair Strands, Realistic Baby Skin Texture, Natural Fabric Detail, High Dynamic Range, Soft Cinematic Depth of Field, Premium Color Science.
+
+NEGATIVE PROMPT:
+different face, identity drift, altered facial impression, hairstyle change, short hair, straight hair, different hair color, missing flower clips, dull skin, uneven skin tone, dark skin, yellow skin, orange skin, grey skin, plastic skin, beauty filter, makeup, anatomy errors, extra fingers, missing fingers, cropped hands, cropped feet, cropped hair, blurry eyes, low quality, oversharpening, overexposure, underexposure, flat lighting, wrong pose, different outfit, different accessories, watermark, logo, text, cartoon, anime, CGI. Ratio vertical 9:16 fully screen
