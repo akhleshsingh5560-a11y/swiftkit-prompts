@@ -1,0 +1,30 @@
+Create an ultra-realistic premium outdoor lifestyle portrait using the uploaded person's face as the ONLY face reference. Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrows, eye shape, eye spacing, eyelids, eyelashes, iris color, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, skin tone, skin texture, facial proportions, hairstyle, hairline, hair density, hair texture, age appearance, natural expression, and facial geometry. Do not beautify, stylize, reshape, smooth, age-up, age-down, or modify any facial feature. FACE IDENTITY LOCK 100%, FACE STRUCTURE LOCK 100%, EYES LOCK 100%, NOSE LOCK 100%, LIPS LOCK 100%, HAIR LOCK 100%, AGE LOCK 100%.
+
+POSE & COMPOSITION LOCK:
+Standing naturally in a peaceful countryside meadow, body facing the camera, both arms extended forward naturally while gently offering a small bouquet of fresh wildflowers toward the camera, identical arm position, identical elbow bend, identical hand placement, identical relaxed shoulders, identical head position, identical body proportions, identical framing, identical perspective, waist-up portrait, eye-level camera angle.
+
+OUTFIT LOCK:
+Replace the plain t-shirt with an elegant premium short-sleeve button-up shirt exactly matching the reference design. Soft ivory-beige premium linen fabric, open camp collar, matte white buttons, oversized relaxed fit, realistic stitching, natural fabric folds, luxury tailoring. The shirt features an identical high-detail Japanese sumi-e style black dragon artwork flowing diagonally across the entire shirt exactly like the reference image, beginning from the upper-right shoulder, sweeping across the chest, and extending toward the lower-left side. Highly detailed dragon head with fierce eyes, long flowing whiskers, elegant horns, layered scales, smoke-like ink transitions, watercolor brush strokes, artistic ink splashes, subtle paint speckles, fading brush textures, premium monochrome illustration, identical artwork placement, identical artwork scale, identical composition, no additional graphics, no extra colors, no logos, no text.
+
+FLOWER LOCK:
+Small bouquet of freshly picked wildflowers consisting of white daisies, tiny yellow blossoms, delicate purple flowers and fresh green stems, held naturally with both hands exactly like the reference image.
+
+BACKGROUND LOCK:
+Beautiful countryside meadow with soft green grass, distant rolling hills, natural spring vegetation, light blue sky with soft white clouds, a thin tree branch entering from the upper-right corner with fresh young green leaves, identical outdoor atmosphere, identical composition, peaceful spring environment.
+
+LIGHTING LOCK:
+Soft golden-hour natural sunlight coming from camera-left, realistic warm highlights across the face, gentle natural tree-leaf shadow patterns falling over one side of the face and neck exactly like the reference image, soft cinematic outdoor lighting, realistic skin illumination, HDR lighting, natural color balance.
+
+CAMERA LOCK:
+Professional full-frame DSLR camera, 85mm portrait lens, f/2.0 aperture, shallow depth of field, creamy natural background bokeh, razor-sharp facial focus, premium editorial outdoor photography, realistic optical compression.
+
+COLOR GRADING LOCK:
+Warm spring editorial color grading, soft golden sunlight, natural green tones, creamy highlights, muted earthy colors, cinematic outdoor contrast, luxury lifestyle photography aesthetic.
+
+QUALITY LOCK:
+Ultra-realistic photography, photorealistic skin texture, ultra-detailed eyes, realistic eyelashes, individual hair strands, natural fabric texture, botanical flower detail, HDR, 8K, masterpiece quality, luxury editorial photography, hyper realistic, premium commercial fashion photography.
+
+Negative Prompt:
+No face change, no hairstyle change, no age change, no expression change, no body shape change, no pose change, no bouquet change, no camera angle change, no incorrect dragon artwork, no misplaced dragon print, no extra graphics, no logos, no watermark, no text, no extra fingers, no extra limbs, no deformed anatomy, no blurry face, no cartoon style, no anime style, no oversaturated colors, no low quality, no identity drift.
+
+FACE IDENTITY LOCK MAXIMUM, FACE STRUCTURE LOCK MAXIMUM, EYES LOCK MAXIMUM, NOSE LOCK MAXIMUM, LIPS LOCK MAXIMUM, HAIR LOCK MAXIMUM, AGE LOCK MAXIMUM, POSE LOCK MAXIMUM, HAND POSITION LOCK MAXIMUM, FLOWER BOUQUET LOCK MAXIMUM, DRAGON SHIRT LOCK MAXIMUM, JAPANESE SUMI-E DRAGON ARTWORK LOCK MAXIMUM, TREE BRANCH LOCK MAXIMUM, GOLDEN-HOUR LIGHTING LOCK MAXIMUM, LEAF SHADOW LOCK MAXIMUM, BACKGROUND LOCK MAXIMUM, COMPOSITION LOCK MAXIMUM, CAMERA LOCK MAXIMUM, COLOR GRADING LOCK MAXIMUM, 9:16 VERTICAL FRAME, ULTRA DETAILED, PHOTOREALISTIC, PROFESSIONAL LIFESTYLE FASHION PHOTOGRAPHY.
