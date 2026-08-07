@@ -1,0 +1,43 @@
+Create an ultra-realistic premium luxury street fashion editorial portrait using the uploaded face as the ONLY face reference.
+
+FACE IDENTITY LOCK:
+Preserve facial identity at maximum strength: exact same face shape, forehead, eyebrows, eye shape, eye spacing, eyelids, eyelashes, iris color, eye highlights, nose bridge, nostrils, lips, cupid's bow, jawline, chin, cheekbones, ears, skin tone, pores, skin texture, facial proportions, beard pattern, facial hair density, hairstyle, hairline, natural curls, age appearance and expression. Never beautify, reshape, stylize, smooth, age-up, age-down or modify any facial feature. Face Identity Lock 100%, Facial Geometry Lock 100%, Eyes Lock 100%, Nose Lock 100%, Lips Lock 100%, Hair Lock 100%, Beard Lock 100%, Expression Lock 100%.
+
+POSE LOCK:
+Subject walking naturally through a busy luxury fashion street exactly like the reference image. Both hands inside trouser pockets, relaxed confident posture, shoulders naturally relaxed, chest facing forward, head slightly turned to the left, neutral luxury fashion expression, identical walking stride, identical framing, identical perspective, identical body placement.
+
+HAIRSTYLE LOCK:
+Medium-length naturally thick messy curly hairstyle, soft loose waves, realistic volume on the top, slightly fluffy sides, naturally textured curls, individual flyaway strands, realistic hair density, luxury salon finish, subtle wind movement, identical hairstyle silhouette, identical curl pattern, identical hair volume and texture.
+
+SUNGLASSES LOCK:
+Premium round luxury sunglasses with ultra-thin matte black metal frame, elegant blue mirrored lenses with a soft transparent reflective coating, eyes slightly visible through the lenses, natural reflections, realistic glass thickness, luxury designer fashion eyewear, no dark opaque lenses, no oversized frame, identical lens color and frame proportions.
+
+OUTFIT LOCK:
+Luxury ivory woven bomber jacket with premium textured fabric, oversized black embroidered botanical artwork, spider-inspired embroidery, floral embroidery, zebra-inspired sleeve graphics, black ribbed collar, cuffs and waistband, premium matte metal snap buttons, luxury handcrafted embroidery, realistic woven threads.
+
+Premium ivory embroidered shirt underneath with subtle floral line artwork, lightweight luxury cotton-silk fabric, natural wrinkles, relaxed open collar.
+
+Luxury light beige tailored trousers with premium crease lines, elegant modern fit, realistic fabric folds and stitching.
+
+BACKGROUND LOCK:
+Luxury European-style shopping street with fashionable pedestrians, elegant green trees, expensive boutiques, bright summer atmosphere, identical environmental layout, premium street photography aesthetic.
+
+BACKGROUND BLUR LOCK:
+Strong cinematic optical background separation, creamy natural bokeh, realistic lens blur only on the distant background, foreground and subject remain perfectly sharp, pedestrians softly blurred, trees softly blurred, luxury portrait depth, premium DSLR 85mm lens compression, f/1.8 shallow depth of field.
+
+LIGHTING LOCK:
+Bright natural afternoon sunlight filtering through tree leaves, soft highlights on the hair, realistic sunlight on the face, natural skin tones, premium editorial daylight, subtle rim lighting, realistic ambient bounce light, HDR illumination, physically accurate lighting.
+
+COLOR GRADING LOCK:
+Luxury fashion editorial color grading, warm ivory tones, soft beige palette, elegant green background, premium skin tones, cinematic contrast, rich blacks, natural highlights, Vogue magazine fashion colors.
+
+CAMERA LOCK:
+Eye-level medium portrait, premium 85mm DSLR lens, shallow depth of field, identical framing, identical perspective, ultra-sharp facial focus, premium editorial composition.
+
+QUALITY:
+Ultra-realistic photography, individually rendered hair strands, photorealistic skin pores, premium fabric simulation, ultra-detailed embroidery stitching, realistic sunglasses reflections, realistic woven jacket texture, HDR, ray-traced lighting, physically based rendering, masterpiece quality, 8K, Vogue luxury editorial fashion photography.
+
+Negative Prompt:
+No face change, no identity drift, no hairstyle change, no flat hair, no short hair, no straight hair, no opaque black sunglasses, no hidden eyes, no incorrect blue lens color, no oversized sunglasses, no body change, no pose change, no anatomy errors, no blur on subject, no low quality, no cartoon, no anime, no CGI look, no watermark, no logo, no text.
+
+FACE IDENTITY LOCK MAXIMUM • FACE STRUCTURE LOCK MAXIMUM • HAIRSTYLE LOCK MAXIMUM • CURL LOCK MAXIMUM • SUNGLASSES LOCK MAXIMUM • BLUE MIRROR LENS LOCK MAXIMUM • JACKET LOCK MAXIMUM • SHIRT LOCK MAXIMUM • TROUSER LOCK MAXIMUM • BACKGROUND BOKEH LOCK MAXIMUM • STREET LOCK MAXIMUM • LIGHTING LOCK MAXIMUM • COLOR GRADING LOCK MAXIMUM • CAMERA ANGLE LOCK MAXIMUM • COMPOSITION LOCK MAXIMUM • 9:16 VERTICAL • ULTRA PHOTOREALISTIC • MASTERPIECE • LUXURY STREET FASHION.
