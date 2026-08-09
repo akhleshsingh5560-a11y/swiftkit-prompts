@@ -1,0 +1,83 @@
+Create an ultra-premium hyper-realistic cinematic devotional photograph using the uploaded reference image as the STRICT visual source. Recreate the image with maximum structural and facial accuracy. Do not redesign, reinterpret, beautify, or alter the subjects.
+
+HIGHEST PRIORITY — YOUNG MAN FACE IDENTITY LOCK:
+The young man lying with his head peacefully on the Maharaj's lap must retain the EXACT SAME facial identity and facial impression from the reference image. Treat his face as a locked photographic identity reference, not as a generic sleeping male face. Preserve his exact face shape, forehead proportions, hairline, temples, eyebrows, eyebrow thickness, eyelid shape, closed-eye position, eye spacing, nose bridge, nose width, nostrils, nose tip, philtrum, upper lip, lower lip, lip shape, mouth width, cheek structure, cheek fullness, jawline, chin shape, ear position, facial proportions and natural skin texture. Preserve the exact recognizable facial impression even though his eyes are closed. DO NOT substitute another face. DO NOT reconstruct a different face. DO NOT beautify or masculinize the face. Do not make the face sharper, slimmer, wider, older or younger. The sleeping expression must remain peaceful and natural exactly like the reference.
+
+YOUNG MAN HAIR LOCK:
+Preserve his exact hairstyle, hair length, hairline, direction of the hair, volume, texture and individual dark hair strands visible around the forehead and sides. Do not change the hairstyle while reconstructing the sleeping face.
+
+YOUNG MAN SKIN LOCK:
+Preserve the exact natural skin tone visible in the reference. Keep the same warm natural complexion, subtle facial highlights, realistic skin texture and natural tonal variation. Do not whiten, darken, redden or artificially smooth the face. Skin must remain realistic and photographic.
+
+YOUNG MAN POSE LOCK:
+Keep the young man in the EXACT SAME sleeping position. His head remains naturally resting on the Maharaj's lap. Preserve the head angle, neck angle, shoulder position, arm placement, elbow position, hand position, torso orientation and bent-leg position. Do not move, rotate or redesign his body.
+
+FACE VISIBILITY:
+Even with the young man's eyes closed and his face partially resting against the lap, his visible facial features must remain clearly recognizable and faithful to the reference. Preserve the same amount of visible forehead, cheek, nose, lips, chin and hair. Do not hide or distort the face with clothing, shadows, beard, hands or fabric.
+
+MAHARAJ SUBJECT:
+Preserve the Maharaj's exact facial appearance, closed-eye expression, forehead markings, long grey-white beard and moustache, facial structure, skin tone and high tied topknot hairstyle. Keep his peaceful spiritual expression unchanged.
+
+MAHARAJ'S HAND:
+The Maharaj's hand must remain gently placed on the young man's head exactly as shown in the reference. Preserve realistic palm structure, finger length, finger placement and natural contact between hand and hair. No extra fingers, missing fingers or unnatural anatomy.
+
+CLOTHING:
+Preserve the Maharaj's bright saffron/yellow traditional clothing exactly as shown, including the loose fabric, folds, wrinkles, layered fabric around the lap and sleeves. Preserve the young man's dark charcoal/black T-shirt and dark blue-gray jeans with their natural fabric texture and folds.
+
+GARLANDS:
+Preserve all flower garlands around the Maharaj's neck, including the pale pink/cream flowers, colorful flowers, beads and the central decorative pendant. Maintain their exact layered placement and realistic floral texture.
+
+FOREHEAD:
+Preserve the Maharaj's yellow/orange devotional powder and visible sacred markings on the forehead exactly as shown, including their irregular natural texture.
+
+COMPOSITION:
+Maintain the same intimate composition: Maharaj seated prominently in the center-left/middle of the frame, young man leaning from the lower-right with his head resting on Maharaj's lap. Preserve their relative size, distance, interaction and visual hierarchy exactly.
+
+CAMERA:
+Keep the same vertical portrait camera perspective, close indoor framing and camera height as the reference. Do not dramatically zoom in or zoom out. Maintain the same amount of Maharaj's body, the young man's body and surrounding environment visible in the frame.
+
+LIGHTING:
+Reproduce the exact warm indoor devotional lighting. The main illumination is strong soft golden-yellow light falling across Maharaj's face, forehead, yellow clothing, garlands, hand and the young man's visible face. Preserve the subtle cool violet/blue light spill around the upper hair and darker surrounding areas. Keep the light direction and intensity consistent with the reference.
+
+LIGHT FOCUS:
+The primary visual focus must remain on Maharaj's face, garlands, hand and especially the young man's sleeping face. The young man's face must receive enough soft light to preserve facial identity while remaining naturally integrated into the scene. Do not allow deep shadow to erase his facial structure.
+
+BACKGROUND:
+Preserve the cream/yellow cushioned seating and pillows behind Maharaj, darker indoor wooden/interior elements and the softly blurred person visible in the distant right background. Keep the background atmospheric and naturally defocused.
+
+DEPTH OF FIELD:
+Use realistic shallow cinematic depth of field. Foreground subjects remain detailed while distant background elements gradually become soft and blurred. Do not blur the young man's face.
+
+COLOR GRADING:
+Warm cinematic devotional color grade with rich saffron-yellow highlights, natural warm skin tones, subtle violet-blue ambient shadows, deep controlled blacks, soft golden highlights, realistic contrast and balanced HDR tonal range. Avoid excessive saturation or artificial color shifts.
+
+SKIN & TEXTURE:
+Preserve realistic pores, subtle skin texture, natural facial micro-details and authentic human appearance. Do not create plastic skin, artificial beauty-filter skin or excessive sharpening.
+
+REALISM:
+Ultra-photorealistic human anatomy, authentic facial proportions, realistic hair strands, realistic beard strands, realistic cloth fibers, realistic flower petals, physically accurate shadows, natural light falloff and genuine photographic depth.
+
+FINAL OUTPUT:
+9:16 vertical portrait, full-frame cinematic composition, ultra-high detail, hyper-realistic photography, professional DSLR look, realistic lens rendering, natural depth of field, HDR, premium devotional cinematic photography, maximum reference fidelity.
+
+ABSOLUTE RESTRICTIONS:
+Do not change the young man's face.
+Do not generate a substitute face.
+Do not alter his nose.
+Do not alter his lips.
+Do not alter his jawline.
+Do not alter his chin.
+Do not alter his cheeks.
+Do not alter his forehead.
+Do not alter his hairline.
+Do not alter his hairstyle.
+Do not alter his sleeping expression.
+Do not alter his skin tone.
+Do not change his pose.
+Do not change his head position.
+Do not change the Maharaj's hand position.
+Do not change the relationship or interaction between both subjects.
+Do not add or remove objects from the composition.
+
+NEGATIVE PROMPT:
+face identity drift, different face, generic face, face replacement, altered nose, altered lips, altered jawline, altered chin, altered cheeks, altered forehead, altered hairline, changed hairstyle, changed sleeping expression, face beautification, facial reconstruction, plastic skin, artificial skin, excessive smoothing, different skin tone, distorted face, asymmetrical face, malformed anatomy, extra fingers, missing fingers, distorted hand, changed pose, changed head position, changed body proportions, excessive blur on face, deep shadow covering face, overexposure, oversaturation, harsh highlights, flat lighting, cartoon, CGI, illustration, anime, artificial-looking skin, watermark, logo, text.
