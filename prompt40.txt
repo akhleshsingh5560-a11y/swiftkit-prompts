@@ -1,0 +1,556 @@
+Create an ultra-premium photorealistic cinematic Independence Day portrait in a full-screen vertical 9:16 composition.
+
+REFERENCE PRIORITY:
+FIRST UPLOADED IMAGE = PRIMARY REFERENCE.
+SECOND UPLOADED IMAGE = CLOTHING REFERENCE ONLY.
+
+Do not copy the background, pose, person, lighting or composition from the second image. Use it ONLY to recreate the clothing accurately.
+
+==================================================
+FACE IDENTITY LOCK — ABSOLUTE PRIORITY
+
+Preserve the exact identity of the person from the FIRST uploaded image.
+
+Keep the face as close to the reference as technically possible:
+
+exact face shape
+
+exact facial proportions
+
+forehead
+
+hairline
+
+eyebrows
+
+eyes
+
+eye spacing
+
+eyelids
+
+nose bridge
+
+nose width
+
+nostrils
+
+lips
+
+mouth shape
+
+jawline
+
+chin
+
+cheekbones
+
+ears
+
+natural facial structure
+
+natural skin tone
+
+natural facial impression
+
+
+Do not redesign the face.
+Do not beautify the face into a different person.
+Do not create a generic model face.
+Do not change the nose.
+Do not change the lips.
+Do not change the jawline.
+Do not change the facial proportions.
+
+The final person must remain immediately recognizable as the SAME person from the first reference.
+
+==================================================
+HAIRSTYLE LOCK
+
+Preserve the exact hairstyle from the FIRST reference.
+
+Maintain:
+
+same hair length
+
+same curly/wavy texture
+
+same volume
+
+same hairline
+
+same density
+
+same natural direction
+
+same overall hairstyle
+
+
+Do not replace it with another hairstyle.
+
+==================================================
+PERSON — CAMERA DISTANCE
+
+IMPORTANT COMPOSITION REQUIREMENT:
+
+DO NOT zoom the person too far out.
+
+The person must remain relatively large and clearly visible in the frame.
+
+The face must be large enough for clear facial recognition and strong facial detail.
+
+Use a medium-full / three-quarter portrait framing rather than a distant full-body shot.
+
+Keep the subject approximately from head to upper/lower legs depending on the composition, but prioritize a CLEAR, LARGE, RECOGNIZABLE FACE.
+
+The person should occupy a strong visual portion of the frame.
+
+Do not make the person tiny just to fit the entire flag.
+
+The flag must be fully visible through intelligent composition rather than by shrinking the subject excessively.
+
+==================================================
+INDIAN TRICOLOR FLAG — FULLY VISIBLE
+
+The Indian national flag must be LARGE, COMPLETE and clearly visible.
+
+Show the full flowing flag as much as physically possible within the 9:16 frame.
+
+The flag must contain:
+
+saffron/orange top stripe
+
+white middle stripe
+
+India green bottom stripe
+
+accurate navy-blue Ashoka Chakra
+
+
+The entire flag should appear as one continuous flowing fabric structure.
+
+Do NOT crop away major sections of the flag.
+Do NOT cut off the flag's important edges unnecessarily.
+Do NOT distort the flag.
+
+The flag should be dramatically waving in the wind with realistic fabric folds, ripples and movement.
+
+The saffron, white and green sections must remain clearly separated and visually balanced.
+
+The Ashoka Chakra must be properly formed, centered and undistorted.
+
+==================================================
+FLAGPOLE
+
+Use a tall realistic metallic silver flagpole.
+
+The pole must have:
+
+polished metal appearance
+
+realistic metallic highlights
+
+realistic cylindrical structure
+
+natural reflections
+
+visible connection to the flag
+
+
+The flagpole should extend naturally through the composition without looking artificial.
+
+==================================================
+POSE
+
+Preserve the original pose and body language from the FIRST reference.
+
+The person is standing confidently in shallow seawater.
+
+One hand holds the metallic flagpole naturally.
+
+The other hand remains naturally positioned near/in the trouser pocket.
+
+Maintain realistic anatomy and natural hand proportions.
+
+Do not create extra fingers or distorted hands.
+
+==================================================
+CLOTHING — SECOND IMAGE ONLY
+
+Use the SECOND uploaded image as the ONLY clothing reference.
+
+Recreate the exact clothing combination shown in the second image:
+
+WHITE LONG-SLEEVE SHIRT:
+
+clean bright white fabric
+
+collared shirt
+
+front button placket
+
+dark buttons
+
+long sleeves
+
+relaxed premium fit
+
+same embroidered decorative design
+
+same floral/geometric motifs
+
+same mustard/gold embroidery
+
+same dark green embroidery
+
+same black decorative details
+
+same horizontal embroidery patterns
+
+realistic stitching
+
+realistic fabric texture
+
+natural folds and creases
+
+
+LIGHT BLUE JEANS:
+
+light-wash blue denim
+
+relaxed straight/wide-leg appearance
+
+realistic denim texture
+
+natural seams
+
+natural folds
+
+premium realistic fabric
+
+
+Do NOT use the black cargo pants from the first reference.
+
+Do not simplify or remove the embroidery.
+
+==================================================
+FOOTWEAR
+
+Use clean premium white sneakers.
+
+Keep them realistic and naturally integrated with the shallow water environment.
+
+==================================================
+BACKGROUND
+
+Preserve the seaside atmosphere from the FIRST reference.
+
+Include:
+
+shallow ocean water
+
+realistic waves and ripples
+
+distant bridge across the horizon
+
+dramatic cloudy sky
+
+warm sunlight breaking through the clouds
+
+atmospheric depth
+
+cinematic sunset environment
+
+
+Do not replace the environment with a studio background.
+
+==================================================
+LIGHTING
+
+Preserve the cinematic lighting character of the FIRST reference.
+
+Use dramatic golden-hour sunlight coming from the lower/right side.
+
+Create:
+
+warm sunlight on the subject
+
+soft highlights on the face
+
+subtle hair highlights
+
+realistic highlights on the white shirt
+
+warm rim light
+
+natural shadows
+
+realistic reflections on the water
+
+dramatic cloud illumination
+
+
+Keep the face clearly illuminated.
+
+Do not make the face too dark.
+
+Do not overexpose the white shirt.
+
+==================================================
+WATER
+
+The person must stand naturally in shallow seawater.
+
+Create realistic:
+
+water ripples around the feet
+
+reflections of the person
+
+reflection of the flagpole
+
+golden sunlight reflections
+
+small waves
+
+natural wet-surface highlights
+
+
+==================================================
+INDEPENDENCE DAY TYPOGRAPHY
+
+Place the Independence Day typography on the LEFT SIDE of the frame, without covering the person's face.
+
+Use:
+
+15
+AUGUST
+
+HAPPY
+INDEPENDENCE DAY
+
+“15” should be prominent in saffron/orange.
+
+“AUGUST” should be rich India green.
+
+“HAPPY INDEPENDENCE DAY” should be elegant, clean and highly readable.
+
+Spell everything EXACTLY.
+
+Do not generate random letters.
+Do not misspell INDEPENDENCE.
+
+Keep typography balanced and premium.
+
+==================================================
+COLOR GRADING
+
+Use an ultra-premium cinematic color grade.
+
+Balance:
+
+warm golden sunlight
+
+natural skin tones
+
+dramatic gray-blue clouds
+
+rich saffron
+
+clean white
+
+deep India green
+
+realistic ocean blues
+
+warm sunset highlights
+
+deep natural shadows
+
+
+Use controlled saturation and high dynamic range.
+
+No excessive HDR.
+No neon colors.
+No oversaturation.
+No plastic skin.
+
+==================================================
+SKIN
+
+Preserve the original natural skin tone from the FIRST reference.
+
+Make the skin:
+
+clean
+
+naturally luminous
+
+realistic
+
+smooth but detailed
+
+naturally textured
+
+properly exposed
+
+
+Do not change the person's complexion.
+
+==================================================
+CAMERA
+
+Vertical 9:16 full-screen.
+
+Use a professional full-frame cinematic camera look.
+
+IMPORTANT:
+The person must be closer to the camera than in the previous output.
+
+Prioritize facial clarity and identity.
+
+The face should be clearly readable even while the full flag remains visible.
+
+Use intelligent perspective and composition:
+keep the flag elevated and spread behind/above the subject rather than shrinking the person excessively.
+
+The subject should occupy the central/right visual area.
+
+The flag should occupy the upper/background area.
+
+Keep the Independence Day typography on the left.
+
+==================================================
+DEPTH OF FIELD
+
+Sharp focus on:
+
+1. face
+
+
+2. hair
+
+
+3. clothing
+
+
+4. flag details
+
+
+
+Use soft cinematic background separation.
+
+Keep the flag sufficiently sharp to remain clearly recognizable.
+
+==================================================
+PHOTOREALISM
+
+Ultra-realistic professional photography.
+
+Extremely detailed:
+
+natural facial details
+
+individual hair strands
+
+realistic skin texture
+
+realistic embroidery
+
+fabric fibers
+
+denim texture
+
+flag fabric folds
+
+metallic flagpole reflections
+
+realistic water
+
+realistic atmospheric haze
+
+
+The final image must look like a professionally photographed Independence Day campaign poster, not an AI illustration.
+
+==================================================
+STRICT NEGATIVE REQUIREMENTS
+
+NO:
+different face
+different identity
+generic face
+changed nose
+changed lips
+changed jawline
+changed facial proportions
+changed hairstyle
+different hair length
+tiny distant person
+excessive zoom-out
+unclear face
+dark face
+cropped major portion of flag
+missing Ashoka Chakra
+distorted Ashoka Chakra
+wrong Indian flag colors
+extra flag
+fake flagpole
+plastic skin
+overexposed shirt
+black cargo pants
+incorrect clothing
+missing embroidery
+distorted hands
+extra fingers
+extra limbs
+bad anatomy
+random accessories
+random objects
+watermarks
+logos
+misspelled text
+incorrect “INDEPENDENCE DAY”
+artificial HDR
+oversaturation
+cartoon appearance
+
+==================================================
+FINAL COMPOSITION PRIORITY
+
+1. EXACT FACE IDENTITY
+
+
+2. CLEAR AND LARGE FACE
+
+
+3. EXACT HAIRSTYLE
+
+
+4. PERSON NOT TOO FAR FROM CAMERA
+
+
+5. FULLY VISIBLE LARGE INDIAN TRICOLOR FLAG
+
+
+6. REALISTIC METALLIC FLAGPOLE
+
+
+7. CLOTHING ACCURATELY MATCHED TO SECOND REFERENCE
+
+
+8. ORIGINAL SEASIDE BACKGROUND
+
+
+9. CINEMATIC GOLDEN-HOUR LIGHTING
+
+
+10. CORRECT “15 AUGUST / HAPPY INDEPENDENCE DAY” TYPOGRAPHY
+
+
+11. PREMIUM COLOR GRADING
+
+
+12. FULL-SCREEN 9:16 PHOTOREALISTIC FINISH
+
+
+
