@@ -1,0 +1,318 @@
+Create an ultra-premium photorealistic cinematic portrait using the FIRST uploaded image as the STRICT PRIMARY REFERENCE and the SECOND uploaded image ONLY as the clothing reference.
+
+PRIMARY IMAGE — PRESERVE EVERYTHING:
+
+Recreate the first image with maximum visual fidelity.
+
+Preserve the exact male facial identity and facial appearance from the primary image:
+same face shape,
+same forehead,
+same hairline,
+same eyebrows,
+same eyes,
+same eye spacing,
+same eyelids,
+same nose bridge,
+same nose width,
+same nose tip,
+same nostrils,
+same cheeks,
+same cheekbones,
+same lips,
+same mouth shape,
+same jawline,
+same chin,
+same ears,
+same facial proportions,
+same natural asymmetry,
+same skin texture,
+same facial impression,
+same expression.
+
+Do NOT redesign the face.
+Do NOT beautify or replace the face.
+Do NOT create a generic model face.
+Keep the exact facial impression of the primary reference.
+
+HAIR LOCK:
+
+Preserve the exact hairstyle from the first image:
+same short curly/wavy black hairstyle,
+same hair volume,
+same hairline,
+same curl pattern,
+same direction,
+same length,
+same natural texture.
+
+Do not change the hairstyle.
+
+BODY AND POSE:
+
+Preserve the exact body proportions and pose from the first image.
+
+Keep the same:
+body orientation,
+shoulder position,
+arm position,
+hand placement,
+finger positioning,
+torso angle,
+head orientation,
+standing posture,
+overall silhouette.
+
+Do not create a different pose.
+
+CAMERA AND FRAMING:
+
+Preserve the same camera perspective and composition from the first image.
+
+Vertical 9:16 full-screen composition.
+
+Keep the subject positioned approximately in the same central area.
+
+Keep the same amount of visible background and surrounding fabric.
+
+Maintain the same cinematic depth and perspective.
+
+Do not unnecessarily zoom in.
+Do not crop the head.
+Do not crop the body.
+Do not change the overall composition.
+
+PRIMARY IMAGE BACKGROUND:
+
+Preserve the dramatic outdoor environment from the first image.
+
+Keep the turquoise/teal sky,
+soft clouds,
+bright atmospheric horizon,
+distant landscape,
+soft sunset-like glow,
+and cinematic depth.
+
+Maintain the same large flowing fabric/ribbon structure surrounding the subject.
+
+IMPORTANT VFX STRUCTURE:
+
+The enormous flowing fabric/ribbon-like VFX surrounding the subject is a major part of the composition.
+
+Preserve its exact concept and placement.
+
+The fabric forms a large circular/arched frame around the male subject.
+
+Maintain the sweeping curves above the head, around both sides and across the lower foreground.
+
+The fabric must look like real lightweight silk/textile moving dynamically through air.
+
+Preserve the three dominant colors:
+deep teal/green,
+bright white,
+rich red.
+
+Maintain realistic folds, creases, stretched fibers, layered edges, motion and natural fabric physics.
+
+The fabric must NOT look like plastic tubes.
+
+It must NOT look like smoke.
+
+It must NOT look like CGI ropes.
+
+It must look like premium flowing silk cloth captured in a cinematic photograph.
+
+LIGHTING:
+
+Preserve the lighting direction and mood from the primary image.
+
+Soft cinematic daylight mixed with warm horizon illumination.
+
+The subject's face should receive balanced soft frontal/side illumination.
+
+Keep natural highlights on the face while retaining realistic shadows.
+
+Add subtle rim light around the hair and shoulders.
+
+The surrounding fabric should catch realistic directional highlights along its folds.
+
+Do not flatten the lighting.
+
+Do not overexpose the white fabric.
+
+Do not make the entire image neon.
+
+COLOR GRADING:
+
+Premium cinematic color grading.
+
+Deep teal atmospheric shadows.
+Rich cyan/teal sky.
+Natural warm skin.
+Soft golden horizon.
+Clean white fabric.
+Rich controlled red fabric.
+Deep emerald/teal fabric.
+
+Balanced contrast.
+Soft highlight rolloff.
+Natural blacks.
+Subtle HDR depth.
+Professional cinematic tonal separation.
+
+Keep the image vibrant but realistic.
+
+SKIN:
+
+Preserve the original natural skin tone of the primary subject.
+
+Keep the exact complexion visible in the first reference.
+
+Maintain realistic skin pores and subtle natural texture.
+
+No artificial whitening.
+No excessive tanning.
+No plastic skin.
+No excessive beauty retouching.
+
+The skin must remain realistic and naturally illuminated.
+
+OUTFIT — SECOND IMAGE ONLY:
+
+Replace the original black hoodie/outfit from the FIRST image with the exact shirt design from the SECOND uploaded image.
+
+Use the SECOND image strictly as the clothing reference.
+
+Recreate the shirt accurately:
+
+Long-sleeve casual button-up shirt.
+
+Base design:
+deep black,
+white,
+and rich red abstract flowing artwork.
+
+The artwork should resemble fluid ink/smoke/wave forms.
+
+Preserve the large red flowing abstract pattern across the upper chest and right side.
+
+Preserve the white abstract area across the left chest and central/lower portions.
+
+Preserve the black sections and dark transitions.
+
+Preserve the red-black-white color balance.
+
+Keep the collar structure and button-front construction.
+
+Keep the sleeves rolled/folded naturally around the forearms.
+
+The shirt must look like real fabric.
+
+All artwork must follow the actual fabric folds and body curvature.
+
+No flat stickers.
+No pasted graphics.
+No random redesign.
+No extra logos.
+
+Keep realistic stitching, fabric texture, wrinkles and natural drape.
+
+The shirt should fit naturally on the exact body from the first reference.
+
+IMPORTANT OUTFIT RULE:
+
+Only replace the clothing.
+
+Do NOT change:
+face,
+hair,
+skin,
+body,
+pose,
+hands,
+camera,
+background,
+VFX,
+fabric structure,
+lighting,
+or composition.
+
+ACCESSORIES:
+
+Preserve any visible accessories from the primary subject unless they conflict directly with the replacement shirt.
+
+Maintain realistic metallic reflections and natural placement.
+
+FINAL PHOTOGRAPHIC QUALITY:
+
+Ultra-photorealistic.
+Premium editorial photography.
+Cinematic depth.
+Natural human anatomy.
+Realistic skin.
+Realistic hair strands.
+Realistic fabric fibers.
+Realistic cloth folds.
+Realistic atmospheric perspective.
+Physically believable flowing fabric.
+Sharp facial details.
+Subtle background depth of field.
+
+The final result should look like a professionally photographed cinematic fashion portrait, not an illustration.
+
+STRICT NEGATIVE PROMPT:
+
+different face,
+face drift,
+identity drift,
+generic face,
+changed nose,
+changed lips,
+changed eyes,
+changed jawline,
+changed cheekbones,
+changed facial expression,
+different hairstyle,
+different hair length,
+different hair texture,
+different skin tone,
+skin whitening,
+plastic skin,
+beauty filter,
+changed body,
+changed pose,
+changed hand position,
+changed camera angle,
+different composition,
+different background,
+missing fabric VFX,
+different fabric shape,
+wrong fabric colors,
+blue fabric,
+purple fabric,
+oversaturated colors,
+neon effect,
+plastic fabric,
+rubber fabric,
+smoke instead of fabric,
+rope-like VFX,
+CGI-looking cloth,
+flat texture,
+sticker-like clothing,
+wrong shirt design,
+extra logos,
+extra accessories,
+distorted hands,
+extra fingers,
+missing fingers,
+deformed anatomy,
+blurred face,
+low detail,
+overexposure,
+crushed shadows,
+excessive sharpening,
+cartoon,
+anime,
+illustration,
+3D render,
+watermark,
+text.
