@@ -1,0 +1,331 @@
+Create an ultra-premium photorealistic cinematic patriotic portrait in a full-screen vertical 9:16 composition.
+
+REFERENCE IMAGE PRIORITY:
+Use the uploaded reference image as the primary visual reference.
+Preserve the person's facial identity and natural appearance with maximum accuracy.
+The final result should look like the SAME PERSON from the reference image, not a similar-looking person.
+
+==================================================
+ABSOLUTE FACE IDENTITY LOCK — HIGHEST PRIORITY
+
+Preserve the exact facial identity from the reference image.
+
+Keep:
+
+exact face shape
+
+exact face cut
+
+jawline
+
+cheek structure
+
+forehead proportions
+
+eyebrow shape, thickness and placement
+
+eye shape, size and spacing
+
+eyelids
+
+nose bridge
+
+nose width
+
+nostril shape
+
+lips shape and natural lip proportions
+
+upper and lower lip structure
+
+chin shape
+
+facial symmetry
+
+natural facial expression and impression
+
+natural skin texture
+
+facial proportions
+
+
+DO NOT redesign, beautify, reshape or reinterpret the face.
+
+Do not make the person look like another model.
+Do not change the facial impression.
+Do not sharpen or enlarge the eyes unnaturally.
+Do not change the nose.
+Do not change the lips.
+Do not change the jawline.
+Do not change the face shape.
+
+The reference person's identity must remain immediately recognizable.
+
+==================================================
+HAIR STYLE LOCK
+
+Preserve the reference hairstyle accurately:
+same overall hairstyle, hairline, hair volume, direction, texture, length, thickness and front styling.
+
+Do not replace it with a generic hairstyle.
+Do not unnecessarily lengthen or shorten the hair.
+Keep the natural hair texture and silhouette consistent with the reference.
+
+==================================================
+SKIN TONE & SKIN QUALITY
+
+Maintain the person's natural skin tone from the reference while improving overall photographic balance.
+
+Skin should look:
+smooth, clean, naturally bright, healthy and softly luminous.
+
+Use a subtle warm-neutral cinematic skin grade with realistic highlights.
+Keep the face, neck, hands and all visible skin consistently balanced.
+
+Smooth the skin gently like a premium beauty photograph, but NEVER make it plastic, artificial, waxy or overly airbrushed.
+
+Preserve realistic skin texture and natural facial details.
+
+==================================================
+POSE & BODY
+
+Keep the same overall confident standing presentation and natural body proportions.
+
+The person is standing upright and facing the camera with a composed, confident patriotic expression.
+
+Both hands naturally hold the front edges of the Indian tricolour drape near the chest/waist area.
+
+Maintain realistic anatomy:
+natural shoulders, arms, hands, fingers and body proportions.
+
+No distorted fingers.
+No extra fingers.
+No duplicated limbs.
+
+==================================================
+CAMERA & FRAMING
+
+Vertical 9:16 full-screen portrait.
+
+Use a medium-full to three-quarter/full-body framing.
+
+IMPORTANT:
+Do NOT zoom the person too far out.
+
+The person's face must remain large enough and clear enough for accurate facial recognition and detailed identity preservation.
+
+Keep the person as the primary subject occupying the central portion of the frame.
+
+Show enough of the lower body to preserve the overall formal portrait composition, while keeping the face highly visible and detailed.
+
+Camera should be positioned approximately at chest-to-eye level with a natural perspective.
+
+No extreme wide-angle distortion.
+No fisheye distortion.
+No stretched body proportions.
+
+==================================================
+TRICOLOR DRAPE
+
+The person is elegantly draped in the Indian national tricolour:
+saffron/orange, white and green.
+
+The tricolour fabric must look premium, realistic and naturally flowing.
+
+Preserve clear separation between:
+
+saffron/orange
+
+white
+
+green
+
+
+The fabric should have realistic folds, soft textile texture and natural draping around both shoulders.
+
+The Ashoka Chakra should be clearly visible on the white section where appropriate, with accurate navy-blue detailing.
+
+The tricolour should look like real premium fabric, not painted plastic.
+
+Maintain realistic cloth physics and natural folds.
+
+==================================================
+BACKGROUND
+
+Create a sophisticated dark cinematic patriotic background inspired by the reference.
+
+Place a large glowing outline/map silhouette of India behind the person.
+
+The India map should be:
+
+clearly recognizable
+
+elegant
+
+centered behind the subject
+
+softly illuminated
+
+thin glowing outline
+
+proportionally accurate
+
+not covering the person's face
+
+
+Include subtle patriotic visual atmosphere without making the background overcrowded.
+
+Add the word:
+
+"India"
+
+behind the person in a clean modern illuminated typography treatment.
+
+The text should remain partially integrated with the composition and should NOT overlap or obscure the face.
+
+==================================================
+LIGHTING
+
+Use premium cinematic studio lighting.
+
+Primary soft key light:
+focused mainly on the person's face and upper body.
+
+Face must be clearly illuminated with balanced exposure.
+
+Add subtle warm rim lighting around the shoulders and hair to separate the subject from the dark background.
+
+Use controlled highlights on the tricolour fabric so the saffron, white and green sections remain vivid and premium.
+
+Keep the background slightly darker than the subject.
+
+The India map should emit a soft warm-white glow.
+
+Avoid overexposure on the face.
+Avoid crushed facial shadows.
+Avoid flat lighting.
+
+==================================================
+COLOR GRADING
+
+Premium cinematic patriotic color grade.
+
+Balanced contrast.
+Deep but controlled shadows.
+Clean highlights.
+Natural skin tones.
+Rich saffron.
+Pure elegant white.
+Deep natural green.
+Subtle warm highlights.
+Cooler dark background tones.
+
+Use realistic HDR-style tonal balance with soft cinematic contrast.
+
+The final image should have a polished premium editorial/poster finish while remaining photorealistic.
+
+==================================================
+DETAIL & IMAGE QUALITY
+
+Ultra-detailed photorealistic rendering.
+
+Sharp facial details.
+Natural eyes.
+Natural hair strands.
+Realistic fabric texture.
+Detailed hands and fingers.
+Realistic cloth folds.
+Accurate shadows.
+Natural depth of field.
+
+Use subtle background bokeh while keeping the India map recognizable.
+
+High-end professional photography.
+Premium editorial portrait quality.
+Natural depth.
+Realistic lens rendering.
+
+==================================================
+COMPOSITION PRIORITY
+
+1. EXACT FACE IDENTITY
+
+
+2. CLEAR FACIAL VISIBILITY
+
+
+3. NATURAL HAIRSTYLE
+
+
+4. PERSON REMAINS CLOSE ENOUGH FOR FACE DETAIL
+
+
+5. FULL PATRIOTIC TRICOLOUR DRAPE
+
+
+6. GLOWING INDIA MAP
+
+
+7. CINEMATIC LIGHTING
+
+
+8. PREMIUM COLOR GRADING
+
+
+9. REALISTIC FABRIC AND SKIN
+
+
+10. CLEAN 9:16 FULL-SCREEN COMPOSITION
+
+
+
+The person must remain the visual focal point.
+
+Do not sacrifice facial clarity merely to make the background larger.
+
+==================================================
+NEGATIVE CONSTRAINTS
+
+No face replacement.
+No identity change.
+No different person.
+No altered facial structure.
+No changed nose.
+No changed lips.
+No changed jawline.
+No changed eyes.
+No changed eyebrows.
+No changed hairstyle.
+No artificial skin.
+No plastic skin.
+No excessive beauty filter.
+No cartoon appearance.
+No anime appearance.
+No distorted anatomy.
+No extra fingers.
+No missing fingers.
+No warped hands.
+No duplicated body parts.
+No fisheye distortion.
+No excessive zoom-out.
+No tiny face.
+No face hidden by fabric.
+No text covering the face.
+No cropped head.
+No cropped primary subject.
+No random objects in foreground.
+
+FINAL OUTPUT:
+Ultra-premium, photorealistic, cinematic Indian patriotic portrait,
+full-screen vertical 9:16,
+clear recognizable face,
+strong identity preservation,
+natural hairstyle,
+balanced glowing skin,
+realistic tricolour fabric,
+illuminated India map,
+clean "India" typography,
+professional lighting,
+premium cinematic color grading,
+high facial detail,
+and realistic photographic depth.
