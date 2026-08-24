@@ -1,0 +1,145 @@
+Create an ultra-high-detail, premium photorealistic cinematic portrait using the uploaded reference image as the PRIMARY visual reference.
+
+IMPORTANT — FACE IDENTITY LOCK — ABSOLUTE PRIORITY:
+
+NOT FACE WORK 0%.
+NOT FACE CHANGE 0%.
+KEEP ORIGINAL FACE EXACTLY.
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT ALTER FACE SHAPE.
+DO NOT CHANGE FOREHEAD, EYEBROWS, EYES, EYELIDS, NOSE, NOSTRILS, CHEEKBONES, LIPS, CHIN, EARS OR FACIAL PROPORTIONS.
+PRESERVE ORIGINAL FACIAL IDENTITY 100%.
+KEEP THE SAME NATURAL FACIAL STRUCTURE, NATURAL EXPRESSION AND ORIGINAL FEATURES.
+NO FACE REGENERATION.
+NO FACE REPLACEMENT.
+NO BEAUTIFICATION.
+NO FACE SLIMMING.
+NO JAWLINE MODIFICATION.
+NO EYE ENLARGEMENT.
+NO NOSE RESHAPING.
+NO LIP RESHAPING.
+NO SKIN-TONE CHANGE.
+The face must remain exactly consistent with the reference image; enhance only overall image quality and surrounding visual details.
+
+COMPOSITION & POSE:
+
+Recreate the same elegant full-body composition from the reference.
+A young woman standing gracefully in a beautiful romantic outdoor floral garden, looking downward with a soft, peaceful expression.
+Keep the same head angle, body posture, hand positions, walking stance, camera angle, framing and overall proportions as the reference.
+Full-body portrait from head to feet, vertical 9:16 composition.
+
+HAIR:
+
+Long, voluminous, glossy dark-black/brown hair flowing naturally over the shoulder.
+Extremely detailed individual hair strands, realistic curls and soft waves.
+Natural flyaway strands around the face.
+Realistic hair highlights created by soft ambient daylight.
+Preserve the original hairstyle and overall hair length.
+
+OUTFIT:
+
+Keep the same elegant pastel-pink traditional South Asian outfit.
+Intricately embroidered pink kameez with extremely fine floral threadwork, delicate lace borders and subtle ornamental patterns.
+Soft flowing pink dupatta with transparent fabric edges and detailed embroidered floral borders.
+Natural lightweight fabric with realistic folds, wrinkles, stitching, embroidery depth and fabric texture.
+Matching soft pink salwar/pants with natural draping and realistic folds.
+Keep the original outfit design, color, length and silhouette.
+
+ACCESSORIES:
+
+Preserve the elegant earrings and subtle jewelry visible in the reference.
+Realistic metallic reflections and tiny ornamental details.
+Keep accessories delicate, refined and naturally integrated with the outfit.
+
+BACKGROUND:
+
+Dreamy romantic garden filled with abundant pink roses and soft pastel flowers.
+Large flowering plants and flower pots on both sides.
+Soft green foliage with realistic leaves and subtle depth.
+Warm creamy architectural garden elements in the background.
+A decorative vintage lantern with a softly glowing candle positioned near the lower-right side.
+Scattered pink flower petals naturally covering parts of the stone pathway.
+
+LIGHTING:
+
+Soft warm diffused daylight with dreamy pastel illumination.
+Gentle golden rim light around the hair and shoulders.
+Natural soft shadows.
+Beautiful cinematic bokeh in the background.
+Subtle volumetric sunlight filtering through flowers and foliage.
+Delicate highlights on the pink fabric, embroidery and hair.
+Premium romantic editorial lighting.
+
+DETAILING:
+
+Ultra-realistic skin texture with natural pores and subtle fine details.
+Extremely detailed embroidery and lace.
+Individual flower petals clearly defined.
+Realistic leaves, stems and floral textures.
+Highly detailed fabric weave.
+Natural hair strands and flyaways.
+Realistic jewelry reflections.
+Detailed lantern glass, metal frame and candle glow.
+Sharp subject with controlled background depth of field.
+Photorealistic HDR quality.
+8K-level ultra detailing.
+Professional luxury fashion photography finish.
+Clean edges, realistic textures, natural colors and cinematic depth.
+
+COLOR & MOOD:
+
+Elegant pastel pink, soft cream, muted green and warm golden tones.
+Dreamy romantic spring-garden atmosphere.
+Soft, feminine, luxurious and sophisticated visual mood.
+Natural color grading — avoid excessive saturation or artificial skin smoothing.
+
+CAMERA & QUALITY:
+
+Professional full-frame camera look.
+85mm portrait-lens aesthetic.
+Natural depth of field.
+Crisp subject focus.
+Soft creamy background bokeh.
+High dynamic range.
+Ultra-clean details.
+Premium cinematic photography.
+Photorealistic rendering.
+Vertical 9:16.
+
+NEGATIVE INSTRUCTIONS:
+
+No face change.
+No identity change.
+No jawline change.
+No facial reconstruction.
+No different person.
+No altered eyes.
+No altered nose.
+No altered lips.
+No altered eyebrows.
+No distorted hands.
+No extra fingers.
+No missing fingers.
+No malformed feet.
+No duplicated objects.
+No warped jewelry.
+No distorted embroidery.
+No artificial plastic skin.
+No excessive smoothing.
+No oversharpening.
+No unnatural body proportions.
+No random text.
+No watermark.
+
+FINAL PRIORITY:
+
+FACE PRESERVATION > EVERYTHING ELSE.
+
+NOT FACE WORK 0%.
+NOT FACE CHANGE 0%.
+KEEP ORIGINAL FACE EXACTLY.
+DON'T TOUCH JAWLINE.
+PRESERVE ORIGINAL IDENTITY 100%.
+
+Only increase resolution, realism, lighting quality, fabric detail, embroidery detail, hair detail, floral detail, background depth and overall cinematic finish while keeping the original face and composition unchanged.
