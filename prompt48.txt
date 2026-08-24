@@ -1,0 +1,25 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as closely as possible, preserving the same person, same face, same hairstyle, same pose, same body position, same camera angle, same framing, same expression, same clothing, same jewelry, same background, and same overall composition.
+
+FACE IDENTITY LOCK — NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT CHANGE THE FACE, DO NOT TOUCH THE JAWLINE, DO NOT MODIFY FACE SHAPE, DO NOT MODIFY FOREHEAD, EYEBROWS, EYES, EYELIDS, NOSE, NOSTRILS, CHEEKBONES, CHEEKS, LIPS, CHIN, EARS OR FACIAL PROPORTIONS. PRESERVE THE ORIGINAL FACIAL IDENTITY 100%. NO BEAUTIFICATION, NO FACE REGENERATION, NO FACE SWAPPING, NO ALTERATION OF FACIAL STRUCTURE. Keep the exact natural expression and original facial proportions from the reference.
+
+HAIR — Preserve the same long, straight, naturally flowing black hair exactly as shown in the reference, with realistic individual strands, natural volume, soft texture, subtle highlights, detailed flyaway strands and realistic hair movement. Do not change the hairstyle, hair length, hairline or overall hair arrangement.
+
+OUTFIT — Recreate the exact elegant black saree with rich antique-gold embroidery, intricate floral and traditional motifs, luxurious textured fabric, detailed golden borders and realistic folds. Preserve the same draping style and fabric placement. Add extremely detailed embroidery threads, metallic-gold patterns, subtle fabric texture and realistic natural wrinkles.
+
+JEWELRY — Preserve the elaborate traditional gold jewelry exactly in the same placement: detailed maang tikka, large traditional jhumka earrings, layered heavy gold necklace with gemstone details, bangles, bracelets and rings. Every ornament should have realistic metal reflections, tiny engraved patterns, gemstone sparkle and premium craftsmanship.
+
+POSE & COMPOSITION — Same seated portrait composition, same body posture, same hand placement, same shoulder position, same head angle and same framing as the reference. Maintain the elegant relaxed expression and natural posture. Do not alter proportions or anatomy.
+
+BACKGROUND — Luxurious warm golden cinematic atmosphere with soft glowing bokeh lights, warm amber illumination, subtle depth of field and an elegant dreamy environment. Preserve the glowing butterflies around the subject, including the butterfly positions and overall visual balance. Soft golden particles and atmospheric light create a magical premium cinematic mood.
+
+LIGHTING — Warm cinematic golden-hour lighting, soft key light on the face, gentle rim light around the hair, realistic skin illumination, subtle golden reflections on jewelry, soft shadows, natural highlight roll-off, volumetric glow, realistic ambient light and premium editorial photography lighting.
+
+SKIN & TEXTURE — Natural realistic skin texture with fine pores and subtle natural details. No plastic skin, no excessive smoothing, no artificial beauty filter. Maintain realistic complexion, natural facial texture and authentic skin tones.
+
+CAMERA & QUALITY — Professional full-frame camera look, 85mm portrait-lens aesthetic, shallow depth of field, realistic optical bokeh, cinematic depth, high dynamic range, extremely sharp subject details, realistic textures, natural contrast, premium editorial photography, photorealistic rendering, ultra-fine details, 8K quality appearance, crisp jewelry details, detailed fabric fibers, individual hair strands, realistic hands and fingers.
+
+COLOR GRADING — Warm luxurious black-and-gold cinematic color grade, rich blacks, elegant golden highlights, natural skin tones, subtle filmic contrast, sophisticated premium fashion-editorial finish.
+
+IMPORTANT — Preserve EVERYTHING from the reference image as closely as possible. Do not redesign the subject. Do not change the face. Do not change the jawline. Do not change the hairstyle. Do not change the outfit design. Do not change the pose or composition. Only improve realism, resolution, texture, sharpness, lighting quality and fine details while keeping the original visual identity and appearance intact.
+
+NEGATIVE PROMPT — face change, face regeneration, different person, altered identity, changed jawline, different eyes, different eyebrows, different nose, different lips, different chin, changed facial proportions, beauty filter, plastic skin, over-smoothed skin, artificial face, distorted anatomy, deformed hands, extra fingers, missing fingers, bad jewelry, changed hairstyle, short hair, different clothing, different pose, different camera angle, different composition, oversaturated colors, excessive sharpening, low resolution, blur, noise, artifacts, cartoon, anime, CGI look, unrealistic skin, duplicate objects, warped background.
