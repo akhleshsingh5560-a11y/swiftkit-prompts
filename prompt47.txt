@@ -1,0 +1,351 @@
+Create an ultra-premium photorealistic cinematic birthday portrait in a full-screen vertical 9:16 composition.
+
+USE THE UPLOADED REFERENCE IMAGE AS THE PRIMARY VISUAL REFERENCE FOR THE ENTIRE COMPOSITION.
+
+The goal is to recreate the reference image as closely as possible while preserving the uploaded person's exact facial identity.
+
+==================================================
+ABSOLUTE FACE IDENTITY LOCK
+
+Preserve the person's face exactly from the uploaded personal reference.
+
+Keep 100% of the original:
+
+- face shape
+- face cut
+- jawline
+- chin
+- cheekbones
+- forehead
+- eyebrows
+- eye shape
+- eye spacing
+- eyelids
+- nose bridge
+- nose shape
+- nostrils
+- lips
+- cupid's bow
+- lip proportions
+- facial symmetry
+- natural facial expression
+- facial impression
+
+Do NOT beautify, redesign, reshape or reinterpret the face.
+
+Do NOT create a similar-looking person.
+
+The output must clearly remain the SAME PERSON.
+
+==================================================
+HAIRSTYLE
+
+Preserve the reference hairstyle exactly:
+
+long dark brown/black hair,
+soft layered haircut,
+natural volume around the crown,
+soft bangs/fringe falling naturally across the forehead,
+slightly wavy ends,
+hair falling around the shoulders,
+natural individual strands and subtle flyaway hairs.
+
+Do not shorten the hair.
+Do not make it excessively curly.
+Do not change the haircut.
+
+==================================================
+OUTFIT — EXACT REFERENCE MATCH
+
+THIS IS EXTREMELY IMPORTANT.
+
+Recreate the EXACT SAREE visible in the supplied reference image.
+
+Do NOT substitute another saree.
+
+The saree must be:
+
+- deep charcoal-black / dark grey base
+- lightweight semi-sheer fabric
+- elegant translucent appearance
+- dense delicate silver-grey floral embroidery
+- intricate thin vine and flower motifs spread throughout the fabric
+- heavily detailed embroidered saree border
+- matching embroidered pallu
+- subtle silver threadwork
+- realistic textile weave
+- realistic embroidery depth
+- soft flowing folds
+- naturally draped around the body
+
+The silver floral embroidery must be visible across the saree exactly like the reference.
+
+The border must remain clearly visible and detailed.
+
+The pallu must remain semi-transparent and fall naturally over the shoulder and body.
+
+The saree should NOT become plain black.
+
+Do NOT replace the embroidery with generic patterns.
+
+Do NOT change the saree into a shiny silk saree.
+
+Do NOT use a red, purple, blue, gold or brightly coloured saree.
+
+Keep the same dark charcoal/black + silver embroidered appearance from the reference.
+
+The fabric must look physically real, soft and premium.
+
+==================================================
+JEWELLERY
+
+Keep the same understated jewellery aesthetic from the reference:
+
+delicate layered necklaces around the neck,
+small elegant earrings,
+subtle jewellery highlights.
+
+Do not overload the subject with heavy jewellery.
+
+==================================================
+POSE & BODY
+
+Maintain the same elegant standing pose and body orientation as the reference.
+
+Natural relaxed posture.
+
+Keep realistic body proportions.
+
+One side of the saree naturally falls along the body while the embroidered pallu creates soft folds.
+
+Do not change the overall silhouette unnecessarily.
+
+==================================================
+BACKGROUND
+
+Recreate the same dreamy outdoor environment shown in the reference.
+
+A beautiful soft-focus garden/terrace landscape during sunset.
+
+Include:
+
+- distant greenery
+- soft blurred landscape
+- large tree branches in the upper-right
+- small pale lavender/purple blossoms on the branches
+- warm glowing sunset behind the subject
+- soft atmospheric haze
+- distant buildings/landscape kept subtle
+- dreamy cinematic depth
+
+The background must remain secondary to the subject.
+
+==================================================
+FOREGROUND FLOWERS
+
+IMPORTANT:
+
+Keep the large clusters of lavender/purple flowers in the foreground.
+
+Flowers should appear close to the camera and therefore naturally out of focus.
+
+Use strong but realistic foreground bokeh.
+
+Some flowers should partially overlap the lower portion of the saree.
+
+Do NOT make all flowers sharp.
+
+Maintain realistic:
+
+foreground → subject → background
+
+depth separation.
+
+==================================================
+LIGHTING
+
+Match the reference lighting carefully.
+
+Warm golden sunset positioned behind and slightly to the right of the woman.
+
+Create a soft glowing rim light around:
+
+- hair
+- shoulders
+- saree edges
+
+Add gentle diffused fill light toward the face so the face remains bright and clearly recognizable.
+
+The face must NOT become dark because of the backlight.
+
+Create soft warm highlights on the hair and silver embroidery.
+
+Use subtle atmospheric bloom around the sunset.
+
+==================================================
+COLOR GRADING
+
+Match the reference's dreamy cinematic lavender-gold color palette.
+
+Use:
+
+soft lavender
+muted purple
+warm golden sunlight
+soft pink highlights
+deep charcoal-black clothing
+natural warm skin tones
+subtle cream highlights
+
+Balanced HDR tonal range.
+
+Soft cinematic contrast.
+
+Rich but controlled colours.
+
+No neon appearance.
+
+No excessive purple tint on the skin.
+
+==================================================
+CAMERA & COMPOSITION
+
+Full-screen vertical 9:16.
+
+Portrait photography.
+
+Approximately 70–85mm full-frame portrait lens look.
+
+Natural eye-level perspective.
+
+Subject positioned slightly right of center, matching the reference.
+
+Leave generous negative space on the left side.
+
+The woman must remain large enough in the frame for the face to be clearly visible.
+
+Do not make the subject extremely small.
+
+Do not excessively zoom out.
+
+Keep the overall visual proportions and subject placement very close to the supplied reference.
+
+==================================================
+TEXT — SIMPLE ONLY
+
+Do NOT write the name "RIYA".
+
+Do NOT add large names or unnecessary paragraphs.
+
+Only add a small, elegant birthday greeting in the empty left-side area:
+
+"HAPPY BIRTHDAY"
+
+Use refined thin serif typography.
+
+Very subtle soft lavender-white glow.
+
+Keep the text elegant, minimal and secondary.
+
+Do not allow the text to overlap the woman's face or body.
+
+==================================================
+SKIN
+
+Preserve the person's natural skin tone.
+
+Make the visible skin smooth, bright, healthy and softly luminous.
+
+Maintain realistic skin texture.
+
+Use gentle warm-pink/golden sunset highlights.
+
+Do NOT make the skin plastic, waxy or artificially pale.
+
+Keep face, neck, arms and hands consistently balanced.
+
+==================================================
+DEPTH OF FIELD
+
+Sharp focus on the woman's face and saree details.
+
+Soft background blur.
+
+Strong natural optical bokeh in the foreground flowers.
+
+Realistic lens-based depth of field.
+
+No artificial cutout effect.
+
+==================================================
+FINAL VISUAL STYLE
+
+Ultra-photorealistic luxury birthday editorial portrait.
+
+Premium cinematic photography.
+
+Natural realistic skin.
+
+Exact facial identity.
+
+Exact hairstyle.
+
+EXACT DARK CHARCOAL/BLACK SILVER-EMBROIDERED SAREE.
+
+Dreamy lavender garden.
+
+Warm golden sunset.
+
+Soft glowing rim light.
+
+Foreground lavender flower bokeh.
+
+Elegant minimal "HAPPY BIRTHDAY" text.
+
+Full-screen 9:16 composition.
+
+==================================================
+NEGATIVE CONSTRAINTS
+
+NO different saree.
+NO plain black saree.
+NO colourful saree.
+NO red saree.
+NO purple saree.
+NO gold saree.
+NO generic embroidery.
+NO altered embroidery pattern.
+NO missing silver floral embroidery.
+NO changed saree border.
+NO changed pallu.
+NO opaque fabric.
+NO excessive fabric shine.
+NO face replacement.
+NO identity drift.
+NO changed nose.
+NO changed lips.
+NO changed eyes.
+NO changed jawline.
+NO changed facial impression.
+NO changed hairstyle.
+NO plastic skin.
+NO wax skin.
+NO cartoon.
+NO anime.
+NO artificial face.
+NO excessive beauty filter.
+NO excessive zoom-out.
+NO cropped head.
+NO distorted hands.
+NO extra fingers.
+NO text "RIYA".
+NO large unnecessary typography.
+
+FINAL OUTPUT MUST FEEL LIKE THE SAME REFERENCE PHOTOGRAPH:
+same dark embroidered saree,
+same elegant styling,
+same dreamy purple-flower environment,
+same sunset atmosphere,
+same cinematic lighting,
+same overall composition,
+while preserving the uploaded person's exact face and identity.
