@@ -1,0 +1,27 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC PORTRAIT — use the uploaded reference image as the primary visual reference and recreate the scene as closely as possible.
+
+FACE IDENTITY LOCK — VERY IMPORTANT:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT CHANGE THE FACE, DO NOT TOUCH JAWLINE, DO NOT MODIFY EYES, EYEBROWS, NOSE, LIPS, CHIN, CHEEKBONES, FOREHEAD, FACE SHAPE, FACIAL PROPORTIONS OR NATURAL EXPRESSION. PRESERVE THE ORIGINAL FACIAL STRUCTURE AND IDENTITY 100%. NO FACE BEAUTIFICATION, NO FACE REDESIGN, NO FACE REGENERATION, NO AI-ALTERED FEATURES. Keep the face exactly as provided in the reference.
+
+Recreate the same elegant Indian woman standing beside a large blooming pink cherry-blossom tree. Match the reference composition, camera angle, framing, body posture, head position, hand placement, expression, perspective and overall visual balance as closely as possible.
+
+She is wearing the same soft pastel blush-pink traditional Indian saree with delicate floral embroidery, translucent flowing fabric, intricate decorative border and matching blouse with elegant puff sleeves. Preserve the exact drape and layered fabric appearance. Add realistic fine embroidery threads, tiny floral motifs, subtle fabric folds, natural cloth texture and premium textile detailing.
+
+Keep the same long, straight, dark-brown/black silky hair flowing naturally behind her, with individual strands clearly visible and realistic. Hair should have the same direction, length, volume, movement and smooth flowing appearance as the reference. Do not change the hairstyle.
+
+Preserve the same traditional jewelry: detailed maang tikka, elegant earrings, layered choker necklace, red-and-white bangles and delicate traditional accessories. Every jewelry piece should have realistic metallic reflections, tiny stones, engraved details and natural highlights.
+
+BACKGROUND:
+A large mature cherry-blossom tree filled with dense clusters of soft pink flowers, dark textured branches and scattered petals floating naturally through the air. Warm dreamy garden atmosphere, soft greenery and a glowing distant background. Maintain the same romantic springtime aesthetic and depth.
+
+LIGHTING:
+Warm golden-hour cinematic sunlight coming from the side/back, beautiful rim light around the hair, soft glowing highlights on the saree, realistic skin illumination, gentle shadows, natural bounce light, subtle atmospheric haze, dreamy but photorealistic lighting.
+
+CAMERA & QUALITY:
+Professional high-end fashion photography, cinematic portrait photography, realistic depth of field, natural perspective, sharp subject separation, soft creamy bokeh, 85mm portrait-lens look, high dynamic range, realistic exposure, extremely detailed textures, lifelike skin texture, individual hair strands, detailed fabric fibers, realistic jewelry reflections, natural hands and fingers, physically accurate shadows.
+
+ULTRA DETAIL:
+8K-quality appearance, ultra-sharp micro-details, photorealistic textures, realistic skin pores, fine hair strands, individual flower petals, detailed tree bark, intricate embroidery, realistic jewelry craftsmanship, subtle fabric transparency, natural wrinkles and folds, cinematic color grading, high dynamic range, premium editorial photography, realistic depth, clean edges, no artificial plastic appearance.
+
+NEGATIVE PROMPT:
+face change, face replacement, altered identity, different facial structure, modified jawline, changed eyes, changed nose, changed lips, changed eyebrows, face reshaping, beauty filter, plastic skin, over-smoothing, artificial face, distorted hands, extra fingers, missing fingers, malformed jewelry, distorted saree, bad anatomy, duplicate objects, blurry face, low resolution, oversharpening, unnatural skin, cartoon, anime, CGI look, watermark, text, logo, excessive saturation.
