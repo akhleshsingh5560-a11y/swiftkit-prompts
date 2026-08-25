@@ -1,0 +1,31 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC DOUBLE-EXPOSURE PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as closely as possible, preserving the same person, same face, same hairstyle, same hair texture, same facial expression, same pose, same body position, same clothing, same motorcycle, same camera angle, same framing, same background, same sunset, same double-exposure composition and same overall visual arrangement.
+
+FACE IDENTITY LOCK — NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT CHANGE THE FACE, DO NOT TOUCH THE JAWLINE, DO NOT MODIFY FACE SHAPE, FOREHEAD, EYEBROWS, EYES, EYELIDS, NOSE, NOSTRILS, CHEEKBONES, CHEEKS, LIPS, CHIN, EARS OR FACIAL PROPORTIONS. PRESERVE ORIGINAL FACIAL IDENTITY 100%. NO FACE REGENERATION, NO FACE SWAP, NO BEAUTIFICATION, NO FACE SLIMMING, NO FACIAL REDESIGN. Keep the exact natural expression and original facial proportions from the reference.
+
+HAIR — Preserve the exact same messy, naturally tousled dark black hairstyle shown in the reference. Keep the same haircut, hair length, volume, fringe direction and individual wavy strands. Extremely detailed realistic hair strands, natural flyaways, subtle highlights and cinematic wind texture. DO NOT change the hairstyle.
+
+MAIN SUBJECT — Preserve the same young man sitting casually on the motorcycle in the exact same position. Same relaxed posture, same head turned toward the right, same gaze direction, same hands and body positioning. Keep the same casual oversized beige/taupe long-sleeve sweatshirt, dark cargo-style pants and light-colored sneakers.
+
+MOTORCYCLE — Preserve the same classic retro-style black motorcycle with the exact same overall shape and placement. Detailed fuel tank, chrome front forks, engine components, handlebars, headlight, wheels, tires, spokes, exhaust, suspension and metallic surfaces. Realistic reflections, subtle dust and natural outdoor texture.
+
+HEADPHONES — Preserve the same black over-ear headphones resting around the subject's neck, with realistic ear-cup details, headband texture and subtle reflections.
+
+DOUBLE-EXPOSURE COMPOSITION — Recreate the large semi-transparent cinematic portrait of the SAME person occupying the upper half of the image, blended naturally into the dramatic sky and mountain landscape. The large portrait must preserve the same face, hairstyle, gaze direction, facial proportions and expression. Create a seamless artistic double-exposure effect without changing the identity.
+
+BACKGROUND — Dramatic mountain valley landscape at sunset, layered green hills, distant mountains, soft mist and atmospheric haze. Large glowing orange sun near the horizon, vivid golden-orange sunset sky, deep blue-gray clouds mixed with warm illuminated clouds, cinematic atmospheric perspective.
+
+FOREGROUND — Preserve the green tea-plant-like vegetation surrounding the motorcycle and dirt mountain path. Natural leaves with highly detailed textures, realistic depth, subtle foreground blur and cinematic framing.
+
+LIGHTING — Epic cinematic sunset lighting, warm orange rim light, soft golden illumination across the subject, subtle cool ambient shadows, realistic volumetric sunlight, atmospheric haze, natural light falloff and beautiful HDR exposure. Preserve the exact warm-versus-cool lighting balance of the reference.
+
+DETAILING — Ultra-fine realistic skin texture, individual hair strands, detailed fabric fibers, realistic stitching, natural clothing folds, highly detailed motorcycle metal and mechanical components, realistic tire rubber, detailed vegetation, mountain textures, atmospheric mist, cloud formations and tiny environmental details.
+
+CAMERA — Premium full-frame cinematic photography, vertical portrait composition, realistic 85mm cinematic lens aesthetic, shallow-to-medium depth of field, natural perspective, high dynamic range, realistic optical rendering, crisp subject detail, subtle background depth, professional editorial color grading.
+
+COLOR GRADING — Cinematic teal-and-orange inspired sunset grade while maintaining natural skin tones, rich mountain greens, deep blacks, glowing orange sunlight and realistic highlights. Premium movie-poster aesthetic, sophisticated contrast, natural saturation, realistic tonal range.
+
+QUALITY — Ultra-realistic, photorealistic, extremely high detail, 8K quality appearance, HDR, sharp focus on the main subject, realistic textures, realistic materials, natural skin, physically accurate lighting, cinematic depth, premium professional photography.
+
+IMPORTANT PRESERVATION RULE — Do not redesign, reinterpret or replace anything from the reference. Keep the SAME FACE, SAME HAIR, SAME JAWLINE, SAME EXPRESSION, SAME POSE, SAME CLOTHES, SAME MOTORCYCLE, SAME HEADPHONES, SAME DOUBLE-EXPOSURE PORTRAIT, SAME SUNSET, SAME MOUNTAINS, SAME FRAMING and SAME COMPOSITION. Only enhance resolution, realism, texture, lighting and fine details.
+
+NEGATIVE PROMPT — face change, face regeneration, different person, altered identity, changed jawline, different eyes, different eyebrows, different nose, different lips, different chin, changed facial proportions, different hairstyle, straightened hair, short hair, different haircut, changed expression, changed pose, different motorcycle, different clothes, different headphones, altered composition, missing double exposure, distorted face, deformed hands, extra fingers, missing fingers, bad anatomy, plastic skin, beauty filter, over-smoothing, CGI, cartoon, anime, artificial face, low resolution, blur, noise, oversharpening, artifacts, warped motorcycle, distorted wheels, unrealistic lighting, oversaturated colors.
