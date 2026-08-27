@@ -1,0 +1,43 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC LUXURY PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as closely as possible, preserving the exact composition, framing, camera angle, subject placement, body posture, seated position, hairstyle, facial appearance, beard, sunglasses, clothing, accessories, chair, room arrangement, background objects, lighting direction, shadows, reflections, color grading, atmosphere and overall photographic mood.
+
+FACE IDENTITY LOCK — NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT TOUCH THE FACE, DO NOT MODIFY OR REDESIGN THE FACE, DO NOT TOUCH JAWLINE, DO NOT CHANGE JAWLINE SHAPE OR STRUCTURE, DO NOT CHANGE FACE SHAPE, DO NOT CHANGE FOREHEAD, DO NOT CHANGE EYEBROWS, DO NOT CHANGE EYES, DO NOT CHANGE EYE SHAPE OR EYE SPACING, DO NOT CHANGE NOSE, DO NOT CHANGE NOSE SHAPE OR BRIDGE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE EARS, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR ALTER IDENTITY, PRESERVE ORIGINAL FACIAL STRUCTURE 100%, PRESERVE AUTHENTIC IDENTITY PERFECTLY.
+
+Create an ultra-realistic cinematic luxury portrait of the exact same man sitting confidently and casually in a premium dark brown/black leather armchair inside an elegant luxury interior. Preserve the exact seated pose from the reference: body relaxed into the chair, legs crossed naturally, one arm resting along the armrest with the hand relaxed downward, the other arm resting on the opposite armrest, shoulders relaxed, confident masculine posture and composed expression.
+
+HAIR — Preserve the exact hairstyle from the reference: thick dark brown-to-black hair, naturally textured and slightly tousled, medium-length volume with realistic strands and subtle flyaway hairs. Every individual hair strand should have realistic texture, natural highlights and dimensional separation. Do not change the hairstyle or hair length.
+
+FACE & BEARD — Keep the original facial identity exactly as provided in the reference. Preserve the same beard and moustache style, natural density, beard outline and facial-hair texture. Realistic skin pores and natural skin texture only, without changing any facial structure.
+
+SUNGLASSES — Preserve the same dark black rectangular sunglasses, exact shape and placement, realistic dark lenses, subtle warm reflections from the room lighting, detailed frame edges and natural fit on the face.
+
+CLOTHING — Preserve the same deep burgundy/dark red premium button-up shirt with the collar naturally open, long sleeves, realistic fabric folds, subtle wrinkles, visible buttons, stitching and luxurious fabric texture. Keep the same black trousers with natural folds and realistic material texture. Preserve the same polished black formal shoes visible in the reference.
+
+ACCESSORIES — Preserve the wristwatch on the man's wrist exactly as shown, including dark metal strap, detailed watch face, metallic highlights and realistic reflections. Preserve the ring and all visible accessories without redesigning them.
+
+CHAIR — Keep the same large premium dark leather armchair with broad padded arms, deep cushioning, visible leather grain, stitching, seams, metallic/brass decorative studs around the edges and realistic glossy leather reflections. Preserve its exact position and proportions.
+
+INTERIOR — Recreate the same sophisticated dark luxury interior: deep charcoal/black walls, warm wooden and dark decorative elements, illuminated shelves in the background, elegant indoor plants, warm pendant bulb on the right side, modern table lamp on the left, decorative objects and premium masculine study/lounge atmosphere.
+
+BACKGROUND WALL ART — Preserve the large framed luxury wall artwork on the left side featuring a majestic lion with a crown above its head and the words:
+“DISCIPLINE
+FOCUS
+SUCCESS”
+Keep the artwork in the same position, size, dark background, elegant golden-brown frame and warm illumination.
+
+LIGHTING — Dramatic cinematic low-key lighting, warm amber and golden practical lights, soft directional key light across the subject, subtle warm rim lighting around the hair and shoulders, deep controlled shadows, realistic highlights on skin, sunglasses, watch, leather chair and clothing. Create a premium dark luxury editorial atmosphere with rich contrast and natural light falloff.
+
+FOREGROUND — Preserve the black glossy coffee table in the foreground. Keep the transparent crystal tumbler with amber-colored liquid positioned at the lower-left foreground and the dark luxury hardcover book positioned on the table. Preserve realistic glass refraction, liquid reflections, table reflections and book texture.
+
+DETAIL & MATERIALS — Extremely detailed leather grain, stitching, fabric fibers, individual hair strands, beard hairs, skin pores, realistic hands and fingers, watch mechanics and metallic surfaces, glass reflections, wood texture, plant leaves, wall artwork texture, book cover texture and subtle environmental details.
+
+CAMERA — Professional full-frame DSLR/mirrorless photography, premium 50mm portrait lens aesthetic, realistic perspective, cinematic depth of field, sharp focus on the subject, softly blurred background, natural optical bokeh, realistic lens rendering, high dynamic range, professional editorial photography.
+
+COLOR GRADING — Rich cinematic dark tones with warm amber highlights, deep blacks, subtle burgundy/red tones, natural skin tones, controlled contrast, sophisticated luxury color grading, realistic highlights and shadows, no artificial oversaturation.
+
+ULTRA DETAIL QUALITY — 8K photorealistic quality, extremely high micro-detail, razor-sharp subject details, realistic skin texture, individual hair and beard strands, detailed fabric fibers, precise watch and jewelry details, realistic leather texture, physically accurate reflections, natural shadows, realistic glass refraction, cinematic depth, HDR, professional photography, premium editorial finish.
+
+STRICT PRESERVATION — Do not change the original person's identity, face, jawline, facial proportions, hairstyle, beard, sunglasses, body proportions, pose, clothing style, accessories, chair, room layout, background artwork or overall composition. The final result must look like the SAME photograph recreated with dramatically improved ultra-realistic detail and photographic quality.
+
+NEGATIVE PROMPT — face change, face swap, different identity, altered jawline, modified face shape, changed eyes, changed eyebrows, changed nose, changed lips, changed chin, changed cheekbones, altered facial proportions, beauty filter, plastic skin, artificial face, excessive skin smoothing, different hairstyle, different beard, different sunglasses, different clothes, changed pose, changed body proportions, deformed hands, extra fingers, missing fingers, distorted chair, warped objects, incorrect background, distorted lion artwork, incorrect text, excessive saturation, cartoon, anime, illustration, CGI appearance, low resolution, blur, noise, oversharpening, fake skin, unnatural lighting, bad anatomy, duplicate objects.
+
+FINAL OUTPUT — Ultra-realistic, photorealistic, cinematic luxury masculine portrait, premium dark interior, warm golden illumination, extremely high detail, authentic natural textures, realistic materials, professional camera quality, 8K visual fidelity, cinematic depth and luxury editorial photography aesthetic.
