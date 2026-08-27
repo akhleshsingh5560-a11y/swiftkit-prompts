@@ -1,0 +1,35 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC LUXURY PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the scene as closely as possible while preserving the exact overall composition, framing, camera angle, body position, pose, hairstyle, facial appearance, clothing style, accessories, luxury atmosphere, lighting direction, background arrangement, vehicle placement, reflections, color grading, and photographic mood of the reference image.
+
+FACE IDENTITY LOCK — NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT TOUCH OR MODIFY THE FACE, DO NOT CHANGE JAWLINE, DO NOT CHANGE FACE SHAPE, DO NOT CHANGE FOREHEAD, DO NOT CHANGE EYEBROWS, DO NOT CHANGE EYES, DO NOT CHANGE EYE SHAPE OR EYE SPACING, DO NOT CHANGE NOSE, DO NOT CHANGE NOSE BRIDGE OR NOSTRILS, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE EARS, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT MAKE THE FACE LOOK DIFFERENT, PRESERVE ORIGINAL IDENTITY 100%, PRESERVE AUTHENTIC NATURAL FACIAL STRUCTURE AND FEATURES EXACTLY AS PROVIDED IN THE REFERENCE.
+
+Create a premium ultra-realistic cinematic luxury fashion portrait of the same young man sitting confidently beside the front of a glossy black luxury BMW at night. Preserve the exact relaxed seated pose from the reference: body leaning naturally against the car, one arm resting outward on the side, the other arm raised toward the head while holding/adjusting the sunglasses area, confident masculine posture, legs positioned naturally and accurately.
+
+Keep the same hairstyle: thick dark brown-to-black wavy textured hair with natural volume, slightly messy premium styling, individual hair strands clearly visible, realistic flyaway hairs, detailed curls and natural texture. Preserve the same full beard and moustache appearance, including natural beard density and realistic individual facial-hair strands. Keep the same black rectangular sunglasses with dark lenses and realistic reflections.
+
+CLOTHING — Preserve the same outfit: premium black long-sleeve button-up shirt with a slightly relaxed open collar, natural fabric folds and realistic stitching, paired with tailored black trousers. Preserve the same black formal/luxury shoes. Keep every accessory visible in the reference, including the wristwatch, rings, bracelet/details and all original styling elements. Do not redesign the clothing.
+
+CAR — Keep the same glossy black luxury BMW positioned directly behind and beside the subject. Preserve the recognizable front grille, BMW emblem, headlights, front bumper, hood contours, wheels and overall vehicle proportions exactly as shown. Extremely detailed automotive surfaces, realistic metallic reflections, glossy black paint, crisp headlight illumination, realistic chrome and glass reflections, subtle wet-surface reflections, premium showroom-quality finish.
+
+ENVIRONMENT — Preserve the same upscale nighttime outdoor setting. Dark modern luxury building architecture, warm illuminated vertical wall elements, elegant landscaping and plants, distant city lights, premium urban atmosphere. Keep the large illuminated text/sign on the left side reading exactly:
+“FOCUS
+DISCIPLINE
+SUCCESS”
+with the crown symbol above and decorative stars below, matching the reference placement and appearance.
+
+LIGHTING — Cinematic nighttime luxury lighting with warm golden practical lights, strong but natural rim lighting around the subject and hair, subtle highlights across the black clothing and vehicle, controlled shadows, realistic skin illumination, warm ambient glow, beautiful depth, natural light falloff, sophisticated high-end editorial photography atmosphere.
+
+REFLECTIONS & MATERIAL DETAIL — Ultra-realistic reflections on the BMW body, headlights, windows, metallic trim and wet ground. Preserve realistic reflections without distortion. Detailed black fabric texture, visible shirt stitching, natural wrinkles and folds, realistic leather shoe texture, detailed metal watch and jewelry surfaces, physically accurate highlights.
+
+SKIN & REALISM — Preserve the original face exactly while rendering realistic natural skin texture, subtle pores, fine facial-hair detail, natural skin tones, realistic highlights and shadows. No plastic skin, no excessive smoothing, no artificial beauty filter.
+
+COMPOSITION — Keep the same vertical portrait composition and framing as the reference. Full-body subject prominently positioned in front of the BMW, car occupying the background and lower frame, luxury building and lights visible behind, balanced cinematic negative space, strong subject separation, realistic depth of field.
+
+CAMERA — Professional full-frame DSLR/mirrorless photography look, 50mm–85mm portrait lens aesthetic, realistic perspective, shallow cinematic depth of field, sharp subject focus, soft natural background bokeh, high dynamic range, realistic optical rendering, subtle lens bloom, natural contrast, premium editorial photography.
+
+ULTRA DETAIL — 8K photorealistic quality, extremely high micro-detail, crisp individual hair strands, realistic beard strands, detailed skin pores, precise clothing fibers, stitching and fabric texture, detailed watch and jewelry, accurate fingers and hands, realistic fingernails, detailed BMW grille and emblem, intricate headlights, metallic reflections, realistic wet pavement, natural shadows, cinematic bokeh, volumetric warm light, physically accurate reflections, HDR, professional color grading, realistic depth, sharp focus, extremely clean image quality.
+
+IMPORTANT PRESERVATION — Do not change the original person's identity, face, jawline, facial proportions, hairstyle, beard, pose, body proportions, clothing, sunglasses, accessories, BMW placement, composition or overall visual concept. The final output must look like the SAME photograph recreated in ultra-realistic high-detail quality, not a different person or redesigned scene.
+
+NEGATIVE PROMPT — face change, face swap, different identity, altered jawline, changed eyes, changed eyebrows, changed nose, changed lips, changed chin, changed cheekbones, altered facial proportions, beauty filter, plastic skin, artificial face, deformed hands, extra fingers, missing fingers, distorted body, changed pose, changed hairstyle, different clothes, different car, incorrect BMW details, warped vehicle, fake reflections, oversaturated colors, cartoon, anime, illustration, CGI look, low resolution, blur, excessive sharpening, unnatural skin, duplicate objects, distorted background, text errors, bad anatomy, unrealistic lighting.
+
+FINAL QUALITY: ultra-realistic, photorealistic, cinematic luxury editorial photography, extremely high detail, natural textures, realistic lighting, premium color grading, sharp subject, authentic photographic depth, 8K quality, professional camera rendering.
