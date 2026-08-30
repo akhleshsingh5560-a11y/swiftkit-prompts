@@ -1,0 +1,37 @@
+ULTRA-REALISTIC HIGH-DETAILING CINEMATIC PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as close to the reference as physically possible, with the same composition, same framing, same camera angle, same subject placement, same body proportions, same pose, same hand position, same hairstyle, same hair arrangement, same facial appearance, same expression, same saree styling, same jewelry, same accessories, same background, same lighting, same shadows, same colors, same depth of field and the same overall photographic appearance.
+
+FACE IDENTITY LOCK — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, KEEP FACE 100% SAME, DO NOT TOUCH JAWLINE, DO NOT CHANGE JAWLINE, DO NOT MODIFY FACE SHAPE, DO NOT MODIFY FACIAL STRUCTURE, DO NOT CHANGE EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE FACE WIDTH OR PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT MAKE THE FACE LOOK LIKE A DIFFERENT PERSON. Preserve the exact original identity and natural facial proportions from the uploaded reference. Only improve image quality, sharpness, texture and realism — NEVER alter the face.
+
+HAIR — EXACT SAME HAIRSTYLE:
+Preserve the exact black hairstyle from the reference image. Keep the same updo/braided-back arrangement, same crown volume, same side-parted hair, same front bangs/fringe falling naturally across the forehead, same loose face-framing strands, same bun placement, same hair length visible around the back, same hair thickness, same texture and same direction of every major hair section. Preserve the small white pearl-like hair accessories placed throughout the hairstyle and the decorative butterfly hair ornament on the right side with its long hanging ornamental chains. Do NOT make the hair open, straight, curly, short, long, loose or different. Do NOT redesign the hairstyle in any way.
+
+FACE & EXPRESSION:
+Maintain the exact three-quarter/front-facing head position and the same calm, elegant expression. Preserve the exact eye direction looking slightly toward the left side of the frame, natural lips, eyebrows, makeup, bindi and facial proportions. Natural realistic skin texture with visible pores and subtle fine details, but absolutely no facial reshaping.
+
+OUTFIT — EXACT REFERENCE:
+Elegant light pastel sky-blue saree with intricate silver/gold embroidery and delicate shimmering floral motifs. Preserve the exact saree color, fabric texture, embroidery density, decorative border, blouse design, puffed short sleeves, sleeve embroidery, neckline, saree draping and natural folds. The saree should have a soft luxurious silk-like texture with realistic woven fibers and subtle reflective highlights. Keep the same draping pattern across the shoulder and torso.
+
+JEWELRY & ACCESSORIES:
+Preserve the exact traditional jewelry visible in the reference: ornate dangling earrings, decorative butterfly hair accessory with hanging chains, multiple gold bangles on the right wrist, decorative bracelet/bangle on the left wrist and all other visible jewelry. Maintain accurate metallic texture, fine engraved patterns, gemstone details and realistic reflections. Do not add or remove jewelry.
+
+POSE & HANDS:
+Keep the exact standing pose from the reference. Both arms are naturally positioned in front of the body, with hands gently overlapping/resting together around the waist area. Preserve exact finger placement, wrist angle, arm position, body posture and proportions. Realistic human anatomy, natural fingers, realistic nails and skin texture. No extra fingers, missing fingers or distorted hands.
+
+BACKGROUND:
+Keep the same simple muted blue-gray studio-style background with subtle smooth tonal variation. No background replacement, no scenery, no furniture, no additional objects. Preserve the clean minimal portrait environment and the same visual separation between subject and background.
+
+LIGHTING:
+Soft professional studio lighting, gentle diffused illumination across the face and saree, subtle highlights on the hair and jewelry, soft natural shadows around the neck and clothing folds, balanced exposure, realistic skin tones and controlled highlights. Preserve the lighting direction and overall mood of the reference.
+
+CAMERA & COMPOSITION:
+Vertical portrait orientation, same crop and framing as the reference, same camera distance and perspective, subject occupying the same percentage of the frame, natural lens perspective, realistic depth of field, sharp subject with a clean softly blurred background, premium professional portrait photography.
+
+ULTRA HIGH DETAIL:
+8K ultra-detailed photorealistic quality, extremely detailed individual hair strands, realistic flyaway hairs, highly detailed braided/updo texture, natural skin pores, fine eyelashes, realistic eyebrows, detailed saree fibers, microscopic embroidery patterns, individual decorative motifs, realistic metallic jewelry surfaces, tiny gemstone details, realistic hands and fingers, accurate fabric folds, physically accurate shadows, subtle reflections, cinematic dynamic range, professional DSLR photography, high micro-contrast, natural sharpness, realistic texture reproduction, premium fashion editorial photography, lifelike skin, realistic material rendering, clean edges and extremely refined details.
+
+STRICT REFERENCE PRESERVATION:
+The uploaded image is the absolute visual reference. Do not reinterpret, redesign or stylize any element. Keep the face, jawline, hairstyle, bangs, pearl hair accessories, butterfly ornament, earrings, saree, blouse, jewelry, hand position, body posture, background, framing and lighting exactly consistent with the reference. Enhance ONLY resolution, clarity, realism, texture and fine details.
+
+NEGATIVE PROMPT:
+face change, face replacement, different identity, different person, face reshaping, jawline change, altered jawline, different face shape, different eyes, different eyebrows, different nose, different lips, different chin, different cheekbones, different forehead, beauty filter, excessive makeup, plastic skin, artificial skin, face smoothing, face enhancement that changes identity, hairstyle change, different hairstyle, open hair, loose hair, curly hair, straight long hair, short hair, missing bangs, missing pearl accessories, missing butterfly ornament, different jewelry, missing earrings, different saree, different saree color, altered embroidery, changed blouse, changed pose, changed hands, extra fingers, missing fingers, deformed fingers, distorted anatomy, unrealistic skin, CGI, cartoon, anime, 3D render, oversharpening, excessive HDR, blur, low resolution, background replacement, additional objects, text, watermark, logo.
