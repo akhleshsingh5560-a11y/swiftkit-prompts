@@ -1,0 +1,37 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as closely as possible, preserving the exact composition, framing, camera angle, subject placement, body proportions, pose, hand position, hairstyle, hair length, facial appearance, expression, saree styling, jewelry, flower placement, background, lighting direction, shadows, highlights, reflections, depth of field, color grading and overall photographic mood.
+
+FACE IDENTITY LOCK — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, PRESERVE THE ORIGINAL FACE 100%, DO NOT TOUCH THE JAWLINE, DO NOT CHANGE JAWLINE, DO NOT MODIFY EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE FACE WIDTH, DO NOT CHANGE FACE SHAPE, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT MAKE THE FACE DIFFERENT, DO NOT ALTER THE ORIGINAL IDENTITY. Keep the exact original facial structure, natural expression, eye shape, nose shape, lips, cheeks and jawline from the reference image.
+
+HAIR — EXACT REFERENCE MATCH:
+Preserve the exact long, straight, naturally flowing black hair shown in the reference. Keep the same center-parted hairstyle, same hairline, same length, same thickness, same volume and same natural texture. Hair should fall naturally behind and around the shoulders exactly as shown. Preserve the loose strands around the face and the subtle backlit hair strands. Do not shorten, curl, braid, recolor or redesign the hairstyle.
+
+SUBJECT & POSE:
+Young woman standing in a graceful front-facing portrait pose, body slightly angled naturally toward the camera, shoulders relaxed, both arms positioned exactly like the reference, hands resting naturally across the lower front of the body. Preserve the exact posture, proportions, hand placement and overall silhouette.
+
+OUTFIT:
+Elegant traditional white/off-white saree with delicate white floral embroidery and subtle woven patterns, paired with a matching short-sleeved blouse. Preserve the exact saree draping, fabric transparency, folds, borders, embroidery placement, sleeve design and natural fabric flow from the reference. The saree must look premium, soft, lightweight and realistic.
+
+JEWELRY & ACCESSORIES:
+Preserve the delicate gold chain necklace, traditional dangling earrings, small black bindi, decorative nose jewelry/nose ring, and the multiple colorful traditional bangles on the wrists exactly as visible in the reference. Maintain realistic metallic reflections, tiny gemstone details and authentic jewelry texture.
+
+FLOWER DETAIL:
+Keep the large vivid red hibiscus flower positioned beside the right side of the woman's hair exactly as shown. Preserve its natural petals, layered structure, realistic texture and bright red color.
+
+LIGHTING:
+Cinematic warm backlighting from behind the subject, creating a beautiful golden rim light around the hair and shoulders. Natural warm highlights on the skin and saree, realistic soft shadows, subtle glow, balanced exposure, gentle lens flare and authentic photographic lighting. Keep the dramatic backlit atmosphere exactly like the reference.
+
+BACKGROUND:
+Dark, simple indoor background with a doorway/architectural structure visible on the right side, warm ambient light behind the subject and subtle environmental details. Preserve the original background composition, depth and dark warm-brown atmosphere. Do not replace the environment.
+
+CAMERA & COMPOSITION:
+Vertical portrait composition, same framing and crop as the reference, subject centered slightly toward the middle, medium-to-full upper-body framing, realistic camera perspective, natural proportions, shallow depth of field, softly blurred background, cinematic photographic composition.
+
+ULTRA DETAILING:
+Extremely high-resolution, photorealistic skin texture, natural pores, fine facial details without altering identity, individual hair strands, realistic eyelashes and eyebrows, detailed fabric fibers, microscopic embroidery details, realistic saree folds, highly detailed bangles, realistic gold reflections, detailed earrings, natural hand and finger anatomy, realistic nails, accurate shadows, physically realistic light falloff, subtle highlights, realistic lens rendering, professional DSLR photography, premium editorial portrait quality, HDR dynamic range, natural skin tones, cinematic depth, crisp subject separation, realistic texture reproduction, 8K-level detail, ultra-sharp but natural, no artificial plastic appearance.
+
+IMPORTANT PRESERVATION:
+Everything must remain faithful to the uploaded reference image. Do not change the face, hairstyle, pose, clothing design, jewelry, flower position, background, composition or overall visual identity. Enhance ONLY image quality, realism, clarity, texture and fine details while keeping the original appearance unchanged.
+
+NEGATIVE PROMPT:
+face change, face replacement, different person, altered identity, modified jawline, sharp jawline, different eyes, different eyebrows, different nose, different lips, different chin, different cheekbones, different forehead, face reshaping, beauty filter, plastic skin, artificial skin, excessive makeup, altered hairstyle, short hair, curly hair, braided hair, different saree, different jewelry, missing jewelry, missing flower, changed pose, changed hands, extra fingers, missing fingers, deformed hands, distorted anatomy, duplicate accessories, blurry face, low resolution, oversharpening, excessive smoothing, cartoon, anime, CGI, 3D render, artificial lighting, unrealistic skin, bad proportions, background replacement, unwanted objects, watermark, text, logo.
