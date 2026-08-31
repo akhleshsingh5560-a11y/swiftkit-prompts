@@ -1,0 +1,49 @@
+ULTRA-REALISTIC HIGH-DETAILING CINEMATIC FULL-BODY PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as close to the reference as physically possible, with the same composition, vertical framing, camera angle, perspective, subject placement, body proportions, standing posture, hand positions, hairstyle, sunglasses, facial appearance, clothing, tractor, bamboo stick, vegetation, background, lighting, shadows, depth of field, color grading and overall photographic mood.
+
+FACE IDENTITY LOCK — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, KEEP FACE 100% SAME, DO NOT TOUCH JAWLINE, DO NOT CHANGE JAWLINE, DO NOT MODIFY FACE SHAPE, DO NOT MODIFY FACIAL STRUCTURE, DO NOT CHANGE EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE EARS, DO NOT CHANGE FACE WIDTH, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT MAKE THE PERSON LOOK LIKE A DIFFERENT PERSON. Preserve the exact identity and natural facial structure from the uploaded reference. FACE MUST REMAIN COMPLETELY UNALTERED. Only improve image resolution, sharpness, texture, lighting realism and fine photographic detail.
+
+HAIR — EXACT REFERENCE HAIRSTYLE:
+Preserve the exact messy, naturally tousled black hairstyle from the reference image. Keep the same short-to-medium hair length, dense textured volume, irregular curls/waves, fringe falling naturally across the forehead, side shape, hairline, individual strand direction and overall silhouette. Do not straighten, lengthen, shorten, slick back, redesign or change the hairstyle. Preserve realistic individual hair strands, subtle flyaway hairs and natural texture exactly matching the reference.
+
+SUNGLASSES:
+Keep the exact round dark sunglasses shown in the reference, with the same frame shape, lens size, lens darkness, bridge position, angle, reflections and placement on the face. Do not remove, replace, enlarge or redesign the sunglasses.
+
+OUTFIT — EXACT SAME:
+Preserve the loose white long-sleeve button-up shirt exactly as shown. Keep the same open collar, button arrangement, chest pocket, oversized relaxed fit, rolled/folded sleeve details, fabric thickness, natural wrinkles, creases and subtle translucent fabric texture. Preserve the exact black loose-fit trousers with the same waist position, relaxed silhouette, folds and proportions. Do not change colors, materials, fit or clothing design.
+
+WATCH:
+Preserve the wristwatch exactly where visible on the subject's wrist, including its size, dark dial, metallic/dark strap, proportions and natural reflections. Do not remove or redesign it.
+
+POSE & BODY POSITION:
+Maintain the exact standing pose from the reference. The subject stands casually beside the tractor, body slightly angled, head turned toward the right side of the frame, one hand gripping the bamboo stick at approximately the same height, the other hand naturally placed inside the trouser pocket. Preserve the exact shoulder position, arm angles, elbow placement, wrist position, hip position, leg crossing/stance, knee alignment, foot placement and natural body proportions. Do not change the pose or anatomy.
+
+BAMBOO STICK:
+Preserve the long natural bamboo/wooden stick held vertically beside the subject. Keep the same approximate thickness, height, position, angle, weathered brown surface, natural nodes, texture and hand placement. Do not replace it with another object.
+
+TRACTOR — EXACT REFERENCE:
+Preserve the old vintage/rustic tractor directly behind and beside the subject. Keep the same aged greenish-gray and rusty metal appearance, front grille, round headlamp, hood, engine components, exhaust pipe, steering/structural elements, large rear tire, smaller visible front components and weathered mechanical details. Maintain the exact tractor placement and scale relative to the subject. Preserve realistic rust, scratches, dust, worn paint, metal texture and natural reflections. Do not modernize or redesign the tractor.
+
+NATURAL FARM ENVIRONMENT:
+Preserve the lush rural greenery surrounding the subject and tractor. Keep the dense tropical vegetation, broad leaves, trees, grass, shrubs and naturally layered green background exactly consistent with the reference. Maintain the soft out-of-focus forest atmosphere and realistic depth separation.
+
+BACKGROUND:
+Deep natural green forest/farm environment with dense foliage, large broad leaves and subtle distant vegetation. Keep the background softly blurred with cinematic shallow depth of field while maintaining recognizable natural shapes. Do not replace the background with a studio, city, road or artificial environment.
+
+GROUND:
+Preserve the uneven grassy ground and natural rural terrain. Keep foreground grass blades, small plants, soil patches and subtle natural texture. Maintain realistic contact shadows around the subject's shoes, legs, bamboo stick and tractor tires.
+
+LIGHTING:
+Soft diffused natural daylight filtered through dense greenery. Preserve the slightly moody, muted cinematic lighting of the reference, with gentle highlights on the white shirt, subtle shadows across the face and clothing, soft rim separation around the hair and realistic ambient illumination throughout the scene. Natural exposure, realistic dynamic range, controlled highlights and deep but detailed shadows.
+
+CAMERA & COMPOSITION:
+Vertical full-body environmental portrait, same camera height, same lens perspective, same framing and same subject-to-frame ratio as the reference. Keep the subject centered slightly toward the right, tractor occupying the left/background area, bamboo stick extending vertically through the left side of the subject, and enough surrounding greenery visible around the entire composition. Professional cinematic outdoor photography, realistic perspective, shallow depth of field, natural bokeh and authentic DSLR/mirrorless camera rendering.
+
+ULTRA HIGH DETAIL:
+8K ultra-high-resolution photorealistic output, extremely detailed but natural, realistic skin pores and fine skin texture without changing facial identity, individually defined hair strands, realistic sunglasses reflections, highly detailed shirt fibers, stitching, buttons and natural wrinkles, detailed black trouser fabric, realistic watch materials, detailed bamboo grain and nodes, authentic tractor metal texture, rust, scratches, worn paint and mechanical components, realistic tire tread, detailed grass blades, leaves and foliage, subtle atmospheric haze, physically accurate shadows, natural ambient occlusion, cinematic depth, realistic optical rendering, professional photography quality, high micro-contrast, clean fine edges, natural sharpness, lifelike textures and premium editorial color grading.
+
+REFERENCE PRESERVATION — STRICT:
+The uploaded reference image is the absolute visual source. Do not reinterpret, redesign, beautify, stylize or replace any major element. Preserve the exact face, jawline, hairstyle, sunglasses, clothing, watch, pose, hand placement, bamboo stick, tractor, greenery, background, framing, lighting and overall atmosphere. Enhance ONLY resolution, clarity, realism, texture and fine photographic details.
+
+NEGATIVE PROMPT:
+face change, face replacement, different identity, different person, altered facial structure, altered jawline, jawline change, face reshaping, different eyes, different eyebrows, different nose, different lips, different chin, different cheekbones, different forehead, different ears, face beautification, beauty filter, plastic skin, excessive skin smoothing, artificial skin, hairstyle change, different hairstyle, straight hair, long hair, short hair, slicked hair, missing sunglasses, different sunglasses, outfit change, different shirt, different trousers, different watch, pose change, altered hand position, altered leg position, different body proportions, deformed anatomy, extra fingers, missing fingers, distorted hands, changed bamboo stick, missing bamboo stick, modern tractor, different tractor, tractor replacement, clean new tractor, background replacement, city background, studio background, artificial greenery, missing vegetation, excessive blur, low resolution, CGI, 3D render, cartoon, anime, illustration, oversharpening, excessive HDR, unnatural skin, artificial lighting, unrealistic colors, distorted objects, duplicate objects, watermark, logo.
