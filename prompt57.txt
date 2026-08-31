@@ -1,0 +1,66 @@
+ULTRA-REALISTIC HIGH-DETAILING CINEMATIC FULL-BODY PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the image as close to the reference as physically possible. Preserve the exact original composition, vertical framing, camera angle, perspective, subject placement, body proportions, standing pose, crossed-leg position, hand placement, hairstyle, facial appearance, sunglasses, clothing, shoes, wall artwork, handwritten typography, wings, crown, arrows, stars, lightning doodles, shadows, lighting, color grading and overall photographic mood.
+
+FACE IDENTITY LOCK — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, KEEP FACE 100% SAME, DO NOT TOUCH JAWLINE, DO NOT CHANGE JAWLINE, DO NOT MODIFY FACE SHAPE, DO NOT MODIFY FACIAL STRUCTURE, DO NOT CHANGE EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE EARS, DO NOT CHANGE FACE WIDTH, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT MAKE THE PERSON LOOK LIKE A DIFFERENT PERSON. Preserve the exact identity and natural facial structure from the reference image. Only improve resolution, texture, clarity and photographic realism. FACE MUST REMAIN UNALTERED.
+
+HAIR — EXACT REFERENCE HAIRSTYLE:
+Preserve the exact short-to-medium black hairstyle shown in the reference. Keep the same voluminous textured top, same upward and slightly swept-back styling, same side shape, same hairline, same individual hair direction, same thickness, same natural texture and same silhouette. Do not make the hair longer, shorter, curly, straight, wet, slicked-back or otherwise different. Preserve every major hair strand and the original hairstyle exactly.
+
+SUNGLASSES:
+Keep the exact black/dark rectangular sunglasses, same frame shape, same size, same position on the face, same lens darkness, same angle and same reflections. Do not remove, replace or redesign the sunglasses.
+
+OUTFIT — EXACT SAME:
+Preserve the black long-sleeve half-zip/quarter-zip pullover with the same collar, zipper, sleeve length, cuffs, relaxed fit, fabric texture and natural folds. Under the slightly open zipper, preserve the subtle white inner shirt visible at the neckline. Keep the exact loose white trousers, same waist position, same wide relaxed fit, same fabric texture and same folds.
+
+POSE & BODY POSITION:
+Maintain the exact full-body pose from the reference. The subject is standing casually against the wall, leaning slightly backward, both hands placed naturally inside the trouser pockets, torso relaxed, one leg straight and the other leg crossing in front, ankles positioned exactly as shown. Preserve exact shoulder angle, hip position, knee bend, leg proportions, foot placement and body posture. Natural realistic human anatomy. Do not change the pose.
+
+SHOES:
+Preserve the exact clean white low-top sneakers, same shape, same sole thickness, same laces, same proportions and same placement. Maintain realistic shoe material, subtle fabric texture and natural shadows on the floor.
+
+WALL & GRAPHIC ARTWORK — EXACT REFERENCE:
+Preserve the light gray/off-white textured wall exactly as shown. Keep all black hand-drawn motivational artwork in the same locations, scale and visual style:
+• large hand-drawn angel wings behind the subject
+• hand-drawn crown above the head
+• stars and small sparkle doodles
+• lightning-bolt drawings
+• arrows pointing upward
+• decorative sketch marks and motion strokes
+• black handwritten motivational typography
+
+Preserve the visible wall text exactly in its original positions and appearance:
+“BE YOUR OWN HERO”
+“DON’T OVERTHINK”
+“Dream”
+“Plan”
+“Do”
+“Repeat”
+“FOCUS”
+“JUST DO IT”
+“Good things take time.”
+
+Do not rewrite, remove, reposition, misspell, distort or replace any of the wall typography. Keep the handwritten marker/ink appearance, uneven natural strokes, underlines and decorative marks exactly consistent with the reference.
+
+GRAPHIC WINGS:
+The large hand-drawn wings must remain behind the subject with the same left/right symmetry, feather shapes, sketchy black outlines, size and placement. Do not turn them into realistic feathers. Keep the original illustrated doodle style.
+
+CROWN:
+Keep the hand-drawn crown directly above the subject's head with the same rough black marker/sketch appearance, size, shape and position. Do not turn it into a realistic metallic crown.
+
+GROUND & SHADOW:
+Preserve the gray concrete floor at the bottom of the image, including its natural texture, subtle cracks and tonal variations. Maintain the dark hand-drawn splash/explosion-style artwork around the subject's feet exactly as shown. Preserve the soft realistic contact shadows beneath the shoes and around the legs.
+
+LIGHTING:
+Natural soft daylight with gentle directional illumination across the subject and wall. Preserve the subtle shadow cast by the subject onto the wall, realistic highlights on the hair and sunglasses, soft fabric highlights and natural skin illumination. Balanced exposure, realistic dynamic range, subtle contrast and authentic photographic lighting.
+
+CAMERA & COMPOSITION:
+Vertical full-body portrait, same crop, same framing, same camera height, same perspective and same subject-to-frame ratio as the reference. Keep sufficient visible wall space around the subject so all motivational drawings and text remain visible. Professional fashion/editorial street portrait photography, realistic lens perspective, natural depth of field and crisp subject separation.
+
+ULTRA DETAILING:
+8K ultra-high-resolution photorealistic output, extremely sharp but natural details, realistic individual hair strands, fine skin texture and pores without altering facial identity, detailed sunglasses frame and lens reflections, realistic fabric fibers, highly detailed zipper and stitching, natural trouser folds, detailed sneaker texture, realistic concrete-wall texture, precise handwritten ink strokes, crisp wing doodle lines, detailed crown sketch, tiny stars, arrows and lightning marks, accurate shadows, subtle ambient occlusion, realistic reflections, physically accurate materials, cinematic dynamic range, professional DSLR photography, premium editorial quality, high micro-detail, natural sharpness, realistic depth, lifelike textures and clean fine edges.
+
+STRICT REFERENCE PRESERVATION:
+The uploaded image is the absolute visual reference. Do not reinterpret, redesign, beautify, stylize or replace any major element. Keep the face, jawline, hairstyle, sunglasses, clothing, pose, hands, crossed legs, shoes, wall, handwritten text, wings, crown, stars, arrows, lightning doodles, floor artwork, framing and lighting exactly consistent with the reference. Enhance ONLY image resolution, clarity, realism, texture and fine details.
+
+NEGATIVE PROMPT:
+face change, face replacement, different identity, different person, altered face, altered jawline, jawline change, face reshaping, different eyes, different eyebrows, different nose, different lips, different chin, different cheekbones, different forehead, different ears, beauty filter, face smoothing, plastic skin, excessive makeup, artificial skin, hairstyle change, different hairstyle, long hair, curly hair, slicked hair, missing sunglasses, different sunglasses, outfit change, different shirt, different trousers, different shoes, pose change, changed hand position, hands outside pockets, different leg position, uncrossed legs, altered body proportions, extra fingers, missing fingers, deformed hands, distorted anatomy, realistic wings, 3D wings, realistic crown, colorful artwork, altered wall text, missing text, misspelled text, redesigned typography, missing doodles, missing stars, missing arrows, missing lightning bolts, missing crown, missing wings, background replacement, additional objects, excessive blur, low resolution, CGI, cartoon, anime, illustration, 3D render, oversharpening, excessive HDR, artificial colors, watermark, logo.
