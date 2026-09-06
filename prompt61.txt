@@ -1,0 +1,23 @@
+ULTRA-REALISTIC HIGH-DETAIL CINEMATIC PORTRAIT COLLAGE — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the exact same multi-photo collage composition, preserving the overall arrangement, five portrait frames, subject appearance, poses, expressions, hairstyles, saree styling, jewelry, background, cherry-blossom garden atmosphere, butterflies, petals, lighting, colors, depth, framing, perspective and photographic mood exactly as shown in the reference.
+
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, PRESERVE THE ORIGINAL FACIAL IDENTITY 100%, DO NOT ALTER THE FACE IN ANY WAY, DO NOT TOUCH JAWLINE, DO NOT CHANGE EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE FACE SHAPE, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT CHANGE EXPRESSION, DO NOT BEAUTIFY OR REDESIGN THE FACE, DO NOT SMOOTH OR MODIFY FACIAL FEATURES. Keep every facial characteristic exactly consistent with the reference.
+
+Recreate the same elegant woman wearing a beautiful deep pink/rose embroidered saree with delicate floral embroidery and fine translucent fabric, traditional earrings, subtle bindi and long flowing dark hair. Preserve the exact styling and visual identity across all five photographs in the collage.
+
+TOP LEFT PORTRAIT: same three-quarter portrait composition, woman looking naturally toward the camera with a soft confident expression, long wavy dark hair flowing around her shoulders, intricate pink saree embroidery clearly visible.
+
+TOP RIGHT PORTRAIT: same pose with the woman looking downward with a gentle smile, one hand near her chin, long flowing hair cascading over her shoulder, detailed saree border and embroidery.
+
+CENTER PORTRAIT: same full-body standing composition on the garden pathway, flowing pink saree, natural elegant posture, long hair, surrounded by flowering trees and soft atmospheric depth.
+
+BOTTOM LEFT PORTRAIT: same close three-quarter portrait, woman looking slightly upward/sideways with a calm expression, hand near her face, pink saree and jewelry preserved exactly.
+
+BOTTOM RIGHT PORTRAIT: same close portrait composition with the woman facing toward the camera, gentle smile, butterfly near her shoulder, flowing dark hair and pink saree preserved.
+
+Create a dreamy spring garden filled with dense pale-pink cherry blossoms, flowering branches, floating petals and delicate butterflies. Preserve the soft romantic pastel-pink atmosphere, elegant garden pathway, subtle architectural elements, atmospheric haze and layered depth of field. Add realistic foreground blossoms with natural bokeh while keeping the main subjects sharply detailed.
+
+ULTRA HIGH DETAIL: extremely detailed individual hair strands, realistic skin texture without changing facial structure, fine saree fabric fibers, microscopic embroidery details, delicate jewelry craftsmanship, realistic butterfly wings, individual flower petals, natural foliage, realistic shadows and reflections, cinematic depth of field, soft volumetric light, subtle atmospheric haze, realistic lens characteristics, high dynamic range, professional fashion photography, natural skin tones, physically accurate lighting, realistic texture separation, crisp subject edges, premium editorial photography quality, 8K-level detail, photorealistic, highly refined, clean and sharp image quality.
+
+IMPORTANT: Maintain the exact original composition and identity of the reference. Do not add extra people, do not remove any of the five portraits, do not rearrange the collage, do not change the saree color, do not change the hairstyle, do not change jewelry, do not change poses, do not change facial expressions, do not distort hands or fingers, do not create duplicate facial features, do not introduce artificial plastic skin, and do not apply any face enhancement that changes identity.
+
+NEGATIVE PROMPT: face alteration, face swap, face redesign, facial restructuring, jawline modification, changed eyes, changed nose, changed lips, changed eyebrows, changed chin, changed cheekbones, changed forehead, different identity, beauty filter, plastic skin, excessive smoothing, artificial face, deformed hands, extra fingers, missing fingers, duplicate person, extra portrait, distorted body, warped saree, incorrect jewelry, low resolution, blur, noise, oversharpening, cartoon, anime, illustration, CGI appearance, unnatural skin, incorrect anatomy, bad proportions, text artifacts, watermark distortion.
