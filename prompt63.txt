@@ -1,0 +1,22 @@
+ULTRA-REALISTIC 8K CINEMATIC HIGH-DETAIL PORTRAIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the same woman, same overall composition, same pose, same camera angle, same framing, same hairstyle, same expression, same outfit styling and same elegant atmosphere.
+
+SUBJECT: A graceful young woman wearing an elegant deep emerald-green traditional Indian lehenga. The blouse has intricate antique-gold embroidery, delicate floral motifs, fine beadwork and a beautifully embellished neckline with matching decorative borders. The matching flowing lehenga is richly embroidered with detailed golden floral patterns, ornate borders and realistic fabric folds. A sheer dark-green dupatta with luxurious embroidered detailing drapes naturally over her arm and side.
+
+POSE & COMPOSITION: Full-length vertical portrait. Woman standing elegantly near a warm architectural doorway, body slightly turned toward the side while her face looks naturally toward the right. One hand rests gracefully near the waist while the other falls naturally beside the skirt. Preserve the exact body posture, proportions, framing and visual balance of the reference image.
+
+HAIR: Long, naturally flowing dark-brown/black hair styled in a soft elegant half-up hairstyle, realistic individual strands, subtle flyaway hairs, natural volume, silky texture and beautiful warm rim-light highlights.
+
+JEWELRY & DETAILS: Extremely detailed traditional earrings, delicate necklace, matching bangles and fine accessories. Preserve realistic metallic reflections, tiny stones, embroidery threads, beads and handcrafted ornamental details.
+
+LIGHTING: Soft warm golden-hour sunlight entering from the side, subtle backlight around the hair, gentle highlights on the face and fabric, realistic natural shadows, cinematic depth, soft ambient illumination, delicate warm glow without overexposure.
+
+ENVIRONMENT: Elegant warm-toned traditional architectural setting with muted beige/brown walls, subtle depth-of-field, softly blurred background, natural indoor-outdoor transition, premium editorial photography atmosphere.
+
+CAMERA & QUALITY: Professional full-frame DSLR/mirrorless photography, 85mm portrait lens, realistic optical depth of field, sharp subject separation, natural perspective, cinematic bokeh, HDR dynamic range, physically accurate lighting, realistic skin texture, realistic fabric texture, micro-details, fine embroidery definition, individual hair strands, highly detailed jewelry, clean edges, natural shadows, subtle filmic contrast, premium fashion editorial photography, photorealistic 8K, ultra-sharp but natural, high dynamic range, professional color grading.
+
+FACE PRESERVATION — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE CHANGE 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT ALTER FACE, DO NOT MODIFY IDENTITY, DO NOT TOUCH JAWLINE, DO NOT CHANGE FACE SHAPE, DO NOT CHANGE EYES, DO NOT CHANGE EYEBROWS, DO NOT CHANGE NOSE, DO NOT CHANGE LIPS, DO NOT CHANGE CHIN, DO NOT CHANGE CHEEKBONES, DO NOT CHANGE FOREHEAD, DO NOT CHANGE EARS, DO NOT CHANGE FACIAL PROPORTIONS, DO NOT BEAUTIFY OR REDESIGN THE FACE, PRESERVE ORIGINAL FACIAL STRUCTURE 100%, PRESERVE ORIGINAL EXPRESSION 100%, PRESERVE ORIGINAL IDENTITY 100%.
+
+IMPORTANT: Enhance ONLY image quality, lighting, clothing texture, embroidery, jewelry, hair detail, environmental realism and overall photographic clarity. Do not alter the person's face or facial identity in any way.
+
+NEGATIVE PROMPT: face alteration, face swap, different identity, modified jawline, changed eyes, changed nose, changed lips, changed eyebrows, changed facial proportions, artificial beauty filter, plastic skin, excessive smoothing, over-sharpening, distorted hands, extra fingers, missing fingers, malformed anatomy, unrealistic fabric, fake jewelry, blurry details, low resolution, oversaturated colors, excessive HDR, cartoon, CGI, illustration, painting, duplicate body parts, unnatural pose.
