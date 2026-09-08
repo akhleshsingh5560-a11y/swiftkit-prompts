@@ -1,0 +1,30 @@
+ULTRA-REALISTIC 8K CINEMATIC HIGH-DETAIL PORTRAIT COLLAGE — Use the uploaded reference image as the PRIMARY and ONLY visual reference. Recreate the same woman, same facial identity, same facial proportions, same hairstyle, same overall appearance, same composition and same elegant aesthetic as the reference.
+
+Create a luxurious vertical 9:16 cinematic portrait collage featuring the same woman in a soft pastel blush-pink saree with delicate embroidery and a subtle sheer texture. Preserve the three-panel composition exactly: a large intimate close-up portrait in the upper-left area, a graceful full/three-quarter body portrait standing among flowers on the right side, and another elegant close-up portrait in the lower-left area.
+
+SUBJECT & STYLING:
+Elegant young woman wearing a sophisticated pastel blush-pink saree with intricate delicate embroidery, fine shimmering border, realistic translucent fabric layers and naturally flowing drape. Long dark wavy hair with soft loose strands framing the face, subtle floral hair accessory, elegant traditional jhumka earrings and minimal delicate necklace. Soft natural makeup, realistic skin texture, gentle rosy lips and expressive eyes.
+
+POSE & EXPRESSION:
+Keep the exact poses, head angles, hand positions, body posture and expressions from the reference image. Upper portrait has a soft romantic expression while holding a small white flower near the face. Right-side portrait shows her standing gracefully with the saree flowing naturally. Lower portrait maintains the same gentle side-facing pose and dreamy expression.
+
+ENVIRONMENT:
+Dreamy romantic flower garden filled with delicate pink blossoms, flowering branches, soft greenery, subtle petals floating through the air, warm glowing decorative lights and a beautifully blurred garden background. Create realistic foreground flowers with cinematic depth and layered bokeh.
+
+LIGHTING:
+Warm golden-hour cinematic lighting, soft diffused sunlight, delicate rim light around the hair, natural highlights on the face and saree, subtle volumetric glow, realistic shadows, soft atmospheric haze, premium editorial photography lighting.
+
+CAMERA & QUALITY:
+Professional full-frame camera look, cinematic portrait photography, realistic 85mm lens aesthetics, shallow depth of field, natural perspective, creamy background bokeh, precise subject separation, realistic optical falloff, HDR dynamic range, balanced exposure, extremely detailed fabric texture, individual hair strands, realistic jewelry reflections, natural skin pores and micro-texture, sharp eyes, realistic eyelashes, highly detailed embroidery and flower petals.
+
+ULTRA DETAILING:
+8K resolution, photorealistic, hyper-detailed, extremely clean image quality, realistic skin texture, natural facial details, individual hair strands, fine saree fibers, intricate embroidery, detailed jewelry, realistic flower petals, cinematic color grading, subtle filmic contrast, premium fashion editorial finish, realistic depth, natural highlights, realistic shadows, no artificial plastic appearance.
+
+FACE PRESERVATION — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%, NOT FACE WORK 0%, KEEP ORIGINAL FACE EXACTLY, DO NOT CHANGE FACE, DO NOT MODIFY FACIAL IDENTITY, DO NOT TOUCH JAWLINE, DO NOT ALTER EYES, EYEBROWS, NOSE, LIPS, CHIN, CHEEKBONES, FOREHEAD OR FACIAL PROPORTIONS. PRESERVE ORIGINAL FACE 100%. NO FACE REGENERATION, NO FACE BEAUTIFICATION, NO FACE MORPHING, NO FACE SLIMMING, NO FACIAL STRUCTURE CHANGE. Keep the exact original facial identity from the reference image.
+
+NEGATIVE PROMPT:
+face change, different person, altered identity, changed jawline, modified eyes, changed nose, changed lips, changed chin, changed cheekbones, face morphing, face regeneration, artificial skin, plastic skin, over-smoothing, excessive makeup, distorted hands, extra fingers, missing fingers, deformed anatomy, duplicated person, warped jewelry, blurry face, low resolution, oversharpening, unnatural lighting, cartoon, illustration, CGI, 3D render, text, watermark, logo, distorted saree, bad proportions.
+
+FINAL OUTPUT:
+Ultra-realistic 8K cinematic luxury portrait collage, exact reference composition, exact facial identity preservation, premium Indian fashion photography aesthetic, soft romantic pink floral atmosphere, highly detailed textures, realistic depth of field, natural skin and hair, professional editorial quality.
