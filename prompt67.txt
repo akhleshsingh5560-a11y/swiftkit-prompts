@@ -1,0 +1,66 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the complete vertical collage composition, exact panel layout, camera framing, subject placement, proportions, poses, facial expressions, hairstyle, clothing, jewelry, flowers, decorative elements, background, lighting, colors, and overall dreamy cinematic aesthetic.
+
+COMPOSITION:
+Create the same elegant vertical multi-panel portrait collage. One large main portrait occupying the entire left side, with multiple smaller portrait panels stacked vertically on the right side. Maintain the same borders, spacing, framing, crop, perspective, and visual balance as the reference.
+
+SUBJECT:
+Keep the same woman from the reference image with the exact same identity, face, body proportions, hairstyle, facial features, skin tone, and natural appearance. Reproduce the same long, voluminous dark black/brown wavy hair, soft natural expression, elegant feminine appearance, and graceful poses shown in each panel.
+
+FACE PRESERVATION — ABSOLUTE PRIORITY:
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY eyes, eyebrows, nose, lips, chin, cheeks, cheekbones, forehead, ears, facial structure, facial proportions, face shape, or natural skin texture.
+DO NOT beautify, redesign, reshape, retouch, reconstruct, or regenerate the face.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO AI-LOOKING FACE.
+The face must remain naturally identical to the uploaded reference image.
+
+OUTFIT:
+Preserve the same elegant light powder-blue/grey-blue traditional Indian outfit with delicate floral embroidery, intricate threadwork, sheer embroidered sleeves, matching dupatta, and fine decorative details. Keep the exact neckline, embroidery pattern, fabric texture, folds, transparency, and overall styling.
+
+JEWELRY:
+Preserve the same traditional silver-toned jhumka earrings, delicate necklace, bracelets/bangles, and subtle rings. Keep their exact placement and realistic metallic details.
+
+HAIR:
+Maintain the same long, thick, naturally flowing dark hair with soft waves and loose strands framing the face. Preserve the hairstyle and hair volume exactly as shown in the reference.
+
+FLOWERS & BACKGROUND:
+Recreate the dreamy romantic garden setting filled with tiny white flowers, soft peach/orange lilies, green foliage, delicate floral branches, and warm natural bokeh. Preserve the flower placement and depth of field as closely as possible.
+
+DECORATIVE COLLAGE DETAILS:
+Keep the delicate golden/cream butterfly illustration, swirling line art, tiny hearts, stars, sparkles, floral line decorations, and subtle decorative elements around the collage. Preserve their elegant placement and fine detailing.
+
+MUSIC PLAYER:
+Keep the translucent/dark brown rounded music-player card in the lower-left portion of the image, with the same Spotify-style layout, small album artwork, song title area, artist text, progress bar, playback controls, heart icon, and realistic glass/card appearance. Preserve its position, proportions, and visual integration with the portrait.
+
+LIGHTING:
+Warm golden-hour cinematic lighting, soft sunlight falling naturally across the subject, gentle highlights on the hair and skin, subtle warm rim light, soft shadows, realistic skin illumination, delicate glow, natural contrast, dreamy romantic atmosphere.
+
+CAMERA & QUALITY:
+Professional portrait photography, cinematic depth of field, realistic lens compression, soft background bokeh, sharp subject details, realistic fabric texture, highly detailed hair strands, realistic jewelry reflections, natural skin texture, subtle filmic softness, premium editorial photography.
+
+DETAILING:
+Ultra-detailed 8K quality, extremely realistic textures, fine embroidery details, individual hair strands, realistic flower petals, tiny baby's-breath flowers, natural skin pores, accurate fabric weave, realistic jewelry texture, precise edges, refined highlights and shadows, high dynamic range, cinematic color grading, photorealistic rendering.
+
+IMPORTANT:
+Do not add new people.
+Do not remove any existing person or panel.
+Do not change the collage structure.
+Do not alter the subject's identity.
+Do not change facial proportions.
+Do not touch the jawline.
+Do not make the face prettier or different.
+Do not make the skin excessively smooth.
+Do not create plastic or artificial skin.
+Do not change the pose or expression unnecessarily.
+Do not distort hands, fingers, jewelry, flowers, or clothing.
+Keep the final result visually faithful to the uploaded reference image while enhancing realism, sharpness, texture, and overall 8K detail.
+
+FINAL OUTPUT:
+A highly photorealistic, ultra-detailed cinematic recreation of the uploaded reference image, preserving the ORIGINAL FACE and identity exactly, with maximum detail, natural beauty, realistic textures, elegant warm garden atmosphere, and the same premium multi-panel collage aesthetic.
