@@ -1,0 +1,142 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE ENTIRE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the complete vertical collage composition, all individual torn-paper photo panels, exact panel arrangement, subject placement, poses, facial expressions, hairstyle, eyeglasses, outfit, dupatta, flowers, background, handwritten decorations, text elements, lighting, colors, proportions, framing, and overall vintage ethnic scrapbook aesthetic.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION:
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY eyes, eyebrows, nose, lips, chin, cheeks, cheekbones, forehead, ears, facial structure, face shape, facial proportions, or natural skin tone.
+DO NOT BEAUTIFY OR REDESIGN THE FACE.
+DO NOT MAKE THE FACE DIFFERENT.
+DO NOT CHANGE THE PERSON'S IDENTITY.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI FACE.
+NO FACIAL RESHAPING.
+Keep the exact original face and identity from the uploaded reference image in EVERY SINGLE COLLAGE PANEL.
+
+COLLAGE COMPOSITION:
+Recreate the same tall vertical scrapbook-style collage with multiple overlapping photographs separated by irregular torn-paper white edges. Maintain the exact visual hierarchy and panel placement:
+- large central portrait of the woman wearing glasses and resting her face on her hand
+- upper-left standing portrait
+- upper-center portrait holding a small bouquet of flowers
+- upper-right seated portrait with hand near face
+- middle and lower portrait panels showing different natural poses
+- lower-left selfie-style portrait with raised peace sign
+- lower-center seated portrait holding flowers
+- lower-center/back-facing portrait showing the flowing dupatta and hair
+- lower-right portrait resting her face on her hand
+Preserve the approximate crop, scale, perspective, and positioning of every panel exactly as shown.
+
+SUBJECT:
+The same young woman must appear consistently throughout every photograph. Preserve her exact face, facial identity, body proportions, hairstyle, long dark wavy hair, natural expression, eyeglasses, and overall appearance.
+
+EYGLASSES:
+Preserve the transparent/light-colored rectangular eyeglasses exactly as shown. Keep the same frame shape, size, transparency, position on the nose, reflections, and realistic lens appearance in every applicable panel.
+
+OUTFIT:
+Preserve the same elegant traditional Indian ethnic outfit: dark charcoal/black base with rich maroon, red, pink, mustard, blue, and muted floral patterns. Keep the detailed floral embroidery/printed motifs, long traditional kurta, matching flowing dupatta, fabric texture, folds, stitching, borders, and exact color palette.
+
+DUPATTA & FABRIC:
+Maintain the long flowing patterned dupatta, especially the panels where it falls over the shoulders and extends around the body. Preserve realistic fabric folds, soft draping, embroidery/print details, natural weight, and texture.
+
+HAIR:
+Preserve the same long, thick, dark brown/black wavy hair with natural volume and loose strands. Keep the same hair parting, length, wave pattern, framing around the face, and overall hairstyle in every panel.
+
+POSES & EXPRESSIONS:
+Do not randomly change poses. Recreate each individual pose from the reference:
+- standing naturally while touching hair
+- gently holding flowers
+- resting chin/cheek on hand
+- looking down at flowers
+- subtle peaceful smile
+- peace-sign selfie pose
+- seated traditional pose
+- back/side-facing pose with flowing hair and dupatta
+- natural direct-to-camera portrait
+Keep facial expressions subtle, calm, graceful, and natural exactly according to each reference panel.
+
+FLOWERS:
+Preserve the small white baby's-breath bouquet held by the woman and the delicate flowers in the surrounding garden environment. Keep realistic tiny petals, stems, density, and natural imperfections.
+
+BACKGROUND:
+Recreate the warm rustic outdoor courtyard/garden setting with muted brown brick/plaster walls, wooden textures, greenery, soft plants, branches, and warm earthy surroundings. Maintain the same cozy traditional atmosphere.
+
+SCRAPBOOK / TORN PAPER DESIGN:
+Preserve the handmade scrapbook aesthetic:
+- irregular ripped paper borders
+- cream/off-white torn edges
+- layered paper photographs
+- brown kraft-paper background
+- subtle paper fibers
+- realistic paper wrinkles
+- slightly uneven hand-collaged arrangement
+- vintage handmade journal feeling
+Make the paper edges highly detailed and physically realistic.
+
+TEXT & DECORATIVE ELEMENTS:
+Preserve the visible handwritten-style decorative text and phrases from the reference, including:
+“Beautiful day”
+“graceful dress”
+“Ethnic feels”
+“make yourself a priority”
+“Elegance begins with tradition”
+
+Keep the handwritten typography, placement, spacing, imperfect handwritten appearance, hearts, butterflies, small doodles, stars, and decorative line art visually consistent with the reference.
+
+Do not randomly add extra text.
+Do not remove the important existing text.
+Do not replace the decorative handwritten aesthetic with modern typography.
+
+COLOR & LIGHTING:
+Warm earthy vintage color grading, muted brown, beige, maroon, charcoal, dusty pink, olive green, and soft golden tones. Natural warm sunlight, gentle highlights, soft shadows, subtle cinematic glow, realistic outdoor illumination, slightly nostalgic editorial photography aesthetic.
+
+CAMERA & PHOTOGRAPHY:
+Professional DSLR/mirrorless portrait photography, realistic lens rendering, natural depth of field, subtle background bokeh, realistic perspective, accurate proportions, soft cinematic focus, high dynamic range, natural exposure, realistic skin texture, realistic hair strands, detailed fabric, realistic flowers and paper texture.
+
+ULTRA HIGH DETAIL:
+8K photorealistic quality, extremely detailed facial texture WITHOUT ALTERING THE FACE, individual hair strands, realistic eyeglass reflections, fine textile patterns, embroidery details, realistic skin pores, natural skin texture, detailed flower petals, realistic paper fibers, torn-paper edges, subtle shadows between collage layers, realistic depth and dimensionality.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+No face change.
+No identity change.
+No jawline change.
+No eye change.
+No nose change.
+No lips change.
+No chin change.
+No facial reshaping.
+No skin whitening.
+No excessive skin smoothing.
+No beauty filter.
+No plastic skin.
+No different hairstyle.
+No different glasses.
+No different outfit.
+No missing collage panels.
+No extra people.
+No distorted hands.
+No extra fingers.
+No malformed fingers.
+No warped glasses.
+No duplicated objects.
+No random text.
+No altered composition.
+No modern clean digital collage.
+No cartoon effect.
+No anime effect.
+No artificial CGI appearance.
+
+FINAL RESULT:
+Create an ultra-realistic, highly detailed 8K recreation of the uploaded reference image with the SAME WOMAN, SAME FACE, SAME IDENTITY, SAME GLASSES, SAME ETHNIC OUTFIT, SAME HAIRSTYLE, SAME POSES, SAME MULTI-PANEL SCRAPBOOK COLLAGE, SAME TORN-PAPER DESIGN, SAME DECORATIVE TEXT AND SAME WARM VINTAGE AESTHETIC.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. EXACT COLLAGE COMPOSITION
+3. SAME POSES AND EXPRESSIONS
+4. SAME OUTFIT, GLASSES AND HAIRSTYLE
+5. SAME TEXT, FLOWERS AND DECORATIVE ELEMENTS
+6. ULTRA-REALISTIC 8K DETAIL AND TEXTURE
