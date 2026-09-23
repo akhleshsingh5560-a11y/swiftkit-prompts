@@ -1,0 +1,207 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact composition, low-angle camera perspective, subject placement, body proportions, pose, clothing, sunglasses, hairstyle, facial expression, sky, clouds, sunlight, yellow flower field, foreground flowers, flying petals, depth of field, colors, lighting, and overall dreamy cinematic atmosphere.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY THE EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACE SHAPE.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT BEAUTIFY OR REDESIGN THE FACE.
+DO NOT MAKE THE FACE DIFFERENT.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+The ORIGINAL FACE from the uploaded reference image must remain completely unchanged and naturally recognizable.
+
+SUBJECT:
+Recreate the same young man standing naturally in the flower field. Preserve his exact body proportions, shoulder width, posture, head position, relaxed expression, and overall appearance.
+
+Maintain the same slightly low-angle perspective where the subject appears naturally tall and prominent against the sky.
+
+POSE:
+Preserve the exact relaxed standing pose with both hands positioned inside the sweatshirt pockets. Keep the same shoulder angle, torso position, head tilt, leg position, and natural body posture.
+
+Do not change the pose unnecessarily.
+
+HAIR:
+Preserve the same thick, dark, naturally curly/wavy hairstyle with slightly messy volume. Keep the exact hairline, curls, volume, direction, texture, and loose strands.
+
+Do not change the hairstyle.
+
+SUNGLASSES:
+Preserve the same black/dark rectangular sunglasses with the exact frame shape, size, position, lens darkness, and realistic reflections.
+
+Do not remove, replace, resize, or redesign the sunglasses.
+
+CLOTHING:
+Preserve the oversized plain white/off-white sweatshirt exactly as shown.
+
+Maintain:
+- relaxed oversized fit
+- round crew neckline
+- long sleeves
+- natural fabric folds
+- realistic cotton texture
+- subtle wrinkles
+- slightly loose silhouette
+- same white/off-white color
+
+Do not add logos, graphics, patterns, text, or accessories to the sweatshirt.
+
+BACKGROUND:
+Recreate the same beautiful outdoor yellow flower field beneath a bright sky.
+
+Preserve the large field of small yellow flowers extending into the distance, with varying flower heights, green stems, leaves, and natural density.
+
+FOREGROUND FLOWERS:
+Keep the large out-of-focus yellow flowers and stems in the foreground exactly as part of the composition. Create realistic shallow depth of field where some foreground flowers appear softly blurred while the subject remains clear.
+
+Do not remove the foreground flowers.
+
+FLYING PETALS:
+Preserve the floating yellow flower petals/leaves scattered naturally throughout the air around the subject.
+
+Make them look physically realistic with different sizes, distances, orientations, and subtle motion blur.
+
+Do not overpopulate the scene with petals.
+
+SKY:
+Recreate the soft blue-grey/blue sky with bright white fluffy clouds.
+
+Preserve the large cloud formations and their natural soft texture.
+
+SUNLIGHT:
+Maintain the strong warm sunlight coming from behind/right side of the subject, creating a beautiful glowing backlight around the hair and shoulders.
+
+Use realistic golden sunlight, soft atmospheric haze, subtle lens glow, and natural highlights.
+
+LIGHTING:
+Dreamy golden-hour cinematic lighting.
+Warm sunlight.
+Soft rim light around hair.
+Natural highlights on the white sweatshirt.
+Subtle shadows on the face.
+Realistic skin illumination.
+Soft atmospheric glow.
+Natural contrast.
+Balanced exposure.
+No overexposed face.
+
+CAMERA:
+Professional full-frame DSLR/mirrorless portrait photography.
+Low-angle camera perspective.
+Vertical portrait composition.
+Subject occupying the central majority of the frame.
+Wide environmental portrait.
+Natural perspective.
+Realistic lens compression.
+Shallow depth of field.
+Cinematic bokeh.
+Foreground flower blur.
+Sharp subject.
+Soft background.
+
+DEPTH OF FIELD:
+Keep the subject's face, sunglasses, hair, and upper body highly detailed and sharply focused.
+
+Foreground flowers should have natural creamy bokeh and soft blur.
+
+Background flowers and distant field should gradually become softer with realistic depth.
+
+ULTRA HIGH DETAIL:
+8K photorealistic quality.
+Extremely detailed individual hair strands and curls.
+Realistic natural skin pores and texture WITHOUT ALTERING THE FACE.
+Highly detailed sunglasses frame and subtle reflections.
+Realistic cotton sweatshirt fibers.
+Natural fabric folds and wrinkles.
+Detailed flower petals.
+Detailed green stems and leaves.
+Realistic atmospheric haze.
+Detailed cloud formations.
+Natural sunlight scattering.
+Realistic depth and optical rendering.
+
+COLOR GRADING:
+Soft cinematic warm-neutral color grading.
+Natural blue sky.
+Warm golden-yellow flowers.
+Clean white/off-white sweatshirt.
+Natural skin tones.
+Subtle golden highlights.
+Slightly dreamy editorial photography aesthetic.
+
+PHOTOREALISM:
+The final image must look like a professionally captured real photograph, NOT AI-generated, NOT CGI, NOT illustration, NOT painting.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO SKIN WHITENING.
+NO PLASTIC SKIN.
+NO EXCESSIVE SKIN SMOOTHING.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT SUNGLASSES.
+NO DIFFERENT CLOTHING.
+NO LOGO ON SWEATSHIRT.
+NO TEXT ON SWEATSHIRT.
+NO EXTRA PEOPLE.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO BODY DISTORTION.
+NO ALTERED POSE.
+NO CARTOON.
+NO ANIME.
+NO CGI.
+NO PAINTING.
+NO ARTIFICIAL LOOK.
+NO EXCESSIVE HDR.
+NO OVERSATURATION.
+NO OVEREXPOSURE.
+NO UNNATURAL BOKEH.
+NO RANDOM OBJECTS.
+
+FINAL OUTPUT:
+Create an ultra-realistic, cinematic 8K recreation of the uploaded reference image while preserving the ORIGINAL FACE AND IDENTITY 100%, including the exact jawline and facial structure.
+
+Preserve the exact low-angle composition, pose, curly hairstyle, black sunglasses, oversized white sweatshirt, yellow flower field, floating petals, blue sky, clouds, sunlight, foreground bokeh, colors, and overall dreamy cinematic photography style.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT POSE & BODY PROPORTIONS
+4. EXACT HAIR & SUNGLASSES
+5. EXACT WHITE SWEATSHIRT
+6. YELLOW FLOWER FIELD & FLYING PETALS
+7. SKY, CLOUDS & SUNLIGHT
+8. ULTRA-DETAILED 8K PHOTOREALISM
