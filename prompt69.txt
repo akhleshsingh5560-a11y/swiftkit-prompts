@@ -1,0 +1,173 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact composition, camera angle, subject placement, body proportions, pose, clothing, sunglasses, hairstyle, facial expression, sunset position, sky, clouds, lake, rock, vegetation, flowers, reflections, colors, lighting, and overall cinematic atmosphere.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY THE EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACE SHAPE.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT MAKE THE FACE MORE HANDSOME OR DIFFERENT.
+DO NOT BEAUTIFY OR REDESIGN THE FACE.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+Keep the exact original face, natural facial structure, skin tone, facial proportions, hairstyle, and identity from the uploaded reference image.
+
+SUBJECT & POSE:
+Preserve the same man standing naturally on the large dark rock in the middle of the lake. Keep the exact standing position, body posture, shoulder position, head direction, hand placement inside the shirt pockets, leg position, body proportions, and relaxed confident pose.
+
+Keep the subject centered in the composition with the same relative size and distance from the camera.
+
+CLOTHING:
+Preserve the exact bright blue long-sleeve button-up shirt with natural fabric folds and slightly open collar. Keep the same loose white/light-colored trousers and white shoes.
+
+Do not change the shirt color, trouser color, clothing style, fit, buttons, collar, sleeves, folds, or footwear.
+
+SUNGLASSES:
+Preserve the same dark sunglasses, exact frame shape, position, size, reflections, and realistic appearance. Do not replace or remove the sunglasses.
+
+HAIR:
+Preserve the same dark, slightly messy/wavy hairstyle, exact hairline, hair volume, direction, texture, and individual strands. Do not change the hairstyle.
+
+BACKGROUND:
+Recreate the breathtaking lakeside sunset scene exactly as shown.
+
+Preserve:
+- large expansive blue evening sky
+- dramatic soft scattered clouds
+- warm golden-orange sunset
+- sun positioned low near the horizon
+- calm lake extending toward the horizon
+- distant dark horizon line
+- warm orange and blue gradient across the sky
+- golden sunlight reflecting directly across the lake
+- realistic cloud reflections on the water
+- peaceful cinematic atmosphere
+
+SKY DETAIL:
+Create highly detailed natural clouds with realistic soft edges, layered formations, subtle peach, orange, pink, cream, and blue tones. Preserve the dramatic cloud pattern and overall sky composition from the reference.
+
+SUNSET:
+Preserve the low golden sun near the horizon with a realistic warm glow. Add subtle atmospheric haze around the sun without changing its position.
+
+WATER:
+Make the lake extremely realistic and detailed while maintaining the same calm appearance. Preserve the golden sunset reflection, blue water tones, cloud reflections, subtle ripples, realistic light scattering, and reflection of the rock and subject.
+
+ROCK:
+Preserve the large dark natural rock directly beneath the subject. Keep its exact position, size, irregular shape, wet texture, rough surface, shadows, and realistic reflection in the water.
+
+VEGETATION:
+Preserve the lush green vegetation and dark rocks on the left foreground. Keep the same natural plants, grass, small flowers, and organic texture.
+
+FLOWERS:
+Preserve the delicate white daisy-like flowers in the lower-right foreground and small yellow/white flowers around the vegetation. Make every flower petal, stem, leaf, and natural variation highly detailed and realistic.
+
+LIGHTING:
+Golden-hour cinematic lighting mixed with cool blue evening tones.
+
+Warm sunlight on the subject.
+Soft golden rim light around the hair and shoulders.
+Natural highlights on the blue shirt.
+Soft realistic shadows.
+Subtle atmospheric glow.
+Natural skin illumination.
+Realistic reflected sunset light from the water.
+Balanced exposure between bright sky and darker foreground.
+
+CAMERA:
+Professional full-frame DSLR/mirrorless photography.
+Natural cinematic perspective.
+Vertical portrait composition.
+Wide environmental portrait.
+Subject positioned centrally.
+Natural depth of field.
+Realistic lens rendering.
+High dynamic range.
+Sharp subject with realistic environmental detail.
+No unnatural wide-angle distortion.
+
+ULTRA DETAIL:
+8K photorealistic quality.
+Extremely detailed individual hair strands.
+Realistic skin pores and natural skin texture WITHOUT ALTERING THE FACE.
+Highly detailed shirt fabric.
+Visible natural fabric weave and folds.
+Detailed trousers and shoes.
+Realistic sunglasses reflections.
+Detailed rock texture.
+Individual flower petals and stems.
+Highly realistic grass and leaves.
+Detailed clouds.
+Realistic water ripples.
+Accurate sunset reflections.
+High-quality atmospheric depth.
+Natural cinematic color grading.
+
+PHOTOREALISM:
+Make the final image look like a professionally photographed real-life sunset portrait, NOT an AI-generated image, NOT a painting, NOT CGI, NOT an illustration.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO ARTIFICIAL SKIN.
+NO PLASTIC SKIN.
+NO OVER-SMOOTHING.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT SUNGLASSES.
+NO DIFFERENT CLOTHES.
+NO BODY DISTORTION.
+NO EXTRA PERSON.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO DISTORTED FEET.
+NO ALTERED POSE.
+NO RANDOM OBJECTS.
+NO CARTOON EFFECT.
+NO ANIME EFFECT.
+NO CGI LOOK.
+NO PAINTING EFFECT.
+NO OVEREXPOSURE.
+NO EXCESSIVE HDR.
+NO UNNATURAL COLORS.
+
+FINAL OUTPUT:
+Create an ultra-realistic, cinematic 8K recreation of the uploaded reference image. Preserve the ORIGINAL FACE AND IDENTITY 100%, including the exact jawline and facial structure. Preserve the exact pose, blue shirt, white trousers, sunglasses, rock, lake, sunset, clouds, flowers, vegetation, reflections, framing, and overall composition while dramatically improving realism, sharpness, texture, lighting, and fine environmental details.
+
+PRIORITY:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT SUBJECT POSE & PROPORTIONS
+4. EXACT CLOTHING & SUNGLASSES
+5. EXACT SUNSET/LANDSCAPE COMPOSITION
+6. REALISTIC WATER & REFLECTIONS
+7. ULTRA-DETAILED 8K PHOTOREALISM
