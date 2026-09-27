@@ -1,0 +1,219 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact composition, camera angle, full-body framing, subject placement, body proportions, pose, facial expression, hairstyle, clothing, teddy bear, sunglasses, background, plant, doorway, floor, sunlight, shadows, colors, textures, and overall warm premium children's fashion photography aesthetic.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACE SHAPE.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT REDESIGN THE FACE.
+DO NOT BEAUTIFY OR ALTER THE CHILD'S NATURAL FEATURES.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+The child's ORIGINAL FACE must remain exactly recognizable and naturally preserved from the uploaded reference image.
+
+SUBJECT:
+Preserve the same young child standing naturally in the reference image. Maintain the exact body proportions, height, posture, head position, shoulder position, arm placement, hand position, leg position, and relaxed natural stance.
+
+POSE:
+Keep the exact pose:
+- standing upright
+- body slightly angled
+- one hand naturally placed inside the trouser pocket
+- other hand holding the teddy bear
+- relaxed shoulders
+- natural head direction
+- same facial expression
+- same foot placement
+
+Do not change the pose or body proportions.
+
+HAIR:
+Preserve the same short-to-medium thick curly/wavy dark brown hair with natural volume and soft curls.
+
+Keep the exact hairline, curl pattern, volume, direction, length, and individual strands.
+
+Do not change the hairstyle.
+
+OUTFIT:
+Preserve the exact stylish children's outfit:
+- cream/off-white vertically striped button-up shirt
+- subtle beige/tan vertical stripes
+- rolled-up sleeves
+- brown neck scarf/tie
+- dark brown/coffee-colored scarf
+- decorative sunglasses attached to the shirt
+- blue denim trousers
+- rolled-up trouser cuffs
+- white sneakers with subtle beige/tan detailing
+
+Maintain every button, stripe, collar, sleeve fold, scarf knot, pocket, seam, fabric fold, denim texture, cuff, and shoe detail.
+
+Do not add logos, text, patterns, or accessories that are not present in the reference.
+
+SUNGLASSES:
+Preserve the round/oval sunglasses hanging from the shirt exactly as shown.
+
+Maintain their frame shape, dark lenses, position, scale, reflections, and realistic material.
+
+TEDDY BEAR:
+Preserve the small beige/tan plush teddy bear being held by the child.
+
+Maintain:
+- soft fuzzy fur
+- rounded ears
+- stitched facial details
+- dark nose
+- small eyes
+- arms and legs
+- natural hanging position
+- realistic plush texture
+
+Do not replace the teddy bear or change its appearance.
+
+BACKGROUND:
+Recreate the same warm minimalist outdoor/entryway environment.
+
+Preserve the:
+- light beige textured wall
+- wooden doorway/frame on the right
+- stone/concrete floor
+- large plant pot on the left
+- green leafy plant
+- natural wall shadows
+- subtle architectural details
+- exact overall background arrangement
+
+PLANT:
+Keep the large potted green plant on the left side of the frame with realistic leaves, branches, shadows, and natural variation.
+
+Do not remove or replace the plant.
+
+LIGHTING:
+Preserve the beautiful soft natural sunlight coming from the left side.
+
+Create realistic:
+- warm sunlight
+- soft leaf shadows on the wall
+- gentle highlights on hair
+- subtle highlights on clothing
+- realistic floor shadows
+- natural ambient light
+- soft cinematic contrast
+- warm neutral color balance
+
+Do not overexpose the child's face.
+
+CAMERA & COMPOSITION:
+Professional full-frame DSLR/mirrorless children's fashion portrait photography.
+
+Preserve the exact vertical composition and full-body framing.
+
+Keep the child centered slightly toward the middle-right of the frame, with the complete body, shoes, teddy bear, plant, wall, doorway, and floor visible.
+
+Natural camera perspective.
+Realistic lens rendering.
+Subtle depth of field.
+Sharp subject.
+Natural background softness.
+No extreme wide-angle distortion.
+
+FABRIC & TEXTURE DETAIL:
+Ultra-realistic fabric rendering with visible cotton fibers, shirt stripes, stitching, buttons, scarf texture, denim weave, realistic trouser folds, cuff details, and sneaker material.
+
+HAIR DETAIL:
+Individual curly hair strands, realistic soft curls, natural flyaway hairs, realistic highlights, no artificial hair texture.
+
+SKIN DETAIL:
+Natural child skin texture, realistic pores and subtle skin variation, soft natural highlights.
+
+IMPORTANT: enhance skin realism WITHOUT changing the original face or facial identity.
+
+8K DETAIL:
+Ultra-detailed 8K photorealism.
+Extremely realistic hair.
+Highly detailed clothing.
+Realistic teddy bear fur.
+Detailed denim texture.
+Detailed sneaker materials.
+Realistic plant leaves.
+Detailed wall texture.
+Natural concrete/stone floor texture.
+Realistic wood grain around the doorway.
+Accurate natural shadows.
+High dynamic range.
+Professional photographic sharpness.
+
+PHOTOREALISM:
+The final result must look like a real professionally photographed image, NOT CGI, NOT illustration, NOT cartoon, NOT painting, and NOT an artificial AI-generated scene.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO SKIN WHITENING.
+NO EXCESSIVE SKIN SMOOTHING.
+NO PLASTIC SKIN.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT CLOTHING.
+NO DIFFERENT TEDDY BEAR.
+NO EXTRA PEOPLE.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO DISTORTED FEET.
+NO BODY PROPORTION CHANGE.
+NO ALTERED POSE.
+NO RANDOM ACCESSORIES.
+NO RANDOM TEXT.
+NO CARTOON EFFECT.
+NO ANIME EFFECT.
+NO CGI LOOK.
+NO PAINTING EFFECT.
+NO EXCESSIVE HDR.
+NO OVERSATURATION.
+NO UNNATURAL COLORS.
+
+FINAL OUTPUT:
+Create an ultra-realistic, cinematic 8K recreation of the uploaded reference image while preserving the ORIGINAL CHILD'S FACE AND IDENTITY 100% EXACTLY.
+
+Preserve the exact face, jawline, facial structure, curly hairstyle, expression, outfit, brown scarf, sunglasses on shirt, denim trousers, white sneakers, teddy bear, pose, plant, doorway, wall, sunlight, shadows, floor, framing, and overall composition.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT POSE & BODY PROPORTIONS
+4. EXACT HAIRSTYLE & EXPRESSION
+5. EXACT OUTFIT & ACCESSORIES
+6. TEDDY BEAR — PRESERVED
+7. BACKGROUND, PLANT, DOORWAY & LIGHTING
+8. ULTRA-DETAILED 8K PHOTOREALISM
