@@ -1,0 +1,265 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact composition, full-body framing, camera angle, subject placement, body proportions, pose, facial expression, hairstyle, blue hat, clothing, shoes, plant, background, floor, lighting, shadows, colors, textures, and overall premium children's fashion photography aesthetic.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY THE EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACE SHAPE.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT REDESIGN THE FACE.
+DO NOT BEAUTIFY OR ALTER THE CHILD'S NATURAL FEATURES.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+The ORIGINAL CHILD'S FACE must remain exactly recognizable and naturally preserved from the uploaded reference image.
+
+SUBJECT:
+Recreate the same young child standing naturally in the reference image. Preserve the exact body proportions, height, posture, shoulder position, head direction, arm position, hand placement, leg position, and relaxed expression.
+
+POSE:
+Maintain the exact pose shown in the reference:
+- standing upright
+- body slightly angled
+- head turned naturally toward the right side
+- both hands placed inside the front pockets of the dungarees
+- one leg slightly crossed/positioned forward
+- relaxed shoulders
+- natural childlike posture
+- same facial expression
+
+Do not alter the pose or body proportions.
+
+FACE & EXPRESSION:
+Preserve the same soft, innocent, natural childlike expression and exact facial features.
+
+Keep the same:
+- eye shape and direction
+- natural eyebrows
+- nose shape
+- lips
+- cheeks
+- chin
+- facial proportions
+- natural skin tone
+- subtle expression
+
+Do not make the child look older or younger.
+
+HAIR:
+Preserve the same short, soft dark-brown hair with natural volume and slightly wavy/curly texture.
+
+Maintain the exact hairline, fringe, individual strands, volume, length, and direction.
+
+Do not change the hairstyle.
+
+HAT:
+Preserve the same dark navy-blue rounded children's hat.
+
+Maintain:
+- exact hat shape
+- rounded crown
+- curved brim
+- navy-blue color
+- fabric texture
+- realistic seams
+- natural fit on the child's head
+
+Do not replace or remove the hat.
+
+CLOTHING:
+Preserve the exact outfit:
+- white/off-white short-sleeve T-shirt
+- navy-blue horizontal stripes
+- dark navy-blue children's dungaree/overall shorts
+- front bib
+- shoulder straps
+- front buttons
+- large front pockets
+- natural fabric folds
+- realistic stitching and seams
+
+Keep the exact color combination and clothing proportions.
+
+Do not add logos, text, graphics, patterns, or accessories.
+
+SHOES:
+Preserve the same clean white children's sneakers with velcro straps.
+
+Maintain:
+- white color
+- multiple velcro straps
+- rounded toe shape
+- realistic sole
+- subtle blue/navy detail near the ankle
+- natural shoe folds
+- realistic material texture
+
+Do not replace or redesign the shoes.
+
+BACKGROUND:
+Recreate the same minimalist warm beige indoor/studio environment.
+
+Preserve:
+- smooth beige/tan wall
+- light beige floor
+- subtle wall-to-floor transition
+- large potted green plant on the left
+- neutral warm surroundings
+- clean uncluttered composition
+
+PLANT:
+Preserve the large green leafy plant on the left side.
+
+Maintain realistic leaves, stems, natural variations, pot shape, soil, shadows, and placement.
+
+Do not remove or replace the plant.
+
+LIGHTING:
+Soft professional studio/natural window lighting.
+
+Create:
+- warm soft illumination
+- gentle highlights on the child's face and hair
+- subtle shadows
+- realistic clothing shadows
+- soft floor shadow
+- natural light falloff
+- balanced exposure
+- warm neutral tones
+
+Do not overexpose the face or white clothing.
+
+CAMERA & COMPOSITION:
+Professional full-frame DSLR/mirrorless children's fashion portrait photography.
+
+Preserve the vertical full-body composition.
+
+Keep the entire child visible from head to shoes, including the hat, both shoes, plant, floor, and surrounding background.
+
+Natural camera perspective.
+Realistic lens rendering.
+Subtle depth of field.
+Sharp subject.
+Soft background.
+No wide-angle distortion.
+No excessive cropping.
+
+SKIN:
+Natural realistic child skin texture with subtle pores and natural tonal variation.
+
+IMPORTANT:
+Enhance realism only.
+Do NOT alter the original face.
+Do NOT smooth the face excessively.
+Do NOT add makeup.
+Do NOT change skin tone.
+
+FABRIC DETAIL:
+Ultra-realistic cotton and denim textures.
+
+Show detailed:
+- shirt fabric weave
+- horizontal stripe pattern
+- dungaree denim texture
+- stitching
+- seams
+- buttons
+- pocket edges
+- natural wrinkles
+- realistic folds
+
+HAIR DETAIL:
+Individual realistic hair strands, soft curls/waves, natural flyaways, realistic highlights and shadows.
+
+8K ULTRA DETAIL:
+Extremely detailed photorealistic rendering.
+8K resolution appearance.
+Natural skin texture.
+Individual hair strands.
+Detailed hat fabric.
+Detailed shirt stripes.
+Detailed denim fibers.
+Detailed stitching.
+Realistic sneaker materials.
+Detailed plant leaves.
+Realistic pot texture.
+Subtle wall texture.
+Realistic floor texture.
+Natural shadows.
+High dynamic range.
+Professional photographic sharpness.
+
+PHOTOREALISM:
+The final image must look like a real professionally photographed children's fashion portrait, NOT CGI, NOT illustration, NOT cartoon, NOT painting, and NOT an artificial-looking AI image.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO SKIN WHITENING.
+NO EXCESSIVE SKIN SMOOTHING.
+NO PLASTIC SKIN.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT HAT.
+NO DIFFERENT CLOTHING.
+NO DIFFERENT SHOES.
+NO EXTRA PEOPLE.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO DISTORTED FEET.
+NO BODY PROPORTION CHANGE.
+NO ALTERED POSE.
+NO RANDOM ACCESSORIES.
+NO RANDOM TEXT.
+NO LOGOS.
+NO CARTOON EFFECT.
+NO ANIME EFFECT.
+NO CGI LOOK.
+NO PAINTING EFFECT.
+NO EXCESSIVE HDR.
+NO OVERSATURATION.
+NO UNNATURAL COLORS.
+
+FINAL OUTPUT:
+Create an ultra-realistic cinematic 8K recreation of the uploaded reference image while preserving the ORIGINAL CHILD'S FACE AND IDENTITY 100% EXACTLY.
+
+Preserve the exact face, jawline, facial structure, expression, hairstyle, navy-blue hat, striped T-shirt, navy-blue dungarees, white sneakers, pose, plant, beige background, floor, lighting, shadows, framing, and overall composition.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT POSE & BODY PROPORTIONS
+4. EXACT HAIR & EXPRESSION
+5. EXACT HAT, CLOTHING & SHOES
+6. EXACT PLANT & BACKGROUND
+7. EXACT LIGHTING & COMPOSITION
+8. ULTRA-DETAILED 8K PHOTOREALISM
