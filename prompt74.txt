@@ -1,0 +1,288 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE ENTIRE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact vertical portrait composition, full-body framing, camera angle, subject placement, body proportions, pose, facial expression, hairstyle, clothing, sunglasses, jewelry, background, floor, lighting, shadows, colors, fabric textures, and overall traditional editorial photography aesthetic.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACE SHAPE.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT REDESIGN THE FACE.
+DO NOT BEAUTIFY OR ALTER THE CHILD'S NATURAL FEATURES.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+The ORIGINAL CHILD'S FACE must remain exactly recognizable and naturally preserved from the uploaded reference image.
+
+SUBJECT:
+Recreate the same young child standing naturally in the exact position shown in the reference.
+
+Preserve the exact:
+- body proportions
+- height appearance
+- shoulder position
+- head position
+- arm placement
+- hand position
+- leg placement
+- foot placement
+- facial expression
+- natural childlike posture
+
+Do not make the child older or younger.
+
+POSE:
+Maintain the exact relaxed standing pose.
+
+The child is standing barefoot with both feet naturally positioned on the floor, holding the lower edges of the red shirt naturally with both hands.
+
+Keep the same slight body angle, relaxed shoulders, natural arm position, and calm expression.
+
+Do not alter the pose.
+
+HAIR:
+Preserve the same short, thick, naturally curly dark-brown/black hair.
+
+Maintain:
+- exact hairline
+- curl pattern
+- volume
+- length
+- direction
+- individual curls
+- natural flyaway strands
+- realistic shine
+
+Do not change the hairstyle.
+
+CLOTHING — RED SHIRT:
+Preserve the bright red traditional/casual short-sleeve shirt exactly as shown.
+
+Maintain:
+- vivid red color
+- short sleeves
+- open collar
+- partially open front
+- natural buttons
+- realistic fabric sheen
+- soft folds
+- natural wrinkles
+- loose child-sized fit
+- exact shirt length and shape
+
+The shirt must remain visually faithful to the reference.
+
+SUNGLASSES:
+Preserve the sunglasses hanging from the front of the red shirt.
+
+Maintain:
+- exact frame shape
+- dark lenses
+- metallic/golden frame appearance
+- position
+- size
+- realistic reflections
+- natural attachment to the shirt
+
+Do not place the sunglasses on the child's face.
+
+JEWELRY:
+Preserve the subtle gold jewelry visible in the reference:
+- thin gold chain around the neck
+- small bracelet/bangle
+- natural metallic shine
+- exact placement and proportions
+
+Do not add unnecessary jewelry.
+
+TRADITIONAL LOWER OUTFIT:
+Preserve the white/cream traditional dhoti-style garment exactly as shown.
+
+Maintain:
+- white/off-white fabric
+- wide traditional drape
+- golden/yellow border
+- vertical central fold
+- natural pleats
+- realistic fabric texture
+- natural wrinkles
+- correct length
+- golden border around the lower edge
+
+Do not replace the traditional garment with trousers, shorts, or modern clothing.
+
+BAREFOOT:
+Preserve the child's bare feet exactly as shown.
+
+Maintain natural child foot proportions, toes, skin texture, stance, and realistic contact with the floor.
+
+BACKGROUND:
+Recreate the warm rustic brick-wall environment.
+
+Preserve:
+- brown/earth-toned brick wall
+- visible brick pattern
+- slightly aged/rustic texture
+- warm neutral color palette
+- soft background blur
+- dark horizontal floor/wall transition
+- wooden/dark floor surface
+
+Do not add modern objects or clutter.
+
+FLOOR:
+Preserve the dark brown rustic floor beneath the child.
+
+Maintain realistic wood/stone texture, subtle imperfections, soft shadows, and natural contact shadows beneath the feet.
+
+LIGHTING:
+Warm soft cinematic lighting with a subtle golden glow.
+
+Create:
+- natural warm highlights on the hair
+- soft illumination on the face
+- realistic highlights on the red shirt
+- subtle golden reflections on jewelry
+- soft shadows behind the child
+- realistic floor shadows
+- balanced exposure
+- warm traditional editorial atmosphere
+
+Do not overexpose the face or clothing.
+
+CAMERA & COMPOSITION:
+Professional full-frame DSLR/mirrorless portrait photography.
+
+Vertical full-body portrait.
+Subject centered in the frame.
+Head near the upper-middle portion.
+Entire outfit visible.
+Both bare feet visible.
+Natural camera height and perspective matching the reference.
+Realistic lens rendering.
+Subtle depth of field.
+Soft background blur.
+Sharp subject.
+No wide-angle distortion.
+
+SKIN:
+Preserve natural child skin texture and original skin tone.
+
+Realistic pores and subtle natural variation.
+
+IMPORTANT:
+Improve photographic realism WITHOUT changing the original face.
+
+No makeup.
+No skin whitening.
+No artificial beauty enhancement.
+No excessive skin smoothing.
+
+FABRIC DETAIL:
+Extremely realistic textile rendering.
+
+Show:
+- fine red shirt fabric fibers
+- realistic shirt folds
+- buttons
+- collar stitching
+- natural sleeve folds
+- detailed white dhoti fabric
+- individual fabric threads
+- golden border texture
+- realistic pleats and draping
+
+HAIR DETAIL:
+Individual curly hair strands, realistic curls, natural volume, soft highlights, realistic shadows, and subtle flyaways.
+
+JEWELRY DETAIL:
+Highly realistic metallic reflections and fine surface detail while preserving the exact original jewelry placement.
+
+8K ULTRA DETAIL:
+Ultra-realistic 8K photorealism.
+Extremely sharp subject detail.
+Natural skin texture.
+Detailed curly hair.
+Detailed fabric fibers.
+Realistic sunglasses.
+Detailed gold jewelry.
+Realistic brick texture.
+Detailed floor texture.
+Natural shadows.
+High dynamic range.
+Professional editorial photography quality.
+
+PHOTOREALISM:
+The final image must look like a real professionally photographed traditional children's portrait, NOT CGI, NOT illustration, NOT cartoon, NOT painting, and NOT an artificial-looking AI image.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO SKIN WHITENING.
+NO EXCESSIVE SKIN SMOOTHING.
+NO PLASTIC SKIN.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT CLOTHING.
+NO DIFFERENT DHOTI.
+NO DIFFERENT SUNGLASSES.
+NO EXTRA JEWELRY.
+NO SHOES.
+NO EXTRA PEOPLE.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO DISTORTED FEET.
+NO BODY PROPORTION CHANGE.
+NO ALTERED POSE.
+NO RANDOM ACCESSORIES.
+NO RANDOM TEXT.
+NO CARTOON EFFECT.
+NO ANIME EFFECT.
+NO CGI LOOK.
+NO PAINTING EFFECT.
+NO EXCESSIVE HDR.
+NO OVERSATURATION.
+NO UNNATURAL COLORS.
+
+FINAL OUTPUT:
+Create an ultra-realistic cinematic 8K recreation of the uploaded reference image while preserving the ORIGINAL CHILD'S FACE AND IDENTITY 100% EXACTLY.
+
+Preserve the exact face, jawline, facial structure, expression, curly hairstyle, red shirt, sunglasses hanging from the shirt, gold jewelry, traditional white dhoti with golden border, barefoot pose, brick-wall background, rustic floor, lighting, shadows, framing, and overall composition.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT POSE & BODY PROPORTIONS
+4. EXACT CURLY HAIRSTYLE & EXPRESSION
+5. EXACT RED SHIRT & TRADITIONAL DHOTI
+6. EXACT SUNGLASSES & JEWELRY
+7. EXACT BRICK BACKGROUND & LIGHTING
+8. ULTRA-DETAILED 8K PHOTOREALISM
