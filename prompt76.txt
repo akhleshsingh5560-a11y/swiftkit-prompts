@@ -1,0 +1,328 @@
+ULTRA-REALISTIC 8K HIGH-DETAIL IMAGE-TO-IMAGE EDIT — Use the uploaded reference image as the PRIMARY and ONLY visual reference.
+
+RECREATE THE ENTIRE IMAGE AS CLOSELY AS POSSIBLE TO THE REFERENCE IMAGE. Preserve the exact vertical portrait composition, subject placement, pose, body proportions, head angle, facial expression, hairstyle, clothing, jewelry, flowers, background, lighting, colors, glowing atmosphere, depth of field, and overall dreamy cinematic aesthetic.
+
+ABSOLUTE FACE & IDENTITY PRESERVATION — HIGHEST PRIORITY:
+
+NOT FACE WORK 0%
+NOT FACE CHANGE 0%
+KEEP ORIGINAL FACE EXACTLY 100%
+DO NOT CHANGE THE FACE.
+DO NOT TOUCH THE JAWLINE.
+DO NOT MODIFY EYES.
+DO NOT MODIFY EYEBROWS.
+DO NOT MODIFY NOSE.
+DO NOT MODIFY LIPS.
+DO NOT MODIFY CHIN.
+DO NOT MODIFY CHEEKS.
+DO NOT MODIFY CHEEKBONES.
+DO NOT MODIFY FOREHEAD.
+DO NOT MODIFY EARS.
+DO NOT MODIFY FACIAL PROPORTIONS.
+DO NOT CHANGE IDENTITY.
+DO NOT REDESIGN THE FACE.
+DO NOT BEAUTIFY OR ALTER THE NATURAL FACIAL FEATURES.
+NO FACE SWAP.
+NO FACE REGENERATION.
+NO AI-ALTERED FACE.
+NO FACIAL RESHAPING.
+NO JAWLINE ALTERATION.
+
+The ORIGINAL WOMAN'S FACE must remain exactly recognizable and naturally preserved from the uploaded reference image.
+
+SUBJECT:
+Preserve the same woman in the exact centered three-quarter portrait pose.
+
+Maintain:
+- exact facial identity
+- exact head position
+- exact downward gaze
+- exact facial expression
+- exact neck and shoulder proportions
+- exact arm positioning
+- exact hand placement
+- exact body proportions
+
+Do not make the subject older or younger.
+Do not alter her natural body proportions.
+
+POSE:
+Preserve the elegant pose shown in the reference.
+
+The woman is standing gracefully while looking slightly downward toward the lotus bouquet held in front of her body.
+
+One hand gently holds the flower stems while the other hand rests naturally across the bouquet.
+
+Maintain the exact hand positions, arm angles, shoulder posture, and body orientation.
+
+HAIR:
+Preserve the long, straight, dark black hair.
+
+Maintain:
+- exact hair length
+- natural center/soft parting
+- smooth texture
+- realistic individual strands
+- natural volume
+- soft shine
+- exact hairline
+- hair falling naturally behind the shoulders
+
+Do not shorten, curl, recolor, or redesign the hairstyle.
+
+HAIR ACCESSORY:
+Preserve the large white flower positioned beside the woman's hair.
+
+Maintain:
+- large white layered petals
+- realistic flower texture
+- natural center
+- decorative hanging pearl/crystal strands
+- exact position beside the hair
+- delicate sparkle
+
+Do not replace or remove the flower accessory.
+
+FOREHEAD JEWELRY:
+Preserve the delicate jeweled maang tikka/forehead ornament.
+
+Maintain:
+- fine silver/crystal detailing
+- central pendant
+- delicate chain
+- exact placement along the hair parting
+- subtle sparkling reflections
+
+BINDI:
+Preserve the small red bindi exactly at the center of the forehead.
+
+Do not enlarge, remove, or reposition it.
+
+JEWELRY:
+Preserve all visible jewelry exactly as shown.
+
+Include:
+- ornate dangling earrings
+- layered sparkling necklace
+- delicate upper-arm bracelet/armlet
+- pearl/crystal bracelets
+- subtle wrist jewelry
+- fine shimmering decorative details
+
+Maintain realistic metallic and crystal reflections.
+
+Do not add unnecessary jewelry.
+
+OUTFIT:
+Preserve the elegant white/silver-white traditional saree.
+
+The saree must remain:
+- luminous white
+- semi-sheer where appropriate
+- richly embellished
+- covered with fine sparkling embroidery
+- delicate crystal/sequin texture
+- flowing and naturally draped
+- realistic fabric folds
+- soft translucent layers
+
+Preserve the exact draping style and shoulder placement.
+
+The blouse must remain elegant and coordinated with the white saree, with realistic shimmering fabric texture.
+
+Do not change the outfit color.
+Do not replace the saree with a different dress.
+
+LOTUS BOUQUET:
+Preserve the bouquet of white lotus flowers held in front of the woman.
+
+Maintain:
+- multiple white lotus buds and blossoms
+- soft cream-white petals
+- realistic petal layering
+- natural green stems
+- realistic flower proportions
+- exact bouquet placement
+- natural hand interaction
+
+The lotus flowers should look fresh, delicate, and photorealistic.
+
+HANDS:
+Preserve the original hand positions and proportions.
+
+Maintain:
+- natural fingers
+- realistic nails
+- original hand shape
+- delicate red nail color
+- realistic skin texture
+- subtle jewelry
+- natural grip around the lotus stems
+
+Do not create extra fingers.
+Do not deform the hands.
+
+BACKGROUND:
+Recreate the dreamy enchanted forest environment.
+
+Preserve:
+- tall dark tree trunks
+- dense foliage
+- soft mist
+- glowing white light
+- dreamy forest depth
+- scattered white flowers
+- subtle sparkling particles
+- soft luminous atmosphere
+- magical but photorealistic environment
+
+The forest should feel peaceful, elegant, ethereal, and cinematic.
+
+WATER / LOTUS ENVIRONMENT:
+Preserve the subtle watery/lake-like atmosphere around the lower background.
+
+Include delicate white lotus flowers and soft reflections where naturally appropriate.
+
+Do not make the background overly busy.
+
+LIGHTING:
+Create soft ethereal cinematic backlighting.
+
+Use:
+- strong soft white glow behind the subject
+- subtle rim light around hair
+- gentle highlights on the saree
+- sparkling reflections on jewelry
+- soft illumination on the face
+- delicate highlights on lotus petals
+- realistic ambient forest light
+- subtle atmospheric haze
+
+The light should create a heavenly dreamy glow without washing out the face.
+
+Do not overexpose the subject.
+
+SKIN:
+Preserve the original natural skin tone and facial texture.
+
+Maintain:
+- realistic skin pores
+- subtle natural tonal variation
+- delicate highlights
+- realistic facial texture
+
+Enhance photographic detail WITHOUT altering the face.
+
+No skin whitening.
+No excessive smoothing.
+No beauty filter.
+No plastic skin.
+
+SAREE DETAIL:
+Extremely detailed fabric rendering.
+
+Show:
+- individual textile fibers
+- tiny embroidery details
+- crystal/sequin sparkle
+- translucent fabric layers
+- realistic folds
+- natural draping
+- subtle reflections
+- delicate silver-white shimmer
+
+JEWELRY DETAIL:
+Ultra-detailed realistic crystals, pearls, metallic surfaces, gemstones, reflections, and tiny decorative elements.
+
+HAIR DETAIL:
+Individual dark hair strands, realistic shine, natural flyaways, subtle backlighting, and realistic hair texture.
+
+FLOWER DETAIL:
+Highly detailed lotus petals with natural curves, soft translucency, subtle veins, realistic moisture, and natural color variation.
+
+8K ULTRA DETAIL:
+Ultra-realistic 8K photorealism.
+Extreme micro-detail.
+Natural skin texture.
+Individual hair strands.
+Detailed eyelashes.
+Detailed jewelry.
+Detailed saree embroidery.
+Detailed lotus petals.
+Realistic forest foliage.
+Natural atmospheric mist.
+Realistic light scattering.
+High dynamic range.
+Professional luxury fashion photography quality.
+
+CAMERA:
+Professional full-frame DSLR/mirrorless portrait photography.
+
+Vertical composition.
+Medium/full upper-body portrait.
+Natural perspective.
+Sharp facial detail.
+Soft cinematic background bokeh.
+Realistic depth of field.
+Premium lens rendering.
+Natural optical falloff.
+
+PHOTOREALISM:
+The final image must look like a real professionally photographed luxury traditional fashion portrait with a magical cinematic environment, NOT CGI, NOT cartoon, NOT anime, NOT painting, and NOT an artificial-looking AI face.
+
+IMPORTANT NEGATIVE INSTRUCTIONS:
+
+NO FACE CHANGE.
+NO FACE WORK.
+NO FACE REGENERATION.
+NO FACE SWAP.
+NO IDENTITY CHANGE.
+NO JAWLINE CHANGE.
+NO EYE CHANGE.
+NO EYEBROW CHANGE.
+NO NOSE CHANGE.
+NO LIP CHANGE.
+NO CHIN CHANGE.
+NO CHEEK CHANGE.
+NO FACIAL RESHAPING.
+NO BEAUTY FILTER.
+NO SKIN WHITENING.
+NO PLASTIC SKIN.
+NO EXCESSIVE SKIN SMOOTHING.
+NO DIFFERENT HAIRSTYLE.
+NO DIFFERENT HAIR LENGTH.
+NO DIFFERENT JEWELRY.
+NO DIFFERENT SAREE.
+NO DIFFERENT FLOWERS.
+NO DIFFERENT POSE.
+NO BODY PROPORTION CHANGE.
+NO EXTRA PEOPLE.
+NO EXTRA LIMBS.
+NO EXTRA FINGERS.
+NO DEFORMED HANDS.
+NO DISTORTED FLOWERS.
+NO RANDOM ACCESSORIES.
+NO CARTOON EFFECT.
+NO ANIME EFFECT.
+NO CGI LOOK.
+NO PAINTING EFFECT.
+NO EXCESSIVE HDR.
+NO OVERSATURATION.
+NO UNNATURAL SKIN.
+NO RANDOM TEXT.
+NO COMPOSITION CHANGE.
+
+FINAL OUTPUT:
+Create an ultra-realistic cinematic 8K recreation of the uploaded reference image while preserving the ORIGINAL WOMAN'S FACE AND IDENTITY 100% EXACTLY.
+
+Preserve the exact face, jawline, facial structure, downward gaze, long black hair, white flower hair accessory, maang tikka, bindi, jewelry, white shimmering saree, lotus bouquet, hand positions, enchanted forest, glowing backlight, mist, flowers, colors, framing, and overall dreamy luxury aesthetic.
+
+PRIORITY ORDER:
+1. ORIGINAL FACE & IDENTITY — 100% PRESERVED
+2. JAWLINE & FACIAL STRUCTURE — 100% PRESERVED
+3. EXACT POSE & BODY PROPORTIONS
+4. EXACT HAIRSTYLE & HAIR ACCESSORY
+5. EXACT SAREE & JEWELRY
+6. EXACT LOTUS BOUQUET & HAND POSITION
+7. EXACT DREAMY FOREST & LIGHTING
+8. ULTRA-DETAILED 8K photorealism 
